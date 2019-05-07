@@ -1,0 +1,9323 @@
+,sentiments_x4
+0,Not Valid
+1,Not Valid
+2,Not Valid
+3,Not Valid
+4,Not Valid
+5,Not Valid
+6,Not Valid
+7,0.2551038861274719
+8,Not Valid
+9,Not Valid
+10,Not Valid
+11,Not Valid
+12,Not Valid
+13,0.7015327215194702
+14,Not Valid
+15,Not Valid
+16,Not Valid
+17,0.24969273805618286
+18,Not Valid
+19,Not Valid
+20,0.5
+21,Not Valid
+22,Not Valid
+23,Not Valid
+24,Not Valid
+25,Not Valid
+26,Not Valid
+27,Not Valid
+28,Not Valid
+29,Not Valid
+30,Not Valid
+31,Not Valid
+32,Not Valid
+33,Not Valid
+34,Not Valid
+35,Not Valid
+36,0.06725990772247314
+37,Not Valid
+38,Not Valid
+39,Not Valid
+40,Not Valid
+41,Not Valid
+42,Not Valid
+43,Not Valid
+44,Not Valid
+45,Not Valid
+46,Not Valid
+47,0.27330347895622253
+48,0.5
+49,Not Valid
+50,Not Valid
+51,0.830514132976532
+52,0.13357192277908325
+53,0.12825405597686768
+54,Not Valid
+55,Not Valid
+56,Not Valid
+57,Not Valid
+58,Not Valid
+59,Not Valid
+60,Not Valid
+61,Not Valid
+62,Not Valid
+63,Not Valid
+64,0.2279311716556549
+65,Not Valid
+66,0.8899252414703369
+67,Not Valid
+68,Not Valid
+69,Not Valid
+70,Not Valid
+71,Not Valid
+72,Not Valid
+73,Not Valid
+74,Not Valid
+75,Not Valid
+76,0.8182200789451599
+77,Not Valid
+78,Not Valid
+79,Not Valid
+80,Not Valid
+81,Not Valid
+82,0.7151545882225037
+83,0.10248258709907532
+84,0.7023335695266724
+85,0.09173977375030518
+86,Not Valid
+87,0.16246524453163147
+88,0.11090251803398132
+89,Not Valid
+90,Not Valid
+91,0.26034051179885864
+92,0.5
+93,Not Valid
+94,0.9809353947639465
+95,Not Valid
+96,0.13652640581130981
+97,Not Valid
+98,Not Valid
+99,0.5
+100,Not Valid
+101,Not Valid
+102,Not Valid
+103,0.1619647741317749
+104,Not Valid
+105,Not Valid
+106,0.7610534429550171
+107,Not Valid
+108,Not Valid
+109,0.2586708962917328
+110,Not Valid
+111,Not Valid
+112,Not Valid
+113,Not Valid
+114,Not Valid
+115,Not Valid
+116,0.7263826727867126
+117,Not Valid
+118,Not Valid
+119,Not Valid
+120,Not Valid
+121,Not Valid
+122,Not Valid
+123,Not Valid
+124,Not Valid
+125,Not Valid
+126,Not Valid
+127,0.5
+128,Not Valid
+129,Not Valid
+130,Not Valid
+131,Not Valid
+132,Not Valid
+133,Not Valid
+134,0.7656159996986389
+135,Not Valid
+136,Not Valid
+137,Not Valid
+138,Not Valid
+139,Not Valid
+140,Not Valid
+141,0.932923436164856
+142,0.02264612913131714
+143,Not Valid
+144,Not Valid
+145,Not Valid
+146,Not Valid
+147,Not Valid
+148,Not Valid
+149,Not Valid
+150,Not Valid
+151,Not Valid
+152,Not Valid
+153,Not Valid
+154,Not Valid
+155,Not Valid
+156,Not Valid
+157,Not Valid
+158,Not Valid
+159,Not Valid
+160,Not Valid
+161,Not Valid
+162,Not Valid
+163,0.7418226003646851
+164,0.8626846671104431
+165,Not Valid
+166,Not Valid
+167,Not Valid
+168,Not Valid
+169,0.5
+170,Not Valid
+171,Not Valid
+172,Not Valid
+173,Not Valid
+174,Not Valid
+175,0.5
+176,Not Valid
+177,Not Valid
+178,Not Valid
+179,Not Valid
+180,Not Valid
+181,Not Valid
+182,Not Valid
+183,Not Valid
+184,Not Valid
+185,Not Valid
+186,Not Valid
+187,0.7637555599212646
+188,0.2580183446407318
+189,Not Valid
+190,Not Valid
+191,Not Valid
+192,0.5
+193,Not Valid
+194,Not Valid
+195,0.7119972705841064
+196,0.2219771146774292
+197,Not Valid
+198,Not Valid
+199,Not Valid
+200,Not Valid
+201,Not Valid
+202,Not Valid
+203,Not Valid
+204,Not Valid
+205,0.5
+206,Not Valid
+207,Not Valid
+208,Not Valid
+209,Not Valid
+210,Not Valid
+211,0.723128616809845
+212,Not Valid
+213,Not Valid
+214,Not Valid
+215,Not Valid
+216,0.8445360660552979
+217,Not Valid
+218,Not Valid
+219,Not Valid
+220,Not Valid
+221,Not Valid
+222,Not Valid
+223,Not Valid
+224,Not Valid
+225,Not Valid
+226,Not Valid
+227,Not Valid
+228,Not Valid
+229,0.8890727758407593
+230,Not Valid
+231,Not Valid
+232,Not Valid
+233,Not Valid
+234,Not Valid
+235,Not Valid
+236,Not Valid
+237,Not Valid
+238,Not Valid
+239,Not Valid
+240,Not Valid
+241,Not Valid
+242,Not Valid
+243,Not Valid
+244,Not Valid
+245,Not Valid
+246,Not Valid
+247,Not Valid
+248,Not Valid
+249,0.9129973649978638
+250,Not Valid
+251,Not Valid
+252,Not Valid
+253,Not Valid
+254,Not Valid
+255,Not Valid
+256,Not Valid
+257,Not Valid
+258,Not Valid
+259,Not Valid
+260,0.9617936015129089
+261,0.7508955597877502
+262,Not Valid
+263,Not Valid
+264,0.018705695867538452
+265,Not Valid
+266,Not Valid
+267,0.9526970386505127
+268,0.5
+269,Not Valid
+270,Not Valid
+271,Not Valid
+272,Not Valid
+273,Not Valid
+274,Not Valid
+275,Not Valid
+276,Not Valid
+277,Not Valid
+278,Not Valid
+279,Not Valid
+280,Not Valid
+281,Not Valid
+282,Not Valid
+283,Not Valid
+284,Not Valid
+285,0.1453963816165924
+286,Not Valid
+287,Not Valid
+288,Not Valid
+289,Not Valid
+290,Not Valid
+291,0.839682936668396
+292,0.5
+293,0.9279406070709229
+294,0.0979762077331543
+295,Not Valid
+296,0.6961717009544373
+297,Not Valid
+298,0.003919035196304321
+299,Not Valid
+300,Not Valid
+301,Not Valid
+302,Not Valid
+303,Not Valid
+304,Not Valid
+305,Not Valid
+306,Not Valid
+307,Not Valid
+308,Not Valid
+309,Not Valid
+310,0.9418245553970337
+311,Not Valid
+312,Not Valid
+313,Not Valid
+314,Not Valid
+315,Not Valid
+316,Not Valid
+317,Not Valid
+318,Not Valid
+319,Not Valid
+320,Not Valid
+321,Not Valid
+322,0.9024548530578613
+323,Not Valid
+324,Not Valid
+325,Not Valid
+326,Not Valid
+327,Not Valid
+328,Not Valid
+329,Not Valid
+330,Not Valid
+331,Not Valid
+332,Not Valid
+333,Not Valid
+334,Not Valid
+335,Not Valid
+336,Not Valid
+337,0.011386960744857788
+338,Not Valid
+339,0.8386111259460449
+340,Not Valid
+341,Not Valid
+342,Not Valid
+343,Not Valid
+344,0.060961514711380005
+345,Not Valid
+346,Not Valid
+347,0.1519981026649475
+348,Not Valid
+349,Not Valid
+350,Not Valid
+351,Not Valid
+352,Not Valid
+353,Not Valid
+354,Not Valid
+355,Not Valid
+356,Not Valid
+357,Not Valid
+358,Not Valid
+359,0.5
+360,0.0492607057094574
+361,0.203925222158432
+362,Not Valid
+363,Not Valid
+364,0.23090535402297974
+365,Not Valid
+366,Not Valid
+367,0.8603106737136841
+368,Not Valid
+369,Not Valid
+370,Not Valid
+371,Not Valid
+372,Not Valid
+373,0.76728355884552
+374,Not Valid
+375,Not Valid
+376,Not Valid
+377,Not Valid
+378,Not Valid
+379,Not Valid
+380,Not Valid
+381,Not Valid
+382,Not Valid
+383,0.10016268491744995
+384,0.7334688305854797
+385,Not Valid
+386,Not Valid
+387,Not Valid
+388,0.17361152172088623
+389,Not Valid
+390,Not Valid
+391,Not Valid
+392,0.1004473865032196
+393,Not Valid
+394,0.1280389428138733
+395,Not Valid
+396,0.8458244800567627
+397,0.5
+398,Not Valid
+399,Not Valid
+400,Not Valid
+401,Not Valid
+402,Not Valid
+403,Not Valid
+404,Not Valid
+405,Not Valid
+406,Not Valid
+407,0.5
+408,Not Valid
+409,Not Valid
+410,Not Valid
+411,0.5
+412,Not Valid
+413,Not Valid
+414,Not Valid
+415,Not Valid
+416,Not Valid
+417,Not Valid
+418,0.24919819831848145
+419,Not Valid
+420,Not Valid
+421,Not Valid
+422,Not Valid
+423,Not Valid
+424,Not Valid
+425,Not Valid
+426,Not Valid
+427,0.5
+428,0.7310753464698792
+429,Not Valid
+430,Not Valid
+431,Not Valid
+432,0.12610343098640442
+433,0.09214314818382263
+434,Not Valid
+435,Not Valid
+436,Not Valid
+437,Not Valid
+438,Not Valid
+439,Not Valid
+440,Not Valid
+441,Not Valid
+442,0.5
+443,Not Valid
+444,Not Valid
+445,Not Valid
+446,Not Valid
+447,Not Valid
+448,0.10009899735450745
+449,Not Valid
+450,Not Valid
+451,Not Valid
+452,Not Valid
+453,Not Valid
+454,Not Valid
+455,Not Valid
+456,Not Valid
+457,Not Valid
+458,Not Valid
+459,0.9277143478393555
+460,Not Valid
+461,Not Valid
+462,Not Valid
+463,0.20398476719856262
+464,Not Valid
+465,0.5
+466,0.2659621238708496
+467,Not Valid
+468,0.5
+469,Not Valid
+470,Not Valid
+471,Not Valid
+472,Not Valid
+473,Not Valid
+474,Not Valid
+475,Not Valid
+476,Not Valid
+477,0.7860023975372314
+478,Not Valid
+479,Not Valid
+480,Not Valid
+481,Not Valid
+482,0.26556161046028137
+483,Not Valid
+484,0.15828466415405273
+485,Not Valid
+486,Not Valid
+487,0.7947009205818176
+488,Not Valid
+489,Not Valid
+490,Not Valid
+491,0.10234007239341736
+492,0.5
+493,Not Valid
+494,0.14230063557624817
+495,Not Valid
+496,Not Valid
+497,0.0043049156665802
+498,Not Valid
+499,Not Valid
+500,Not Valid
+501,0.5
+502,Not Valid
+503,Not Valid
+504,Not Valid
+505,Not Valid
+506,0.20999526977539062
+507,0.06405946612358093
+508,Not Valid
+509,Not Valid
+510,Not Valid
+511,0.5
+512,0.10499987006187439
+513,Not Valid
+514,0.05191633105278015
+515,Not Valid
+516,Not Valid
+517,Not Valid
+518,Not Valid
+519,Not Valid
+520,0.10349056124687195
+521,0.8825353980064392
+522,Not Valid
+523,0.5
+524,Not Valid
+525,Not Valid
+526,Not Valid
+527,Not Valid
+528,Not Valid
+529,Not Valid
+530,Not Valid
+531,Not Valid
+532,Not Valid
+533,Not Valid
+534,Not Valid
+535,Not Valid
+536,0.022169381380081177
+537,Not Valid
+538,Not Valid
+539,Not Valid
+540,Not Valid
+541,Not Valid
+542,0.16969716548919678
+543,0.9929267168045044
+544,Not Valid
+545,Not Valid
+546,Not Valid
+547,0.1665440797805786
+548,Not Valid
+549,Not Valid
+550,Not Valid
+551,Not Valid
+552,Not Valid
+553,Not Valid
+554,0.05907884240150452
+555,Not Valid
+556,Not Valid
+557,Not Valid
+558,Not Valid
+559,Not Valid
+560,Not Valid
+561,0.8961189985275269
+562,Not Valid
+563,Not Valid
+564,Not Valid
+565,Not Valid
+566,0.8649768829345703
+567,Not Valid
+568,Not Valid
+569,Not Valid
+570,Not Valid
+571,0.8290553092956543
+572,0.30481112003326416
+573,Not Valid
+574,Not Valid
+575,Not Valid
+576,Not Valid
+577,0.05783355236053467
+578,Not Valid
+579,0.7481303215026855
+580,Not Valid
+581,Not Valid
+582,Not Valid
+583,Not Valid
+584,0.5
+585,Not Valid
+586,Not Valid
+587,Not Valid
+588,Not Valid
+589,Not Valid
+590,0.3043428063392639
+591,Not Valid
+592,Not Valid
+593,Not Valid
+594,Not Valid
+595,0.099028080701828
+596,Not Valid
+597,Not Valid
+598,Not Valid
+599,Not Valid
+600,Not Valid
+601,0.1218641996383667
+602,Not Valid
+603,Not Valid
+604,Not Valid
+605,Not Valid
+606,Not Valid
+607,Not Valid
+608,0.5
+609,0.871985673904419
+610,Not Valid
+611,0.26333558559417725
+612,0.06243109703063965
+613,Not Valid
+614,Not Valid
+615,0.5
+616,Not Valid
+617,0.9717051982879639
+618,0.5
+619,Not Valid
+620,Not Valid
+621,Not Valid
+622,Not Valid
+623,Not Valid
+624,Not Valid
+625,Not Valid
+626,Not Valid
+627,0.1531108021736145
+628,Not Valid
+629,Not Valid
+630,Not Valid
+631,Not Valid
+632,Not Valid
+633,Not Valid
+634,Not Valid
+635,Not Valid
+636,0.0621969997882843
+637,0.5
+638,Not Valid
+639,0.01158374547958374
+640,Not Valid
+641,Not Valid
+642,Not Valid
+643,Not Valid
+644,0.03437262773513794
+645,0.16106614470481873
+646,Not Valid
+647,Not Valid
+648,Not Valid
+649,Not Valid
+650,Not Valid
+651,Not Valid
+652,Not Valid
+653,Not Valid
+654,Not Valid
+655,0.0922318696975708
+656,Not Valid
+657,Not Valid
+658,Not Valid
+659,Not Valid
+660,Not Valid
+661,Not Valid
+662,0.07416421175003052
+663,Not Valid
+664,Not Valid
+665,Not Valid
+666,Not Valid
+667,Not Valid
+668,0.19622012972831726
+669,Not Valid
+670,0.028309762477874756
+671,Not Valid
+672,Not Valid
+673,Not Valid
+674,Not Valid
+675,Not Valid
+676,0.3129193186759949
+677,Not Valid
+678,Not Valid
+679,Not Valid
+680,0.5
+681,0.5
+682,Not Valid
+683,0.05707332491874695
+684,Not Valid
+685,Not Valid
+686,Not Valid
+687,Not Valid
+688,Not Valid
+689,Not Valid
+690,Not Valid
+691,Not Valid
+692,Not Valid
+693,Not Valid
+694,Not Valid
+695,0.9322023987770081
+696,Not Valid
+697,Not Valid
+698,0.5
+699,Not Valid
+700,0.8044925928115845
+701,Not Valid
+702,Not Valid
+703,Not Valid
+704,0.7577389478683472
+705,Not Valid
+706,Not Valid
+707,Not Valid
+708,Not Valid
+709,Not Valid
+710,Not Valid
+711,Not Valid
+712,Not Valid
+713,0.12428778409957886
+714,Not Valid
+715,Not Valid
+716,0.8389432430267334
+717,Not Valid
+718,Not Valid
+719,Not Valid
+720,Not Valid
+721,Not Valid
+722,Not Valid
+723,Not Valid
+724,Not Valid
+725,Not Valid
+726,Not Valid
+727,Not Valid
+728,Not Valid
+729,0.5
+730,Not Valid
+731,Not Valid
+732,0.9913992881774902
+733,Not Valid
+734,Not Valid
+735,Not Valid
+736,Not Valid
+737,0.8177554607391357
+738,Not Valid
+739,0.9468684196472168
+740,Not Valid
+741,Not Valid
+742,Not Valid
+743,0.12737786769866943
+744,Not Valid
+745,Not Valid
+746,Not Valid
+747,Not Valid
+748,0.05236038565635681
+749,Not Valid
+750,Not Valid
+751,Not Valid
+752,0.028759390115737915
+753,Not Valid
+754,Not Valid
+755,Not Valid
+756,Not Valid
+757,Not Valid
+758,0.20982176065444946
+759,Not Valid
+760,0.7950848340988159
+761,0.8395627737045288
+762,0.01810583472251892
+763,Not Valid
+764,0.23681184649467468
+765,Not Valid
+766,Not Valid
+767,Not Valid
+768,Not Valid
+769,Not Valid
+770,Not Valid
+771,0.04844406247138977
+772,Not Valid
+773,Not Valid
+774,0.25506114959716797
+775,Not Valid
+776,Not Valid
+777,Not Valid
+778,Not Valid
+779,Not Valid
+780,Not Valid
+781,0.27191630005836487
+782,Not Valid
+783,Not Valid
+784,Not Valid
+785,Not Valid
+786,Not Valid
+787,Not Valid
+788,Not Valid
+789,Not Valid
+790,Not Valid
+791,Not Valid
+792,Not Valid
+793,Not Valid
+794,Not Valid
+795,0.07261329889297485
+796,Not Valid
+797,0.7138768434524536
+798,0.10573059320449829
+799,Not Valid
+800,0.05874112248420715
+801,Not Valid
+802,0.3012457489967346
+803,Not Valid
+804,Not Valid
+805,Not Valid
+806,Not Valid
+807,0.1756439507007599
+808,Not Valid
+809,Not Valid
+810,Not Valid
+811,Not Valid
+812,Not Valid
+813,Not Valid
+814,Not Valid
+815,Not Valid
+816,0.12207719683647156
+817,Not Valid
+818,0.5
+819,Not Valid
+820,Not Valid
+821,Not Valid
+822,Not Valid
+823,0.5
+824,Not Valid
+825,Not Valid
+826,Not Valid
+827,Not Valid
+828,Not Valid
+829,Not Valid
+830,Not Valid
+831,Not Valid
+832,Not Valid
+833,Not Valid
+834,Not Valid
+835,0.9082542061805725
+836,Not Valid
+837,0.08622714877128601
+838,Not Valid
+839,Not Valid
+840,Not Valid
+841,Not Valid
+842,Not Valid
+843,Not Valid
+844,Not Valid
+845,Not Valid
+846,0.09456530213356018
+847,Not Valid
+848,Not Valid
+849,Not Valid
+850,Not Valid
+851,Not Valid
+852,Not Valid
+853,Not Valid
+854,Not Valid
+855,Not Valid
+856,Not Valid
+857,Not Valid
+858,Not Valid
+859,Not Valid
+860,Not Valid
+861,Not Valid
+862,Not Valid
+863,0.8893422484397888
+864,Not Valid
+865,0.24958765506744385
+866,Not Valid
+867,Not Valid
+868,Not Valid
+869,Not Valid
+870,Not Valid
+871,Not Valid
+872,Not Valid
+873,Not Valid
+874,Not Valid
+875,Not Valid
+876,Not Valid
+877,Not Valid
+878,Not Valid
+879,0.7757110595703125
+880,Not Valid
+881,Not Valid
+882,Not Valid
+883,0.831605076789856
+884,0.037592411041259766
+885,Not Valid
+886,Not Valid
+887,Not Valid
+888,Not Valid
+889,Not Valid
+890,Not Valid
+891,Not Valid
+892,Not Valid
+893,Not Valid
+894,Not Valid
+895,Not Valid
+896,Not Valid
+897,Not Valid
+898,Not Valid
+899,Not Valid
+900,0.09089195728302002
+901,Not Valid
+902,Not Valid
+903,Not Valid
+904,Not Valid
+905,0.5
+906,Not Valid
+907,Not Valid
+908,Not Valid
+909,Not Valid
+910,0.12690672278404236
+911,Not Valid
+912,Not Valid
+913,Not Valid
+914,Not Valid
+915,Not Valid
+916,Not Valid
+917,Not Valid
+918,Not Valid
+919,Not Valid
+920,Not Valid
+921,Not Valid
+922,Not Valid
+923,0.8201181292533875
+924,Not Valid
+925,Not Valid
+926,Not Valid
+927,0.22054585814476013
+928,Not Valid
+929,Not Valid
+930,Not Valid
+931,0.7714709043502808
+932,Not Valid
+933,Not Valid
+934,Not Valid
+935,Not Valid
+936,Not Valid
+937,Not Valid
+938,Not Valid
+939,Not Valid
+940,Not Valid
+941,Not Valid
+942,Not Valid
+943,Not Valid
+944,Not Valid
+945,0.1299723982810974
+946,Not Valid
+947,Not Valid
+948,Not Valid
+949,Not Valid
+950,Not Valid
+951,Not Valid
+952,Not Valid
+953,0.11106598377227783
+954,Not Valid
+955,Not Valid
+956,Not Valid
+957,Not Valid
+958,0.7477798461914062
+959,Not Valid
+960,Not Valid
+961,0.017485707998275757
+962,Not Valid
+963,Not Valid
+964,Not Valid
+965,Not Valid
+966,0.05019870400428772
+967,0.2741907238960266
+968,Not Valid
+969,Not Valid
+970,Not Valid
+971,Not Valid
+972,Not Valid
+973,Not Valid
+974,Not Valid
+975,Not Valid
+976,0.09529003500938416
+977,0.28505194187164307
+978,Not Valid
+979,0.5
+980,Not Valid
+981,0.16455724835395813
+982,Not Valid
+983,Not Valid
+984,Not Valid
+985,0.09034314751625061
+986,0.7599741220474243
+987,0.07847341895103455
+988,Not Valid
+989,0.7547340393066406
+990,0.5
+991,Not Valid
+992,0.5
+993,0.1084001362323761
+994,0.8237603902816772
+995,Not Valid
+996,0.5
+997,Not Valid
+998,Not Valid
+999,Not Valid
+1000,Not Valid
+1001,Not Valid
+1002,Not Valid
+1003,Not Valid
+1004,Not Valid
+1005,0.15012308955192566
+1006,0.2553750276565552
+1007,Not Valid
+1008,Not Valid
+1009,Not Valid
+1010,Not Valid
+1011,0.8174699544906616
+1012,Not Valid
+1013,Not Valid
+1014,Not Valid
+1015,Not Valid
+1016,Not Valid
+1017,0.11628174781799316
+1018,Not Valid
+1019,Not Valid
+1020,Not Valid
+1021,Not Valid
+1022,Not Valid
+1023,Not Valid
+1024,0.26174449920654297
+1025,Not Valid
+1026,Not Valid
+1027,0.7754607200622559
+1028,Not Valid
+1029,Not Valid
+1030,Not Valid
+1031,Not Valid
+1032,0.763653039932251
+1033,0.9340591430664062
+1034,Not Valid
+1035,Not Valid
+1036,Not Valid
+1037,Not Valid
+1038,0.0052335262298583984
+1039,Not Valid
+1040,Not Valid
+1041,Not Valid
+1042,Not Valid
+1043,Not Valid
+1044,Not Valid
+1045,0.011381089687347412
+1046,Not Valid
+1047,Not Valid
+1048,Not Valid
+1049,0.7516369819641113
+1050,Not Valid
+1051,0.2327396273612976
+1052,Not Valid
+1053,Not Valid
+1054,Not Valid
+1055,Not Valid
+1056,Not Valid
+1057,Not Valid
+1058,Not Valid
+1059,Not Valid
+1060,Not Valid
+1061,Not Valid
+1062,Not Valid
+1063,Not Valid
+1064,Not Valid
+1065,Not Valid
+1066,Not Valid
+1067,Not Valid
+1068,0.21683427691459656
+1069,0.5
+1070,Not Valid
+1071,0.7052695751190186
+1072,Not Valid
+1073,Not Valid
+1074,Not Valid
+1075,Not Valid
+1076,0.10272666811943054
+1077,Not Valid
+1078,Not Valid
+1079,0.15336397290229797
+1080,0.9472330212593079
+1081,Not Valid
+1082,Not Valid
+1083,Not Valid
+1084,Not Valid
+1085,Not Valid
+1086,Not Valid
+1087,Not Valid
+1088,Not Valid
+1089,0.5
+1090,Not Valid
+1091,Not Valid
+1092,Not Valid
+1093,Not Valid
+1094,0.15776628255844116
+1095,0.08321988582611084
+1096,0.03680449724197388
+1097,Not Valid
+1098,Not Valid
+1099,Not Valid
+1100,Not Valid
+1101,Not Valid
+1102,Not Valid
+1103,Not Valid
+1104,Not Valid
+1105,Not Valid
+1106,Not Valid
+1107,Not Valid
+1108,0.14952006936073303
+1109,0.8394099473953247
+1110,0.5
+1111,Not Valid
+1112,Not Valid
+1113,Not Valid
+1114,0.1710500717163086
+1115,Not Valid
+1116,Not Valid
+1117,0.29358431696891785
+1118,Not Valid
+1119,Not Valid
+1120,Not Valid
+1121,Not Valid
+1122,0.5
+1123,Not Valid
+1124,Not Valid
+1125,0.26458054780960083
+1126,Not Valid
+1127,Not Valid
+1128,Not Valid
+1129,Not Valid
+1130,0.2001786231994629
+1131,Not Valid
+1132,Not Valid
+1133,Not Valid
+1134,Not Valid
+1135,Not Valid
+1136,0.11342841386795044
+1137,Not Valid
+1138,Not Valid
+1139,Not Valid
+1140,Not Valid
+1141,Not Valid
+1142,Not Valid
+1143,0.8070893287658691
+1144,Not Valid
+1145,Not Valid
+1146,0.17379367351531982
+1147,Not Valid
+1148,Not Valid
+1149,Not Valid
+1150,Not Valid
+1151,Not Valid
+1152,Not Valid
+1153,Not Valid
+1154,0.5
+1155,Not Valid
+1156,Not Valid
+1157,Not Valid
+1158,Not Valid
+1159,Not Valid
+1160,Not Valid
+1161,Not Valid
+1162,Not Valid
+1163,Not Valid
+1164,Not Valid
+1165,Not Valid
+1166,0.2444009780883789
+1167,Not Valid
+1168,Not Valid
+1169,0.7606855630874634
+1170,0.08145955204963684
+1171,Not Valid
+1172,Not Valid
+1173,Not Valid
+1174,Not Valid
+1175,Not Valid
+1176,0.17268106341362
+1177,Not Valid
+1178,Not Valid
+1179,Not Valid
+1180,Not Valid
+1181,Not Valid
+1182,Not Valid
+1183,0.0981069803237915
+1184,0.13304007053375244
+1185,0.015732288360595703
+1186,Not Valid
+1187,Not Valid
+1188,Not Valid
+1189,Not Valid
+1190,Not Valid
+1191,Not Valid
+1192,Not Valid
+1193,Not Valid
+1194,Not Valid
+1195,Not Valid
+1196,0.8633382320404053
+1197,Not Valid
+1198,Not Valid
+1199,Not Valid
+1200,Not Valid
+1201,Not Valid
+1202,Not Valid
+1203,Not Valid
+1204,Not Valid
+1205,0.12422922253608704
+1206,Not Valid
+1207,0.7891143560409546
+1208,Not Valid
+1209,0.8337382078170776
+1210,0.9049305319786072
+1211,Not Valid
+1212,Not Valid
+1213,Not Valid
+1214,Not Valid
+1215,Not Valid
+1216,0.07178431749343872
+1217,Not Valid
+1218,Not Valid
+1219,Not Valid
+1220,Not Valid
+1221,Not Valid
+1222,Not Valid
+1223,Not Valid
+1224,Not Valid
+1225,Not Valid
+1226,0.048233240842819214
+1227,Not Valid
+1228,Not Valid
+1229,Not Valid
+1230,Not Valid
+1231,0.3172539472579956
+1232,Not Valid
+1233,0.7940022945404053
+1234,Not Valid
+1235,Not Valid
+1236,Not Valid
+1237,0.5
+1238,Not Valid
+1239,Not Valid
+1240,0.040071040391922
+1241,0.1837053894996643
+1242,Not Valid
+1243,Not Valid
+1244,Not Valid
+1245,Not Valid
+1246,Not Valid
+1247,0.1143675148487091
+1248,0.19628426432609558
+1249,Not Valid
+1250,Not Valid
+1251,Not Valid
+1252,Not Valid
+1253,Not Valid
+1254,Not Valid
+1255,Not Valid
+1256,Not Valid
+1257,Not Valid
+1258,Not Valid
+1259,Not Valid
+1260,Not Valid
+1261,Not Valid
+1262,Not Valid
+1263,Not Valid
+1264,Not Valid
+1265,Not Valid
+1266,Not Valid
+1267,Not Valid
+1268,Not Valid
+1269,Not Valid
+1270,0.033718377351760864
+1271,Not Valid
+1272,0.8192290663719177
+1273,Not Valid
+1274,Not Valid
+1275,Not Valid
+1276,Not Valid
+1277,0.8644174337387085
+1278,Not Valid
+1279,Not Valid
+1280,Not Valid
+1281,Not Valid
+1282,Not Valid
+1283,Not Valid
+1284,Not Valid
+1285,Not Valid
+1286,Not Valid
+1287,Not Valid
+1288,Not Valid
+1289,Not Valid
+1290,Not Valid
+1291,Not Valid
+1292,Not Valid
+1293,Not Valid
+1294,Not Valid
+1295,Not Valid
+1296,Not Valid
+1297,Not Valid
+1298,Not Valid
+1299,Not Valid
+1300,Not Valid
+1301,Not Valid
+1302,0.2551038861274719
+1303,Not Valid
+1304,Not Valid
+1305,Not Valid
+1306,Not Valid
+1307,Not Valid
+1308,Not Valid
+1309,Not Valid
+1310,Not Valid
+1311,Not Valid
+1312,0.10336267948150635
+1313,Not Valid
+1314,Not Valid
+1315,Not Valid
+1316,0.19489726424217224
+1317,Not Valid
+1318,Not Valid
+1319,Not Valid
+1320,Not Valid
+1321,Not Valid
+1322,Not Valid
+1323,Not Valid
+1324,Not Valid
+1325,Not Valid
+1326,Not Valid
+1327,Not Valid
+1328,Not Valid
+1329,Not Valid
+1330,Not Valid
+1331,Not Valid
+1332,Not Valid
+1333,Not Valid
+1334,Not Valid
+1335,Not Valid
+1336,Not Valid
+1337,Not Valid
+1338,0.23072415590286255
+1339,0.1611361801624298
+1340,Not Valid
+1341,Not Valid
+1342,Not Valid
+1343,Not Valid
+1344,Not Valid
+1345,0.5
+1346,0.5
+1347,Not Valid
+1348,Not Valid
+1349,Not Valid
+1350,Not Valid
+1351,0.09289515018463135
+1352,Not Valid
+1353,0.2003559172153473
+1354,0.7600042223930359
+1355,Not Valid
+1356,0.7146594524383545
+1357,Not Valid
+1358,Not Valid
+1359,Not Valid
+1360,Not Valid
+1361,Not Valid
+1362,Not Valid
+1363,0.2454599142074585
+1364,Not Valid
+1365,Not Valid
+1366,Not Valid
+1367,0.7390408515930176
+1368,Not Valid
+1369,0.1483718454837799
+1370,Not Valid
+1371,Not Valid
+1372,Not Valid
+1373,0.7597422003746033
+1374,0.7733606696128845
+1375,Not Valid
+1376,0.7542567253112793
+1377,Not Valid
+1378,Not Valid
+1379,Not Valid
+1380,Not Valid
+1381,Not Valid
+1382,Not Valid
+1383,0.2860913872718811
+1384,Not Valid
+1385,Not Valid
+1386,Not Valid
+1387,Not Valid
+1388,Not Valid
+1389,Not Valid
+1390,0.1324157416820526
+1391,Not Valid
+1392,Not Valid
+1393,Not Valid
+1394,0.7600463628768921
+1395,0.9275896549224854
+1396,Not Valid
+1397,Not Valid
+1398,0.15152081847190857
+1399,Not Valid
+1400,Not Valid
+1401,Not Valid
+1402,Not Valid
+1403,0.8975709676742554
+1404,Not Valid
+1405,Not Valid
+1406,Not Valid
+1407,Not Valid
+1408,Not Valid
+1409,0.7045382261276245
+1410,Not Valid
+1411,Not Valid
+1412,Not Valid
+1413,Not Valid
+1414,Not Valid
+1415,Not Valid
+1416,Not Valid
+1417,Not Valid
+1418,Not Valid
+1419,Not Valid
+1420,Not Valid
+1421,0.6705722808837891
+1422,Not Valid
+1423,Not Valid
+1424,Not Valid
+1425,Not Valid
+1426,0.16798508167266846
+1427,Not Valid
+1428,0.1555820107460022
+1429,Not Valid
+1430,Not Valid
+1431,0.018347591161727905
+1432,Not Valid
+1433,0.8748425245285034
+1434,Not Valid
+1435,0.1963510811328888
+1436,0.7509902715682983
+1437,Not Valid
+1438,0.14122208952903748
+1439,Not Valid
+1440,Not Valid
+1441,0.10003608465194702
+1442,0.5
+1443,Not Valid
+1444,Not Valid
+1445,Not Valid
+1446,Not Valid
+1447,Not Valid
+1448,0.10380765795707703
+1449,Not Valid
+1450,Not Valid
+1451,Not Valid
+1452,0.5
+1453,Not Valid
+1454,Not Valid
+1455,Not Valid
+1456,Not Valid
+1457,0.15984776616096497
+1458,Not Valid
+1459,Not Valid
+1460,Not Valid
+1461,0.19380897283554077
+1462,0.03001880645751953
+1463,Not Valid
+1464,Not Valid
+1465,0.7081500291824341
+1466,Not Valid
+1467,Not Valid
+1468,0.022028416395187378
+1469,Not Valid
+1470,Not Valid
+1471,Not Valid
+1472,Not Valid
+1473,Not Valid
+1474,Not Valid
+1475,Not Valid
+1476,Not Valid
+1477,Not Valid
+1478,0.2034623622894287
+1479,0.7518811225891113
+1480,Not Valid
+1481,Not Valid
+1482,Not Valid
+1483,Not Valid
+1484,Not Valid
+1485,Not Valid
+1486,0.2544803023338318
+1487,0.09463080763816833
+1488,Not Valid
+1489,0.7130301594734192
+1490,Not Valid
+1491,Not Valid
+1492,Not Valid
+1493,0.5
+1494,Not Valid
+1495,Not Valid
+1496,0.08893609046936035
+1497,Not Valid
+1498,Not Valid
+1499,Not Valid
+1500,Not Valid
+1501,0.07542407512664795
+1502,Not Valid
+1503,Not Valid
+1504,Not Valid
+1505,Not Valid
+1506,Not Valid
+1507,0.7001050114631653
+1508,Not Valid
+1509,Not Valid
+1510,Not Valid
+1511,Not Valid
+1512,0.5
+1513,0.1314738392829895
+1514,0.048928916454315186
+1515,0.7762635946273804
+1516,Not Valid
+1517,0.5
+1518,0.5
+1519,0.24706479907035828
+1520,Not Valid
+1521,Not Valid
+1522,0.05294021964073181
+1523,Not Valid
+1524,Not Valid
+1525,Not Valid
+1526,Not Valid
+1527,Not Valid
+1528,0.5
+1529,Not Valid
+1530,Not Valid
+1531,Not Valid
+1532,0.9095603227615356
+1533,Not Valid
+1534,0.5
+1535,Not Valid
+1536,Not Valid
+1537,Not Valid
+1538,Not Valid
+1539,Not Valid
+1540,Not Valid
+1541,Not Valid
+1542,Not Valid
+1543,Not Valid
+1544,Not Valid
+1545,Not Valid
+1546,0.5
+1547,0.8039376139640808
+1548,Not Valid
+1549,0.7717957496643066
+1550,Not Valid
+1551,Not Valid
+1552,Not Valid
+1553,0.5
+1554,Not Valid
+1555,Not Valid
+1556,Not Valid
+1557,0.5
+1558,Not Valid
+1559,Not Valid
+1560,Not Valid
+1561,Not Valid
+1562,0.24479076266288757
+1563,Not Valid
+1564,0.5
+1565,Not Valid
+1566,0.2956579923629761
+1567,Not Valid
+1568,Not Valid
+1569,Not Valid
+1570,Not Valid
+1571,Not Valid
+1572,Not Valid
+1573,Not Valid
+1574,Not Valid
+1575,Not Valid
+1576,Not Valid
+1577,Not Valid
+1578,Not Valid
+1579,0.09286114573478699
+1580,Not Valid
+1581,Not Valid
+1582,Not Valid
+1583,Not Valid
+1584,Not Valid
+1585,Not Valid
+1586,0.1359458565711975
+1587,Not Valid
+1588,Not Valid
+1589,Not Valid
+1590,0.7904872894287109
+1591,0.28312957286834717
+1592,Not Valid
+1593,Not Valid
+1594,Not Valid
+1595,Not Valid
+1596,Not Valid
+1597,Not Valid
+1598,Not Valid
+1599,Not Valid
+1600,Not Valid
+1601,Not Valid
+1602,Not Valid
+1603,Not Valid
+1604,Not Valid
+1605,Not Valid
+1606,Not Valid
+1607,Not Valid
+1608,Not Valid
+1609,Not Valid
+1610,Not Valid
+1611,Not Valid
+1612,Not Valid
+1613,0.08012539148330688
+1614,Not Valid
+1615,Not Valid
+1616,Not Valid
+1617,0.12288609147071838
+1618,0.16566210985183716
+1619,Not Valid
+1620,Not Valid
+1621,Not Valid
+1622,Not Valid
+1623,Not Valid
+1624,0.5
+1625,0.8440170884132385
+1626,Not Valid
+1627,Not Valid
+1628,Not Valid
+1629,Not Valid
+1630,0.06354308128356934
+1631,Not Valid
+1632,Not Valid
+1633,Not Valid
+1634,Not Valid
+1635,0.7448153495788574
+1636,Not Valid
+1637,0.07481464743614197
+1638,Not Valid
+1639,0.12590551376342773
+1640,Not Valid
+1641,Not Valid
+1642,0.5
+1643,0.889721155166626
+1644,0.8455550670623779
+1645,Not Valid
+1646,Not Valid
+1647,Not Valid
+1648,Not Valid
+1649,Not Valid
+1650,Not Valid
+1651,0.8724478483200073
+1652,Not Valid
+1653,Not Valid
+1654,Not Valid
+1655,0.7890359163284302
+1656,Not Valid
+1657,Not Valid
+1658,Not Valid
+1659,Not Valid
+1660,Not Valid
+1661,Not Valid
+1662,Not Valid
+1663,Not Valid
+1664,Not Valid
+1665,0.5
+1666,Not Valid
+1667,Not Valid
+1668,0.08839529752731323
+1669,0.15914282202720642
+1670,Not Valid
+1671,Not Valid
+1672,0.038509756326675415
+1673,0.5
+1674,Not Valid
+1675,Not Valid
+1676,Not Valid
+1677,Not Valid
+1678,Not Valid
+1679,0.23168450593948364
+1680,Not Valid
+1681,Not Valid
+1682,Not Valid
+1683,Not Valid
+1684,0.5
+1685,Not Valid
+1686,Not Valid
+1687,Not Valid
+1688,Not Valid
+1689,Not Valid
+1690,0.5
+1691,Not Valid
+1692,0.2460738718509674
+1693,Not Valid
+1694,Not Valid
+1695,0.042432934045791626
+1696,Not Valid
+1697,Not Valid
+1698,Not Valid
+1699,0.7859095335006714
+1700,0.054771870374679565
+1701,Not Valid
+1702,Not Valid
+1703,Not Valid
+1704,Not Valid
+1705,Not Valid
+1706,0.13563606142997742
+1707,Not Valid
+1708,Not Valid
+1709,Not Valid
+1710,Not Valid
+1711,Not Valid
+1712,Not Valid
+1713,Not Valid
+1714,Not Valid
+1715,Not Valid
+1716,Not Valid
+1717,Not Valid
+1718,Not Valid
+1719,Not Valid
+1720,Not Valid
+1721,Not Valid
+1722,Not Valid
+1723,Not Valid
+1724,Not Valid
+1725,Not Valid
+1726,Not Valid
+1727,Not Valid
+1728,Not Valid
+1729,Not Valid
+1730,0.5
+1731,0.23353052139282227
+1732,Not Valid
+1733,Not Valid
+1734,0.055908262729644775
+1735,0.8578023910522461
+1736,Not Valid
+1737,0.17850586771965027
+1738,Not Valid
+1739,Not Valid
+1740,Not Valid
+1741,Not Valid
+1742,Not Valid
+1743,Not Valid
+1744,Not Valid
+1745,Not Valid
+1746,Not Valid
+1747,Not Valid
+1748,Not Valid
+1749,Not Valid
+1750,Not Valid
+1751,0.7400768399238586
+1752,Not Valid
+1753,Not Valid
+1754,Not Valid
+1755,Not Valid
+1756,Not Valid
+1757,Not Valid
+1758,Not Valid
+1759,Not Valid
+1760,Not Valid
+1761,Not Valid
+1762,0.2881825566291809
+1763,Not Valid
+1764,Not Valid
+1765,Not Valid
+1766,Not Valid
+1767,0.902279257774353
+1768,Not Valid
+1769,Not Valid
+1770,0.7775299549102783
+1771,Not Valid
+1772,Not Valid
+1773,Not Valid
+1774,Not Valid
+1775,0.07364669442176819
+1776,Not Valid
+1777,Not Valid
+1778,Not Valid
+1779,Not Valid
+1780,Not Valid
+1781,Not Valid
+1782,Not Valid
+1783,Not Valid
+1784,Not Valid
+1785,Not Valid
+1786,Not Valid
+1787,Not Valid
+1788,Not Valid
+1789,0.06571683287620544
+1790,0.812231183052063
+1791,Not Valid
+1792,0.2665269374847412
+1793,Not Valid
+1794,Not Valid
+1795,Not Valid
+1796,Not Valid
+1797,Not Valid
+1798,Not Valid
+1799,Not Valid
+1800,Not Valid
+1801,Not Valid
+1802,0.8483628630638123
+1803,Not Valid
+1804,Not Valid
+1805,Not Valid
+1806,Not Valid
+1807,Not Valid
+1808,Not Valid
+1809,Not Valid
+1810,Not Valid
+1811,Not Valid
+1812,Not Valid
+1813,0.04368031024932861
+1814,0.1495383381843567
+1815,0.5
+1816,Not Valid
+1817,0.5
+1818,Not Valid
+1819,Not Valid
+1820,Not Valid
+1821,Not Valid
+1822,Not Valid
+1823,Not Valid
+1824,0.20121172070503235
+1825,0.21962425112724304
+1826,Not Valid
+1827,0.8472715616226196
+1828,0.17699214816093445
+1829,Not Valid
+1830,Not Valid
+1831,Not Valid
+1832,0.5
+1833,Not Valid
+1834,Not Valid
+1835,Not Valid
+1836,Not Valid
+1837,Not Valid
+1838,Not Valid
+1839,Not Valid
+1840,Not Valid
+1841,0.19152066111564636
+1842,Not Valid
+1843,0.18761464953422546
+1844,Not Valid
+1845,Not Valid
+1846,Not Valid
+1847,Not Valid
+1848,Not Valid
+1849,Not Valid
+1850,Not Valid
+1851,Not Valid
+1852,Not Valid
+1853,Not Valid
+1854,0.06342920660972595
+1855,Not Valid
+1856,Not Valid
+1857,0.5
+1858,Not Valid
+1859,0.8243402242660522
+1860,Not Valid
+1861,Not Valid
+1862,Not Valid
+1863,0.7389779090881348
+1864,Not Valid
+1865,Not Valid
+1866,Not Valid
+1867,Not Valid
+1868,Not Valid
+1869,Not Valid
+1870,Not Valid
+1871,0.21041437983512878
+1872,0.5
+1873,Not Valid
+1874,Not Valid
+1875,Not Valid
+1876,Not Valid
+1877,Not Valid
+1878,Not Valid
+1879,0.8470830917358398
+1880,0.1291365623474121
+1881,Not Valid
+1882,0.5
+1883,Not Valid
+1884,0.5
+1885,Not Valid
+1886,Not Valid
+1887,0.2350793480873108
+1888,0.002387136220932007
+1889,Not Valid
+1890,Not Valid
+1891,0.11049479246139526
+1892,Not Valid
+1893,Not Valid
+1894,0.2713719606399536
+1895,Not Valid
+1896,Not Valid
+1897,0.12778791785240173
+1898,Not Valid
+1899,Not Valid
+1900,0.5
+1901,Not Valid
+1902,Not Valid
+1903,Not Valid
+1904,Not Valid
+1905,Not Valid
+1906,Not Valid
+1907,0.06589195132255554
+1908,Not Valid
+1909,Not Valid
+1910,0.7570080757141113
+1911,Not Valid
+1912,Not Valid
+1913,Not Valid
+1914,0.1390073597431183
+1915,Not Valid
+1916,Not Valid
+1917,Not Valid
+1918,Not Valid
+1919,Not Valid
+1920,Not Valid
+1921,Not Valid
+1922,Not Valid
+1923,Not Valid
+1924,Not Valid
+1925,0.11428949236869812
+1926,Not Valid
+1927,Not Valid
+1928,Not Valid
+1929,Not Valid
+1930,0.16758868098258972
+1931,0.5
+1932,0.7832249402999878
+1933,0.27300480008125305
+1934,Not Valid
+1935,Not Valid
+1936,0.01893278956413269
+1937,Not Valid
+1938,Not Valid
+1939,Not Valid
+1940,Not Valid
+1941,Not Valid
+1942,Not Valid
+1943,Not Valid
+1944,Not Valid
+1945,Not Valid
+1946,Not Valid
+1947,0.5
+1948,Not Valid
+1949,Not Valid
+1950,Not Valid
+1951,Not Valid
+1952,Not Valid
+1953,Not Valid
+1954,0.06691223382949829
+1955,Not Valid
+1956,Not Valid
+1957,Not Valid
+1958,Not Valid
+1959,0.8117388486862183
+1960,Not Valid
+1961,Not Valid
+1962,0.5
+1963,Not Valid
+1964,Not Valid
+1965,Not Valid
+1966,Not Valid
+1967,Not Valid
+1968,Not Valid
+1969,Not Valid
+1970,Not Valid
+1971,0.7321089506149292
+1972,Not Valid
+1973,Not Valid
+1974,Not Valid
+1975,Not Valid
+1976,Not Valid
+1977,0.15953561663627625
+1978,0.19477137923240662
+1979,Not Valid
+1980,Not Valid
+1981,Not Valid
+1982,Not Valid
+1983,Not Valid
+1984,Not Valid
+1985,Not Valid
+1986,Not Valid
+1987,Not Valid
+1988,Not Valid
+1989,0.5
+1990,Not Valid
+1991,Not Valid
+1992,Not Valid
+1993,0.26651105284690857
+1994,Not Valid
+1995,Not Valid
+1996,Not Valid
+1997,0.6934993267059326
+1998,Not Valid
+1999,Not Valid
+2000,Not Valid
+2001,0.10581338405609131
+2002,Not Valid
+2003,Not Valid
+2004,Not Valid
+2005,Not Valid
+2006,0.2804448902606964
+2007,Not Valid
+2008,0.7657318115234375
+2009,Not Valid
+2010,Not Valid
+2011,Not Valid
+2012,0.18210625648498535
+2013,0.0909123420715332
+2014,0.03761741518974304
+2015,Not Valid
+2016,Not Valid
+2017,Not Valid
+2018,Not Valid
+2019,Not Valid
+2020,Not Valid
+2021,Not Valid
+2022,Not Valid
+2023,Not Valid
+2024,Not Valid
+2025,Not Valid
+2026,Not Valid
+2027,Not Valid
+2028,Not Valid
+2029,0.5
+2030,Not Valid
+2031,Not Valid
+2032,Not Valid
+2033,Not Valid
+2034,Not Valid
+2035,0.27989333868026733
+2036,Not Valid
+2037,0.7883408665657043
+2038,Not Valid
+2039,0.08529219031333923
+2040,Not Valid
+2041,Not Valid
+2042,Not Valid
+2043,Not Valid
+2044,Not Valid
+2045,0.5
+2046,Not Valid
+2047,Not Valid
+2048,Not Valid
+2049,Not Valid
+2050,Not Valid
+2051,Not Valid
+2052,Not Valid
+2053,Not Valid
+2054,Not Valid
+2055,Not Valid
+2056,Not Valid
+2057,Not Valid
+2058,Not Valid
+2059,Not Valid
+2060,Not Valid
+2061,0.5
+2062,Not Valid
+2063,Not Valid
+2064,Not Valid
+2065,Not Valid
+2066,Not Valid
+2067,Not Valid
+2068,Not Valid
+2069,Not Valid
+2070,Not Valid
+2071,0.06469488143920898
+2072,Not Valid
+2073,Not Valid
+2074,Not Valid
+2075,Not Valid
+2076,Not Valid
+2077,Not Valid
+2078,0.2262251079082489
+2079,0.9383466243743896
+2080,Not Valid
+2081,Not Valid
+2082,Not Valid
+2083,0.014539569616317749
+2084,Not Valid
+2085,Not Valid
+2086,Not Valid
+2087,Not Valid
+2088,Not Valid
+2089,0.5
+2090,0.5
+2091,Not Valid
+2092,Not Valid
+2093,Not Valid
+2094,Not Valid
+2095,Not Valid
+2096,Not Valid
+2097,Not Valid
+2098,Not Valid
+2099,Not Valid
+2100,Not Valid
+2101,Not Valid
+2102,Not Valid
+2103,Not Valid
+2104,Not Valid
+2105,Not Valid
+2106,Not Valid
+2107,Not Valid
+2108,Not Valid
+2109,Not Valid
+2110,Not Valid
+2111,Not Valid
+2112,Not Valid
+2113,Not Valid
+2114,Not Valid
+2115,Not Valid
+2116,Not Valid
+2117,Not Valid
+2118,Not Valid
+2119,0.0835326611995697
+2120,Not Valid
+2121,0.5
+2122,Not Valid
+2123,Not Valid
+2124,Not Valid
+2125,Not Valid
+2126,Not Valid
+2127,Not Valid
+2128,Not Valid
+2129,Not Valid
+2130,Not Valid
+2131,0.2701484262943268
+2132,0.7142823338508606
+2133,Not Valid
+2134,0.7779371738433838
+2135,Not Valid
+2136,0.5
+2137,Not Valid
+2138,Not Valid
+2139,Not Valid
+2140,0.5
+2141,Not Valid
+2142,Not Valid
+2143,0.10519194602966309
+2144,Not Valid
+2145,Not Valid
+2146,Not Valid
+2147,Not Valid
+2148,Not Valid
+2149,Not Valid
+2150,Not Valid
+2151,Not Valid
+2152,Not Valid
+2153,Not Valid
+2154,Not Valid
+2155,Not Valid
+2156,Not Valid
+2157,Not Valid
+2158,Not Valid
+2159,Not Valid
+2160,Not Valid
+2161,Not Valid
+2162,Not Valid
+2163,Not Valid
+2164,Not Valid
+2165,Not Valid
+2166,Not Valid
+2167,0.23402872681617737
+2168,0.06451547145843506
+2169,Not Valid
+2170,Not Valid
+2171,Not Valid
+2172,Not Valid
+2173,Not Valid
+2174,Not Valid
+2175,Not Valid
+2176,Not Valid
+2177,Not Valid
+2178,Not Valid
+2179,Not Valid
+2180,Not Valid
+2181,Not Valid
+2182,Not Valid
+2183,Not Valid
+2184,Not Valid
+2185,Not Valid
+2186,Not Valid
+2187,Not Valid
+2188,Not Valid
+2189,Not Valid
+2190,Not Valid
+2191,Not Valid
+2192,Not Valid
+2193,Not Valid
+2194,Not Valid
+2195,Not Valid
+2196,0.9058023691177368
+2197,Not Valid
+2198,Not Valid
+2199,Not Valid
+2200,0.5
+2201,Not Valid
+2202,Not Valid
+2203,Not Valid
+2204,0.1459316611289978
+2205,Not Valid
+2206,0.11370494961738586
+2207,Not Valid
+2208,Not Valid
+2209,Not Valid
+2210,0.08081251382827759
+2211,Not Valid
+2212,Not Valid
+2213,Not Valid
+2214,Not Valid
+2215,0.7764735221862793
+2216,Not Valid
+2217,Not Valid
+2218,0.08333742618560791
+2219,Not Valid
+2220,Not Valid
+2221,0.014825284481048584
+2222,Not Valid
+2223,Not Valid
+2224,Not Valid
+2225,Not Valid
+2226,Not Valid
+2227,Not Valid
+2228,Not Valid
+2229,Not Valid
+2230,Not Valid
+2231,Not Valid
+2232,Not Valid
+2233,Not Valid
+2234,Not Valid
+2235,Not Valid
+2236,Not Valid
+2237,Not Valid
+2238,Not Valid
+2239,Not Valid
+2240,Not Valid
+2241,Not Valid
+2242,Not Valid
+2243,0.03729972243309021
+2244,Not Valid
+2245,Not Valid
+2246,Not Valid
+2247,0.9168825149536133
+2248,Not Valid
+2249,0.06738907098770142
+2250,Not Valid
+2251,Not Valid
+2252,Not Valid
+2253,Not Valid
+2254,0.8680422306060791
+2255,Not Valid
+2256,Not Valid
+2257,Not Valid
+2258,Not Valid
+2259,Not Valid
+2260,Not Valid
+2261,Not Valid
+2262,0.9116615056991577
+2263,Not Valid
+2264,0.07470351457595825
+2265,Not Valid
+2266,Not Valid
+2267,0.0973186194896698
+2268,Not Valid
+2269,0.1860550343990326
+2270,Not Valid
+2271,Not Valid
+2272,Not Valid
+2273,Not Valid
+2274,Not Valid
+2275,Not Valid
+2276,Not Valid
+2277,Not Valid
+2278,Not Valid
+2279,0.05164903402328491
+2280,Not Valid
+2281,Not Valid
+2282,Not Valid
+2283,Not Valid
+2284,Not Valid
+2285,Not Valid
+2286,Not Valid
+2287,Not Valid
+2288,Not Valid
+2289,Not Valid
+2290,Not Valid
+2291,Not Valid
+2292,Not Valid
+2293,Not Valid
+2294,Not Valid
+2295,Not Valid
+2296,Not Valid
+2297,Not Valid
+2298,Not Valid
+2299,Not Valid
+2300,Not Valid
+2301,Not Valid
+2302,Not Valid
+2303,Not Valid
+2304,Not Valid
+2305,Not Valid
+2306,Not Valid
+2307,Not Valid
+2308,0.794964075088501
+2309,Not Valid
+2310,0.011845588684082031
+2311,Not Valid
+2312,Not Valid
+2313,Not Valid
+2314,Not Valid
+2315,0.01583746075630188
+2316,Not Valid
+2317,Not Valid
+2318,Not Valid
+2319,Not Valid
+2320,Not Valid
+2321,Not Valid
+2322,Not Valid
+2323,0.2320651412010193
+2324,Not Valid
+2325,Not Valid
+2326,Not Valid
+2327,Not Valid
+2328,0.7508686780929565
+2329,0.5
+2330,Not Valid
+2331,Not Valid
+2332,Not Valid
+2333,Not Valid
+2334,Not Valid
+2335,0.7685887813568115
+2336,Not Valid
+2337,0.07119318842887878
+2338,0.16367661952972412
+2339,0.2058786153793335
+2340,Not Valid
+2341,Not Valid
+2342,Not Valid
+2343,Not Valid
+2344,0.5
+2345,Not Valid
+2346,0.32664352655410767
+2347,Not Valid
+2348,Not Valid
+2349,Not Valid
+2350,Not Valid
+2351,Not Valid
+2352,0.5
+2353,0.5
+2354,0.05160471796989441
+2355,Not Valid
+2356,Not Valid
+2357,Not Valid
+2358,Not Valid
+2359,Not Valid
+2360,0.7940871715545654
+2361,Not Valid
+2362,Not Valid
+2363,Not Valid
+2364,0.9788391590118408
+2365,Not Valid
+2366,Not Valid
+2367,Not Valid
+2368,Not Valid
+2369,Not Valid
+2370,Not Valid
+2371,0.17224273085594177
+2372,Not Valid
+2373,Not Valid
+2374,Not Valid
+2375,Not Valid
+2376,Not Valid
+2377,Not Valid
+2378,Not Valid
+2379,Not Valid
+2380,0.8158277273178101
+2381,Not Valid
+2382,Not Valid
+2383,0.22089093923568726
+2384,Not Valid
+2385,Not Valid
+2386,Not Valid
+2387,Not Valid
+2388,Not Valid
+2389,Not Valid
+2390,Not Valid
+2391,Not Valid
+2392,Not Valid
+2393,0.1801798939704895
+2394,Not Valid
+2395,Not Valid
+2396,Not Valid
+2397,Not Valid
+2398,Not Valid
+2399,Not Valid
+2400,Not Valid
+2401,Not Valid
+2402,Not Valid
+2403,0.7072606682777405
+2404,Not Valid
+2405,Not Valid
+2406,Not Valid
+2407,Not Valid
+2408,Not Valid
+2409,Not Valid
+2410,0.09793299436569214
+2411,Not Valid
+2412,Not Valid
+2413,0.27342021465301514
+2414,Not Valid
+2415,Not Valid
+2416,0.5
+2417,Not Valid
+2418,Not Valid
+2419,Not Valid
+2420,Not Valid
+2421,0.15297994017601013
+2422,Not Valid
+2423,Not Valid
+2424,Not Valid
+2425,Not Valid
+2426,Not Valid
+2427,Not Valid
+2428,Not Valid
+2429,Not Valid
+2430,Not Valid
+2431,Not Valid
+2432,Not Valid
+2433,0.8303072452545166
+2434,Not Valid
+2435,Not Valid
+2436,Not Valid
+2437,Not Valid
+2438,0.15163815021514893
+2439,Not Valid
+2440,Not Valid
+2441,0.8912301659584045
+2442,0.8703065514564514
+2443,0.8194230794906616
+2444,0.14638873934745789
+2445,Not Valid
+2446,Not Valid
+2447,Not Valid
+2448,0.05121356248855591
+2449,Not Valid
+2450,0.2948978543281555
+2451,Not Valid
+2452,0.18949666619300842
+2453,Not Valid
+2454,Not Valid
+2455,0.08518850803375244
+2456,Not Valid
+2457,Not Valid
+2458,Not Valid
+2459,Not Valid
+2460,Not Valid
+2461,Not Valid
+2462,Not Valid
+2463,Not Valid
+2464,Not Valid
+2465,Not Valid
+2466,Not Valid
+2467,Not Valid
+2468,Not Valid
+2469,Not Valid
+2470,Not Valid
+2471,Not Valid
+2472,Not Valid
+2473,Not Valid
+2474,0.07479727268218994
+2475,0.8625048398971558
+2476,Not Valid
+2477,0.9214199185371399
+2478,0.8255490064620972
+2479,Not Valid
+2480,0.07070231437683105
+2481,Not Valid
+2482,0.9570086002349854
+2483,Not Valid
+2484,Not Valid
+2485,Not Valid
+2486,Not Valid
+2487,0.24679124355316162
+2488,Not Valid
+2489,Not Valid
+2490,Not Valid
+2491,Not Valid
+2492,Not Valid
+2493,Not Valid
+2494,Not Valid
+2495,Not Valid
+2496,Not Valid
+2497,Not Valid
+2498,Not Valid
+2499,0.03114745020866394
+2500,Not Valid
+2501,Not Valid
+2502,Not Valid
+2503,Not Valid
+2504,0.7803066372871399
+2505,Not Valid
+2506,Not Valid
+2507,Not Valid
+2508,Not Valid
+2509,Not Valid
+2510,Not Valid
+2511,Not Valid
+2512,Not Valid
+2513,Not Valid
+2514,Not Valid
+2515,Not Valid
+2516,Not Valid
+2517,Not Valid
+2518,0.2261008620262146
+2519,Not Valid
+2520,0.7989755868911743
+2521,Not Valid
+2522,Not Valid
+2523,Not Valid
+2524,Not Valid
+2525,Not Valid
+2526,Not Valid
+2527,Not Valid
+2528,Not Valid
+2529,Not Valid
+2530,Not Valid
+2531,Not Valid
+2532,Not Valid
+2533,0.8130050897598267
+2534,0.11324331164360046
+2535,0.23040172457695007
+2536,Not Valid
+2537,Not Valid
+2538,0.041374653577804565
+2539,0.5
+2540,Not Valid
+2541,Not Valid
+2542,Not Valid
+2543,Not Valid
+2544,0.7831183671951294
+2545,Not Valid
+2546,0.6969747543334961
+2547,Not Valid
+2548,Not Valid
+2549,Not Valid
+2550,0.19849395751953125
+2551,Not Valid
+2552,Not Valid
+2553,Not Valid
+2554,Not Valid
+2555,Not Valid
+2556,Not Valid
+2557,0.5
+2558,Not Valid
+2559,0.5
+2560,Not Valid
+2561,Not Valid
+2562,Not Valid
+2563,0.8084486722946167
+2564,Not Valid
+2565,Not Valid
+2566,Not Valid
+2567,Not Valid
+2568,Not Valid
+2569,Not Valid
+2570,Not Valid
+2571,Not Valid
+2572,Not Valid
+2573,Not Valid
+2574,Not Valid
+2575,Not Valid
+2576,Not Valid
+2577,Not Valid
+2578,Not Valid
+2579,Not Valid
+2580,Not Valid
+2581,Not Valid
+2582,Not Valid
+2583,Not Valid
+2584,Not Valid
+2585,Not Valid
+2586,Not Valid
+2587,Not Valid
+2588,Not Valid
+2589,Not Valid
+2590,Not Valid
+2591,Not Valid
+2592,Not Valid
+2593,Not Valid
+2594,Not Valid
+2595,Not Valid
+2596,Not Valid
+2597,0.027549445629119873
+2598,Not Valid
+2599,Not Valid
+2600,Not Valid
+2601,Not Valid
+2602,Not Valid
+2603,Not Valid
+2604,Not Valid
+2605,Not Valid
+2606,Not Valid
+2607,0.20364192128181458
+2608,Not Valid
+2609,Not Valid
+2610,Not Valid
+2611,Not Valid
+2612,Not Valid
+2613,Not Valid
+2614,Not Valid
+2615,Not Valid
+2616,Not Valid
+2617,Not Valid
+2618,0.27345964312553406
+2619,Not Valid
+2620,Not Valid
+2621,Not Valid
+2622,Not Valid
+2623,Not Valid
+2624,Not Valid
+2625,Not Valid
+2626,Not Valid
+2627,0.2353726327419281
+2628,Not Valid
+2629,Not Valid
+2630,Not Valid
+2631,Not Valid
+2632,Not Valid
+2633,Not Valid
+2634,0.7133813500404358
+2635,0.20915493369102478
+2636,0.5
+2637,Not Valid
+2638,Not Valid
+2639,Not Valid
+2640,Not Valid
+2641,0.06405431032180786
+2642,Not Valid
+2643,Not Valid
+2644,Not Valid
+2645,Not Valid
+2646,Not Valid
+2647,Not Valid
+2648,Not Valid
+2649,Not Valid
+2650,Not Valid
+2651,0.15738487243652344
+2652,Not Valid
+2653,Not Valid
+2654,Not Valid
+2655,Not Valid
+2656,Not Valid
+2657,Not Valid
+2658,0.5
+2659,Not Valid
+2660,Not Valid
+2661,0.20477542281150818
+2662,Not Valid
+2663,Not Valid
+2664,Not Valid
+2665,Not Valid
+2666,Not Valid
+2667,Not Valid
+2668,Not Valid
+2669,Not Valid
+2670,Not Valid
+2671,Not Valid
+2672,0.9707820415496826
+2673,Not Valid
+2674,Not Valid
+2675,Not Valid
+2676,Not Valid
+2677,Not Valid
+2678,Not Valid
+2679,Not Valid
+2680,Not Valid
+2681,Not Valid
+2682,Not Valid
+2683,Not Valid
+2684,Not Valid
+2685,Not Valid
+2686,0.19541791081428528
+2687,0.22132772207260132
+2688,0.09190279245376587
+2689,Not Valid
+2690,Not Valid
+2691,0.035372763872146606
+2692,Not Valid
+2693,Not Valid
+2694,Not Valid
+2695,Not Valid
+2696,Not Valid
+2697,Not Valid
+2698,0.5
+2699,Not Valid
+2700,Not Valid
+2701,Not Valid
+2702,Not Valid
+2703,Not Valid
+2704,Not Valid
+2705,Not Valid
+2706,Not Valid
+2707,Not Valid
+2708,Not Valid
+2709,Not Valid
+2710,Not Valid
+2711,Not Valid
+2712,Not Valid
+2713,Not Valid
+2714,Not Valid
+2715,Not Valid
+2716,Not Valid
+2717,Not Valid
+2718,Not Valid
+2719,Not Valid
+2720,Not Valid
+2721,Not Valid
+2722,Not Valid
+2723,Not Valid
+2724,0.7680278420448303
+2725,Not Valid
+2726,0.8792396783828735
+2727,Not Valid
+2728,0.05047139525413513
+2729,Not Valid
+2730,Not Valid
+2731,0.1938885748386383
+2732,Not Valid
+2733,Not Valid
+2734,0.02524280548095703
+2735,0.08122450113296509
+2736,Not Valid
+2737,0.5
+2738,Not Valid
+2739,Not Valid
+2740,Not Valid
+2741,Not Valid
+2742,Not Valid
+2743,Not Valid
+2744,Not Valid
+2745,Not Valid
+2746,Not Valid
+2747,Not Valid
+2748,Not Valid
+2749,Not Valid
+2750,Not Valid
+2751,Not Valid
+2752,Not Valid
+2753,Not Valid
+2754,Not Valid
+2755,Not Valid
+2756,Not Valid
+2757,Not Valid
+2758,Not Valid
+2759,Not Valid
+2760,Not Valid
+2761,Not Valid
+2762,Not Valid
+2763,Not Valid
+2764,0.5
+2765,Not Valid
+2766,Not Valid
+2767,Not Valid
+2768,0.5
+2769,Not Valid
+2770,Not Valid
+2771,0.5
+2772,0.5
+2773,Not Valid
+2774,Not Valid
+2775,Not Valid
+2776,Not Valid
+2777,Not Valid
+2778,Not Valid
+2779,0.7962254285812378
+2780,Not Valid
+2781,0.20320206880569458
+2782,Not Valid
+2783,Not Valid
+2784,Not Valid
+2785,Not Valid
+2786,Not Valid
+2787,0.23041653633117676
+2788,Not Valid
+2789,Not Valid
+2790,Not Valid
+2791,Not Valid
+2792,Not Valid
+2793,Not Valid
+2794,Not Valid
+2795,Not Valid
+2796,Not Valid
+2797,Not Valid
+2798,Not Valid
+2799,Not Valid
+2800,0.8713779449462891
+2801,Not Valid
+2802,Not Valid
+2803,Not Valid
+2804,0.19467660784721375
+2805,Not Valid
+2806,0.5
+2807,Not Valid
+2808,Not Valid
+2809,Not Valid
+2810,Not Valid
+2811,Not Valid
+2812,Not Valid
+2813,0.5
+2814,0.5
+2815,Not Valid
+2816,Not Valid
+2817,Not Valid
+2818,Not Valid
+2819,Not Valid
+2820,Not Valid
+2821,Not Valid
+2822,Not Valid
+2823,Not Valid
+2824,Not Valid
+2825,0.8941168785095215
+2826,Not Valid
+2827,Not Valid
+2828,Not Valid
+2829,0.8317486643791199
+2830,0.7667244672775269
+2831,Not Valid
+2832,Not Valid
+2833,Not Valid
+2834,0.293956458568573
+2835,Not Valid
+2836,0.1109122633934021
+2837,Not Valid
+2838,Not Valid
+2839,Not Valid
+2840,Not Valid
+2841,Not Valid
+2842,0.9368066787719727
+2843,Not Valid
+2844,Not Valid
+2845,Not Valid
+2846,Not Valid
+2847,Not Valid
+2848,Not Valid
+2849,Not Valid
+2850,Not Valid
+2851,0.01503676176071167
+2852,Not Valid
+2853,Not Valid
+2854,Not Valid
+2855,Not Valid
+2856,Not Valid
+2857,0.8955624103546143
+2858,Not Valid
+2859,Not Valid
+2860,Not Valid
+2861,Not Valid
+2862,Not Valid
+2863,Not Valid
+2864,Not Valid
+2865,0.08101806044578552
+2866,Not Valid
+2867,Not Valid
+2868,Not Valid
+2869,Not Valid
+2870,0.8065449595451355
+2871,Not Valid
+2872,Not Valid
+2873,Not Valid
+2874,Not Valid
+2875,0.835748553276062
+2876,Not Valid
+2877,Not Valid
+2878,Not Valid
+2879,0.1882217526435852
+2880,Not Valid
+2881,Not Valid
+2882,Not Valid
+2883,Not Valid
+2884,0.5
+2885,Not Valid
+2886,0.06618526577949524
+2887,0.2110101580619812
+2888,Not Valid
+2889,0.10723742842674255
+2890,Not Valid
+2891,Not Valid
+2892,Not Valid
+2893,Not Valid
+2894,Not Valid
+2895,0.8891922831535339
+2896,Not Valid
+2897,Not Valid
+2898,Not Valid
+2899,Not Valid
+2900,Not Valid
+2901,Not Valid
+2902,Not Valid
+2903,Not Valid
+2904,0.1529621183872223
+2905,Not Valid
+2906,Not Valid
+2907,Not Valid
+2908,0.20730307698249817
+2909,0.2099359929561615
+2910,Not Valid
+2911,Not Valid
+2912,Not Valid
+2913,Not Valid
+2914,Not Valid
+2915,Not Valid
+2916,Not Valid
+2917,Not Valid
+2918,Not Valid
+2919,Not Valid
+2920,Not Valid
+2921,Not Valid
+2922,Not Valid
+2923,Not Valid
+2924,Not Valid
+2925,Not Valid
+2926,Not Valid
+2927,0.1419437825679779
+2928,Not Valid
+2929,0.8036851286888123
+2930,Not Valid
+2931,0.21525079011917114
+2932,Not Valid
+2933,Not Valid
+2934,Not Valid
+2935,Not Valid
+2936,Not Valid
+2937,Not Valid
+2938,Not Valid
+2939,0.6835397481918335
+2940,Not Valid
+2941,Not Valid
+2942,0.09787106513977051
+2943,0.7086505889892578
+2944,Not Valid
+2945,Not Valid
+2946,Not Valid
+2947,Not Valid
+2948,Not Valid
+2949,0.9360767006874084
+2950,Not Valid
+2951,0.7940551042556763
+2952,Not Valid
+2953,Not Valid
+2954,Not Valid
+2955,0.17966869473457336
+2956,Not Valid
+2957,Not Valid
+2958,Not Valid
+2959,Not Valid
+2960,Not Valid
+2961,Not Valid
+2962,Not Valid
+2963,Not Valid
+2964,Not Valid
+2965,0.5
+2966,Not Valid
+2967,Not Valid
+2968,Not Valid
+2969,Not Valid
+2970,Not Valid
+2971,0.048217952251434326
+2972,0.2391965091228485
+2973,Not Valid
+2974,Not Valid
+2975,Not Valid
+2976,0.21625924110412598
+2977,Not Valid
+2978,Not Valid
+2979,0.2018747627735138
+2980,0.14774423837661743
+2981,Not Valid
+2982,Not Valid
+2983,Not Valid
+2984,Not Valid
+2985,Not Valid
+2986,Not Valid
+2987,Not Valid
+2988,Not Valid
+2989,Not Valid
+2990,Not Valid
+2991,Not Valid
+2992,Not Valid
+2993,Not Valid
+2994,Not Valid
+2995,Not Valid
+2996,0.7167162895202637
+2997,0.8859379887580872
+2998,Not Valid
+2999,Not Valid
+3000,Not Valid
+3001,Not Valid
+3002,Not Valid
+3003,Not Valid
+3004,Not Valid
+3005,0.242494136095047
+3006,Not Valid
+3007,Not Valid
+3008,Not Valid
+3009,Not Valid
+3010,Not Valid
+3011,Not Valid
+3012,Not Valid
+3013,Not Valid
+3014,Not Valid
+3015,Not Valid
+3016,Not Valid
+3017,Not Valid
+3018,Not Valid
+3019,Not Valid
+3020,0.23220208287239075
+3021,Not Valid
+3022,Not Valid
+3023,Not Valid
+3024,Not Valid
+3025,0.22323501110076904
+3026,Not Valid
+3027,Not Valid
+3028,Not Valid
+3029,0.7863302230834961
+3030,Not Valid
+3031,Not Valid
+3032,Not Valid
+3033,Not Valid
+3034,Not Valid
+3035,Not Valid
+3036,0.5
+3037,0.2472338080406189
+3038,0.038015782833099365
+3039,Not Valid
+3040,0.9294587969779968
+3041,Not Valid
+3042,Not Valid
+3043,0.7741747498512268
+3044,Not Valid
+3045,Not Valid
+3046,Not Valid
+3047,0.5
+3048,0.5
+3049,Not Valid
+3050,Not Valid
+3051,Not Valid
+3052,Not Valid
+3053,0.20473697781562805
+3054,Not Valid
+3055,Not Valid
+3056,Not Valid
+3057,Not Valid
+3058,0.9589537382125854
+3059,Not Valid
+3060,0.23166877031326294
+3061,Not Valid
+3062,Not Valid
+3063,Not Valid
+3064,Not Valid
+3065,Not Valid
+3066,Not Valid
+3067,Not Valid
+3068,0.7518830299377441
+3069,Not Valid
+3070,Not Valid
+3071,Not Valid
+3072,Not Valid
+3073,Not Valid
+3074,0.25302812457084656
+3075,Not Valid
+3076,0.7615435719490051
+3077,Not Valid
+3078,Not Valid
+3079,Not Valid
+3080,Not Valid
+3081,Not Valid
+3082,Not Valid
+3083,Not Valid
+3084,Not Valid
+3085,Not Valid
+3086,Not Valid
+3087,Not Valid
+3088,Not Valid
+3089,Not Valid
+3090,Not Valid
+3091,Not Valid
+3092,Not Valid
+3093,Not Valid
+3094,0.8008182644844055
+3095,Not Valid
+3096,Not Valid
+3097,Not Valid
+3098,Not Valid
+3099,0.21137189865112305
+3100,Not Valid
+3101,0.10323399305343628
+3102,0.021015197038650513
+3103,Not Valid
+3104,Not Valid
+3105,0.2199060618877411
+3106,Not Valid
+3107,0.5
+3108,Not Valid
+3109,Not Valid
+3110,Not Valid
+3111,Not Valid
+3112,Not Valid
+3113,Not Valid
+3114,Not Valid
+3115,Not Valid
+3116,Not Valid
+3117,Not Valid
+3118,Not Valid
+3119,Not Valid
+3120,Not Valid
+3121,Not Valid
+3122,Not Valid
+3123,Not Valid
+3124,Not Valid
+3125,Not Valid
+3126,Not Valid
+3127,Not Valid
+3128,Not Valid
+3129,Not Valid
+3130,Not Valid
+3131,Not Valid
+3132,Not Valid
+3133,Not Valid
+3134,Not Valid
+3135,Not Valid
+3136,Not Valid
+3137,Not Valid
+3138,0.5
+3139,Not Valid
+3140,Not Valid
+3141,0.7974237203598022
+3142,Not Valid
+3143,Not Valid
+3144,Not Valid
+3145,Not Valid
+3146,Not Valid
+3147,Not Valid
+3148,Not Valid
+3149,Not Valid
+3150,Not Valid
+3151,Not Valid
+3152,Not Valid
+3153,Not Valid
+3154,0.061124324798583984
+3155,Not Valid
+3156,Not Valid
+3157,Not Valid
+3158,Not Valid
+3159,Not Valid
+3160,0.9353516101837158
+3161,Not Valid
+3162,0.10744154453277588
+3163,Not Valid
+3164,Not Valid
+3165,0.5
+3166,Not Valid
+3167,Not Valid
+3168,Not Valid
+3169,Not Valid
+3170,Not Valid
+3171,Not Valid
+3172,0.5
+3173,Not Valid
+3174,Not Valid
+3175,Not Valid
+3176,Not Valid
+3177,Not Valid
+3178,Not Valid
+3179,0.9249535799026489
+3180,Not Valid
+3181,Not Valid
+3182,Not Valid
+3183,Not Valid
+3184,Not Valid
+3185,0.5
+3186,Not Valid
+3187,Not Valid
+3188,Not Valid
+3189,Not Valid
+3190,Not Valid
+3191,Not Valid
+3192,0.16915053129196167
+3193,0.13096004724502563
+3194,0.17324429750442505
+3195,0.9581594467163086
+3196,Not Valid
+3197,Not Valid
+3198,Not Valid
+3199,Not Valid
+3200,Not Valid
+3201,Not Valid
+3202,Not Valid
+3203,0.04750490188598633
+3204,Not Valid
+3205,0.2810170352458954
+3206,Not Valid
+3207,Not Valid
+3208,Not Valid
+3209,Not Valid
+3210,Not Valid
+3211,Not Valid
+3212,Not Valid
+3213,0.024890542030334473
+3214,Not Valid
+3215,0.20684733986854553
+3216,0.30070364475250244
+3217,0.779495358467102
+3218,Not Valid
+3219,Not Valid
+3220,0.5
+3221,Not Valid
+3222,Not Valid
+3223,Not Valid
+3224,0.13867151737213135
+3225,Not Valid
+3226,Not Valid
+3227,Not Valid
+3228,Not Valid
+3229,Not Valid
+3230,Not Valid
+3231,Not Valid
+3232,Not Valid
+3233,Not Valid
+3234,Not Valid
+3235,Not Valid
+3236,Not Valid
+3237,Not Valid
+3238,Not Valid
+3239,Not Valid
+3240,Not Valid
+3241,Not Valid
+3242,Not Valid
+3243,Not Valid
+3244,Not Valid
+3245,Not Valid
+3246,Not Valid
+3247,0.06016981601715088
+3248,Not Valid
+3249,Not Valid
+3250,Not Valid
+3251,Not Valid
+3252,0.039895981550216675
+3253,Not Valid
+3254,Not Valid
+3255,Not Valid
+3256,Not Valid
+3257,Not Valid
+3258,0.16689741611480713
+3259,Not Valid
+3260,Not Valid
+3261,Not Valid
+3262,0.9101320505142212
+3263,Not Valid
+3264,Not Valid
+3265,Not Valid
+3266,Not Valid
+3267,0.7133346796035767
+3268,Not Valid
+3269,0.8501797914505005
+3270,0.5
+3271,0.19714710116386414
+3272,0.04339253902435303
+3273,Not Valid
+3274,Not Valid
+3275,Not Valid
+3276,Not Valid
+3277,Not Valid
+3278,Not Valid
+3279,0.039448171854019165
+3280,Not Valid
+3281,Not Valid
+3282,Not Valid
+3283,Not Valid
+3284,Not Valid
+3285,Not Valid
+3286,0.5
+3287,Not Valid
+3288,0.5
+3289,Not Valid
+3290,Not Valid
+3291,Not Valid
+3292,0.7971982955932617
+3293,Not Valid
+3294,0.17610850930213928
+3295,0.15294578671455383
+3296,Not Valid
+3297,Not Valid
+3298,0.282348096370697
+3299,0.095876544713974
+3300,0.20723885297775269
+3301,Not Valid
+3302,0.2587670087814331
+3303,0.11362767219543457
+3304,Not Valid
+3305,Not Valid
+3306,Not Valid
+3307,Not Valid
+3308,Not Valid
+3309,0.8312913179397583
+3310,Not Valid
+3311,Not Valid
+3312,Not Valid
+3313,0.8351629972457886
+3314,Not Valid
+3315,Not Valid
+3316,Not Valid
+3317,Not Valid
+3318,0.11165916919708252
+3319,Not Valid
+3320,0.5
+3321,Not Valid
+3322,Not Valid
+3323,Not Valid
+3324,0.9413034915924072
+3325,Not Valid
+3326,Not Valid
+3327,Not Valid
+3328,Not Valid
+3329,Not Valid
+3330,Not Valid
+3331,Not Valid
+3332,0.8863617777824402
+3333,0.8490629196166992
+3334,Not Valid
+3335,Not Valid
+3336,Not Valid
+3337,Not Valid
+3338,Not Valid
+3339,Not Valid
+3340,Not Valid
+3341,Not Valid
+3342,Not Valid
+3343,Not Valid
+3344,Not Valid
+3345,Not Valid
+3346,Not Valid
+3347,0.5
+3348,Not Valid
+3349,Not Valid
+3350,Not Valid
+3351,0.5
+3352,Not Valid
+3353,Not Valid
+3354,Not Valid
+3355,0.04248678684234619
+3356,0.8225769996643066
+3357,Not Valid
+3358,0.13961833715438843
+3359,Not Valid
+3360,Not Valid
+3361,Not Valid
+3362,Not Valid
+3363,Not Valid
+3364,Not Valid
+3365,Not Valid
+3366,0.13794809579849243
+3367,Not Valid
+3368,Not Valid
+3369,Not Valid
+3370,Not Valid
+3371,0.061847150325775146
+3372,Not Valid
+3373,Not Valid
+3374,0.16595998406410217
+3375,Not Valid
+3376,0.5
+3377,Not Valid
+3378,Not Valid
+3379,Not Valid
+3380,Not Valid
+3381,Not Valid
+3382,Not Valid
+3383,Not Valid
+3384,Not Valid
+3385,0.5
+3386,0.835718035697937
+3387,Not Valid
+3388,0.12058168649673462
+3389,Not Valid
+3390,Not Valid
+3391,Not Valid
+3392,Not Valid
+3393,Not Valid
+3394,0.5
+3395,Not Valid
+3396,Not Valid
+3397,Not Valid
+3398,Not Valid
+3399,Not Valid
+3400,Not Valid
+3401,Not Valid
+3402,Not Valid
+3403,0.5
+3404,0.1867826282978058
+3405,Not Valid
+3406,0.8282827138900757
+3407,Not Valid
+3408,0.5
+3409,Not Valid
+3410,0.5
+3411,Not Valid
+3412,Not Valid
+3413,Not Valid
+3414,Not Valid
+3415,Not Valid
+3416,0.5
+3417,Not Valid
+3418,Not Valid
+3419,Not Valid
+3420,0.11189329624176025
+3421,Not Valid
+3422,Not Valid
+3423,Not Valid
+3424,Not Valid
+3425,Not Valid
+3426,0.09476923942565918
+3427,Not Valid
+3428,Not Valid
+3429,Not Valid
+3430,Not Valid
+3431,Not Valid
+3432,Not Valid
+3433,Not Valid
+3434,0.08710777759552002
+3435,0.5
+3436,Not Valid
+3437,Not Valid
+3438,Not Valid
+3439,Not Valid
+3440,Not Valid
+3441,Not Valid
+3442,Not Valid
+3443,Not Valid
+3444,Not Valid
+3445,Not Valid
+3446,Not Valid
+3447,0.1561269462108612
+3448,Not Valid
+3449,0.02969151735305786
+3450,0.2902272939682007
+3451,Not Valid
+3452,Not Valid
+3453,Not Valid
+3454,Not Valid
+3455,Not Valid
+3456,Not Valid
+3457,0.7861654758453369
+3458,0.06825518608093262
+3459,Not Valid
+3460,Not Valid
+3461,0.11324498057365417
+3462,Not Valid
+3463,0.039686620235443115
+3464,Not Valid
+3465,Not Valid
+3466,Not Valid
+3467,Not Valid
+3468,Not Valid
+3469,Not Valid
+3470,Not Valid
+3471,0.5
+3472,Not Valid
+3473,Not Valid
+3474,Not Valid
+3475,Not Valid
+3476,Not Valid
+3477,Not Valid
+3478,Not Valid
+3479,Not Valid
+3480,Not Valid
+3481,Not Valid
+3482,0.7743861675262451
+3483,0.5
+3484,Not Valid
+3485,Not Valid
+3486,Not Valid
+3487,Not Valid
+3488,0.18023046851158142
+3489,Not Valid
+3490,Not Valid
+3491,Not Valid
+3492,Not Valid
+3493,Not Valid
+3494,0.7570278644561768
+3495,Not Valid
+3496,Not Valid
+3497,0.104988694190979
+3498,Not Valid
+3499,Not Valid
+3500,Not Valid
+3501,0.19603323936462402
+3502,Not Valid
+3503,Not Valid
+3504,0.2329486906528473
+3505,0.9186458587646484
+3506,Not Valid
+3507,Not Valid
+3508,0.9372960925102234
+3509,Not Valid
+3510,Not Valid
+3511,0.078624427318573
+3512,Not Valid
+3513,Not Valid
+3514,Not Valid
+3515,Not Valid
+3516,0.016163110733032227
+3517,Not Valid
+3518,Not Valid
+3519,0.10932514071464539
+3520,Not Valid
+3521,0.9369267225265503
+3522,Not Valid
+3523,Not Valid
+3524,Not Valid
+3525,Not Valid
+3526,Not Valid
+3527,Not Valid
+3528,Not Valid
+3529,Not Valid
+3530,Not Valid
+3531,0.06300583481788635
+3532,Not Valid
+3533,Not Valid
+3534,Not Valid
+3535,Not Valid
+3536,Not Valid
+3537,Not Valid
+3538,Not Valid
+3539,Not Valid
+3540,Not Valid
+3541,Not Valid
+3542,0.8019551634788513
+3543,Not Valid
+3544,Not Valid
+3545,0.024473369121551514
+3546,Not Valid
+3547,Not Valid
+3548,0.09674960374832153
+3549,Not Valid
+3550,Not Valid
+3551,Not Valid
+3552,Not Valid
+3553,Not Valid
+3554,Not Valid
+3555,Not Valid
+3556,0.8041133284568787
+3557,0.1501632034778595
+3558,Not Valid
+3559,Not Valid
+3560,Not Valid
+3561,Not Valid
+3562,Not Valid
+3563,Not Valid
+3564,Not Valid
+3565,Not Valid
+3566,Not Valid
+3567,Not Valid
+3568,Not Valid
+3569,0.761506199836731
+3570,Not Valid
+3571,Not Valid
+3572,Not Valid
+3573,Not Valid
+3574,Not Valid
+3575,0.8137627243995667
+3576,Not Valid
+3577,Not Valid
+3578,0.15652531385421753
+3579,Not Valid
+3580,0.8067159652709961
+3581,Not Valid
+3582,0.7722758054733276
+3583,Not Valid
+3584,Not Valid
+3585,Not Valid
+3586,0.9048795104026794
+3587,Not Valid
+3588,Not Valid
+3589,0.03002205491065979
+3590,Not Valid
+3591,Not Valid
+3592,Not Valid
+3593,Not Valid
+3594,Not Valid
+3595,0.8049506545066833
+3596,Not Valid
+3597,Not Valid
+3598,Not Valid
+3599,0.15038004517555237
+3600,Not Valid
+3601,0.07230183482170105
+3602,Not Valid
+3603,0.5
+3604,0.21798887848854065
+3605,Not Valid
+3606,Not Valid
+3607,Not Valid
+3608,0.3085685968399048
+3609,0.014708489179611206
+3610,Not Valid
+3611,Not Valid
+3612,0.5
+3613,Not Valid
+3614,Not Valid
+3615,Not Valid
+3616,Not Valid
+3617,Not Valid
+3618,Not Valid
+3619,Not Valid
+3620,Not Valid
+3621,Not Valid
+3622,Not Valid
+3623,Not Valid
+3624,Not Valid
+3625,Not Valid
+3626,Not Valid
+3627,Not Valid
+3628,Not Valid
+3629,Not Valid
+3630,0.09304031729698181
+3631,Not Valid
+3632,Not Valid
+3633,Not Valid
+3634,Not Valid
+3635,Not Valid
+3636,Not Valid
+3637,Not Valid
+3638,0.7687457203865051
+3639,Not Valid
+3640,0.10327637195587158
+3641,Not Valid
+3642,0.007682532072067261
+3643,0.8876724243164062
+3644,Not Valid
+3645,Not Valid
+3646,0.06006065011024475
+3647,Not Valid
+3648,0.17973333597183228
+3649,Not Valid
+3650,0.5
+3651,Not Valid
+3652,Not Valid
+3653,Not Valid
+3654,Not Valid
+3655,Not Valid
+3656,0.5
+3657,Not Valid
+3658,Not Valid
+3659,0.9386518001556396
+3660,Not Valid
+3661,Not Valid
+3662,Not Valid
+3663,Not Valid
+3664,0.03501027822494507
+3665,Not Valid
+3666,Not Valid
+3667,Not Valid
+3668,Not Valid
+3669,Not Valid
+3670,Not Valid
+3671,Not Valid
+3672,0.1437012255191803
+3673,Not Valid
+3674,Not Valid
+3675,Not Valid
+3676,Not Valid
+3677,Not Valid
+3678,Not Valid
+3679,Not Valid
+3680,0.5
+3681,Not Valid
+3682,Not Valid
+3683,Not Valid
+3684,Not Valid
+3685,0.2716803550720215
+3686,Not Valid
+3687,Not Valid
+3688,0.7748579978942871
+3689,Not Valid
+3690,0.5
+3691,Not Valid
+3692,Not Valid
+3693,Not Valid
+3694,Not Valid
+3695,Not Valid
+3696,Not Valid
+3697,Not Valid
+3698,Not Valid
+3699,Not Valid
+3700,Not Valid
+3701,Not Valid
+3702,Not Valid
+3703,Not Valid
+3704,Not Valid
+3705,0.09912776947021484
+3706,Not Valid
+3707,Not Valid
+3708,0.7196322083473206
+3709,Not Valid
+3710,0.8183587789535522
+3711,0.0008613765239715576
+3712,Not Valid
+3713,0.746272087097168
+3714,Not Valid
+3715,Not Valid
+3716,Not Valid
+3717,Not Valid
+3718,Not Valid
+3719,Not Valid
+3720,Not Valid
+3721,Not Valid
+3722,0.7986922264099121
+3723,Not Valid
+3724,Not Valid
+3725,Not Valid
+3726,Not Valid
+3727,Not Valid
+3728,Not Valid
+3729,Not Valid
+3730,Not Valid
+3731,Not Valid
+3732,Not Valid
+3733,Not Valid
+3734,Not Valid
+3735,Not Valid
+3736,Not Valid
+3737,Not Valid
+3738,Not Valid
+3739,0.19148138165473938
+3740,Not Valid
+3741,Not Valid
+3742,0.8883968591690063
+3743,Not Valid
+3744,Not Valid
+3745,Not Valid
+3746,0.5
+3747,Not Valid
+3748,0.20778265595436096
+3749,Not Valid
+3750,Not Valid
+3751,Not Valid
+3752,Not Valid
+3753,Not Valid
+3754,Not Valid
+3755,Not Valid
+3756,Not Valid
+3757,Not Valid
+3758,Not Valid
+3759,Not Valid
+3760,Not Valid
+3761,Not Valid
+3762,Not Valid
+3763,Not Valid
+3764,Not Valid
+3765,Not Valid
+3766,Not Valid
+3767,Not Valid
+3768,0.8371798992156982
+3769,Not Valid
+3770,Not Valid
+3771,Not Valid
+3772,Not Valid
+3773,Not Valid
+3774,Not Valid
+3775,Not Valid
+3776,Not Valid
+3777,Not Valid
+3778,Not Valid
+3779,Not Valid
+3780,Not Valid
+3781,Not Valid
+3782,Not Valid
+3783,0.9592039585113525
+3784,Not Valid
+3785,Not Valid
+3786,Not Valid
+3787,Not Valid
+3788,Not Valid
+3789,Not Valid
+3790,Not Valid
+3791,Not Valid
+3792,Not Valid
+3793,Not Valid
+3794,Not Valid
+3795,Not Valid
+3796,0.11443114280700684
+3797,Not Valid
+3798,0.8496462106704712
+3799,Not Valid
+3800,0.09393128752708435
+3801,Not Valid
+3802,Not Valid
+3803,Not Valid
+3804,Not Valid
+3805,Not Valid
+3806,0.18559420108795166
+3807,Not Valid
+3808,Not Valid
+3809,0.7687187194824219
+3810,Not Valid
+3811,0.14182895421981812
+3812,Not Valid
+3813,Not Valid
+3814,Not Valid
+3815,Not Valid
+3816,Not Valid
+3817,Not Valid
+3818,Not Valid
+3819,Not Valid
+3820,Not Valid
+3821,0.017222285270690918
+3822,Not Valid
+3823,0.2240961194038391
+3824,Not Valid
+3825,Not Valid
+3826,Not Valid
+3827,Not Valid
+3828,Not Valid
+3829,0.10648366808891296
+3830,Not Valid
+3831,Not Valid
+3832,Not Valid
+3833,Not Valid
+3834,Not Valid
+3835,Not Valid
+3836,Not Valid
+3837,Not Valid
+3838,0.06797495484352112
+3839,Not Valid
+3840,Not Valid
+3841,Not Valid
+3842,Not Valid
+3843,Not Valid
+3844,0.21045804023742676
+3845,Not Valid
+3846,Not Valid
+3847,0.012061864137649536
+3848,Not Valid
+3849,Not Valid
+3850,Not Valid
+3851,Not Valid
+3852,Not Valid
+3853,Not Valid
+3854,Not Valid
+3855,Not Valid
+3856,Not Valid
+3857,Not Valid
+3858,Not Valid
+3859,Not Valid
+3860,Not Valid
+3861,0.23052248358726501
+3862,Not Valid
+3863,Not Valid
+3864,Not Valid
+3865,0.8999314308166504
+3866,Not Valid
+3867,Not Valid
+3868,Not Valid
+3869,Not Valid
+3870,Not Valid
+3871,Not Valid
+3872,0.3018454909324646
+3873,Not Valid
+3874,Not Valid
+3875,Not Valid
+3876,0.24330738186836243
+3877,Not Valid
+3878,Not Valid
+3879,Not Valid
+3880,Not Valid
+3881,0.5
+3882,0.012367546558380127
+3883,Not Valid
+3884,0.11556282639503479
+3885,Not Valid
+3886,Not Valid
+3887,Not Valid
+3888,Not Valid
+3889,0.5
+3890,Not Valid
+3891,Not Valid
+3892,Not Valid
+3893,Not Valid
+3894,Not Valid
+3895,Not Valid
+3896,0.7509447336196899
+3897,Not Valid
+3898,0.009978145360946655
+3899,0.2958003282546997
+3900,Not Valid
+3901,0.18694233894348145
+3902,Not Valid
+3903,Not Valid
+3904,Not Valid
+3905,Not Valid
+3906,Not Valid
+3907,Not Valid
+3908,Not Valid
+3909,Not Valid
+3910,Not Valid
+3911,Not Valid
+3912,Not Valid
+3913,Not Valid
+3914,Not Valid
+3915,0.7532099485397339
+3916,0.1400434672832489
+3917,Not Valid
+3918,Not Valid
+3919,0.11995971202850342
+3920,0.5
+3921,Not Valid
+3922,Not Valid
+3923,0.9324439764022827
+3924,Not Valid
+3925,0.03783285617828369
+3926,0.5
+3927,0.5
+3928,0.5
+3929,Not Valid
+3930,0.16253116726875305
+3931,Not Valid
+3932,0.7826646566390991
+3933,0.7735774517059326
+3934,Not Valid
+3935,Not Valid
+3936,Not Valid
+3937,Not Valid
+3938,0.10152634978294373
+3939,0.5
+3940,Not Valid
+3941,0.15384754538536072
+3942,Not Valid
+3943,0.1514473557472229
+3944,Not Valid
+3945,Not Valid
+3946,Not Valid
+3947,0.9568688869476318
+3948,Not Valid
+3949,Not Valid
+3950,0.717318594455719
+3951,Not Valid
+3952,Not Valid
+3953,Not Valid
+3954,0.12017810344696045
+3955,Not Valid
+3956,Not Valid
+3957,Not Valid
+3958,Not Valid
+3959,Not Valid
+3960,Not Valid
+3961,Not Valid
+3962,Not Valid
+3963,Not Valid
+3964,Not Valid
+3965,Not Valid
+3966,Not Valid
+3967,0.5
+3968,Not Valid
+3969,Not Valid
+3970,Not Valid
+3971,Not Valid
+3972,Not Valid
+3973,Not Valid
+3974,Not Valid
+3975,Not Valid
+3976,Not Valid
+3977,Not Valid
+3978,0.2526233196258545
+3979,0.9134896993637085
+3980,Not Valid
+3981,Not Valid
+3982,Not Valid
+3983,Not Valid
+3984,Not Valid
+3985,0.904366135597229
+3986,0.7834633588790894
+3987,0.06806430220603943
+3988,Not Valid
+3989,0.7441406846046448
+3990,Not Valid
+3991,0.7885621786117554
+3992,Not Valid
+3993,Not Valid
+3994,Not Valid
+3995,Not Valid
+3996,Not Valid
+3997,Not Valid
+3998,Not Valid
+3999,Not Valid
+4000,Not Valid
+4001,0.1513468325138092
+4002,Not Valid
+4003,Not Valid
+4004,0.1313120424747467
+4005,Not Valid
+4006,Not Valid
+4007,0.9772974252700806
+4008,Not Valid
+4009,Not Valid
+4010,0.06514143943786621
+4011,Not Valid
+4012,0.19560298323631287
+4013,Not Valid
+4014,0.5
+4015,Not Valid
+4016,Not Valid
+4017,Not Valid
+4018,Not Valid
+4019,0.1603606641292572
+4020,Not Valid
+4021,Not Valid
+4022,0.19517067074775696
+4023,Not Valid
+4024,Not Valid
+4025,Not Valid
+4026,Not Valid
+4027,Not Valid
+4028,Not Valid
+4029,Not Valid
+4030,Not Valid
+4031,Not Valid
+4032,0.8588257431983948
+4033,Not Valid
+4034,0.5
+4035,Not Valid
+4036,Not Valid
+4037,0.7841760516166687
+4038,Not Valid
+4039,Not Valid
+4040,Not Valid
+4041,Not Valid
+4042,Not Valid
+4043,Not Valid
+4044,Not Valid
+4045,Not Valid
+4046,Not Valid
+4047,0.9342660903930664
+4048,0.06637156009674072
+4049,0.8022462129592896
+4050,Not Valid
+4051,Not Valid
+4052,Not Valid
+4053,Not Valid
+4054,Not Valid
+4055,0.29877838492393494
+4056,Not Valid
+4057,0.29438671469688416
+4058,0.28114020824432373
+4059,Not Valid
+4060,Not Valid
+4061,Not Valid
+4062,Not Valid
+4063,Not Valid
+4064,0.7503743767738342
+4065,0.1984400451183319
+4066,Not Valid
+4067,Not Valid
+4068,Not Valid
+4069,Not Valid
+4070,Not Valid
+4071,Not Valid
+4072,Not Valid
+4073,0.25683748722076416
+4074,Not Valid
+4075,Not Valid
+4076,Not Valid
+4077,Not Valid
+4078,Not Valid
+4079,Not Valid
+4080,Not Valid
+4081,Not Valid
+4082,Not Valid
+4083,Not Valid
+4084,Not Valid
+4085,Not Valid
+4086,Not Valid
+4087,Not Valid
+4088,0.28531336784362793
+4089,Not Valid
+4090,Not Valid
+4091,0.8201181292533875
+4092,0.2709866166114807
+4093,Not Valid
+4094,Not Valid
+4095,Not Valid
+4096,Not Valid
+4097,Not Valid
+4098,Not Valid
+4099,0.12539535760879517
+4100,Not Valid
+4101,0.17625516653060913
+4102,Not Valid
+4103,Not Valid
+4104,Not Valid
+4105,Not Valid
+4106,Not Valid
+4107,Not Valid
+4108,0.2345273792743683
+4109,Not Valid
+4110,Not Valid
+4111,Not Valid
+4112,0.5
+4113,Not Valid
+4114,Not Valid
+4115,Not Valid
+4116,Not Valid
+4117,Not Valid
+4118,Not Valid
+4119,Not Valid
+4120,0.5
+4121,Not Valid
+4122,0.28072577714920044
+4123,Not Valid
+4124,Not Valid
+4125,Not Valid
+4126,0.035237401723861694
+4127,Not Valid
+4128,Not Valid
+4129,Not Valid
+4130,Not Valid
+4131,Not Valid
+4132,Not Valid
+4133,Not Valid
+4134,Not Valid
+4135,Not Valid
+4136,Not Valid
+4137,0.8885979652404785
+4138,Not Valid
+4139,Not Valid
+4140,Not Valid
+4141,Not Valid
+4142,Not Valid
+4143,0.5
+4144,Not Valid
+4145,Not Valid
+4146,Not Valid
+4147,Not Valid
+4148,Not Valid
+4149,Not Valid
+4150,Not Valid
+4151,Not Valid
+4152,Not Valid
+4153,Not Valid
+4154,Not Valid
+4155,Not Valid
+4156,Not Valid
+4157,Not Valid
+4158,Not Valid
+4159,Not Valid
+4160,Not Valid
+4161,Not Valid
+4162,Not Valid
+4163,Not Valid
+4164,Not Valid
+4165,Not Valid
+4166,Not Valid
+4167,Not Valid
+4168,Not Valid
+4169,Not Valid
+4170,Not Valid
+4171,Not Valid
+4172,Not Valid
+4173,Not Valid
+4174,Not Valid
+4175,0.13166099786758423
+4176,Not Valid
+4177,Not Valid
+4178,Not Valid
+4179,0.8719650506973267
+4180,Not Valid
+4181,Not Valid
+4182,0.28072455525398254
+4183,Not Valid
+4184,0.10438373684883118
+4185,Not Valid
+4186,Not Valid
+4187,Not Valid
+4188,Not Valid
+4189,Not Valid
+4190,Not Valid
+4191,0.12446701526641846
+4192,0.19783064723014832
+4193,Not Valid
+4194,Not Valid
+4195,Not Valid
+4196,Not Valid
+4197,Not Valid
+4198,Not Valid
+4199,Not Valid
+4200,0.5
+4201,0.16713061928749084
+4202,Not Valid
+4203,Not Valid
+4204,0.07463353872299194
+4205,Not Valid
+4206,Not Valid
+4207,Not Valid
+4208,Not Valid
+4209,Not Valid
+4210,Not Valid
+4211,Not Valid
+4212,Not Valid
+4213,Not Valid
+4214,Not Valid
+4215,Not Valid
+4216,Not Valid
+4217,Not Valid
+4218,Not Valid
+4219,Not Valid
+4220,Not Valid
+4221,Not Valid
+4222,Not Valid
+4223,Not Valid
+4224,0.17086297273635864
+4225,Not Valid
+4226,Not Valid
+4227,Not Valid
+4228,Not Valid
+4229,Not Valid
+4230,Not Valid
+4231,0.5
+4232,Not Valid
+4233,Not Valid
+4234,0.8351596593856812
+4235,Not Valid
+4236,Not Valid
+4237,Not Valid
+4238,Not Valid
+4239,Not Valid
+4240,Not Valid
+4241,Not Valid
+4242,Not Valid
+4243,0.8690744638442993
+4244,Not Valid
+4245,Not Valid
+4246,0.2470186948776245
+4247,0.12834155559539795
+4248,Not Valid
+4249,0.964921236038208
+4250,Not Valid
+4251,Not Valid
+4252,Not Valid
+4253,Not Valid
+4254,Not Valid
+4255,Not Valid
+4256,Not Valid
+4257,Not Valid
+4258,Not Valid
+4259,Not Valid
+4260,Not Valid
+4261,Not Valid
+4262,Not Valid
+4263,Not Valid
+4264,0.28234627842903137
+4265,Not Valid
+4266,Not Valid
+4267,Not Valid
+4268,Not Valid
+4269,Not Valid
+4270,Not Valid
+4271,0.027327120304107666
+4272,0.8137098550796509
+4273,Not Valid
+4274,Not Valid
+4275,0.11221519112586975
+4276,Not Valid
+4277,Not Valid
+4278,Not Valid
+4279,Not Valid
+4280,Not Valid
+4281,Not Valid
+4282,Not Valid
+4283,Not Valid
+4284,Not Valid
+4285,Not Valid
+4286,Not Valid
+4287,Not Valid
+4288,Not Valid
+4289,0.1587715446949005
+4290,Not Valid
+4291,Not Valid
+4292,Not Valid
+4293,Not Valid
+4294,Not Valid
+4295,Not Valid
+4296,Not Valid
+4297,Not Valid
+4298,Not Valid
+4299,0.23589777946472168
+4300,Not Valid
+4301,Not Valid
+4302,Not Valid
+4303,Not Valid
+4304,Not Valid
+4305,Not Valid
+4306,Not Valid
+4307,Not Valid
+4308,0.9459937214851379
+4309,0.11937862634658813
+4310,Not Valid
+4311,0.039268046617507935
+4312,0.924119234085083
+4313,Not Valid
+4314,Not Valid
+4315,Not Valid
+4316,Not Valid
+4317,Not Valid
+4318,Not Valid
+4319,Not Valid
+4320,Not Valid
+4321,Not Valid
+4322,Not Valid
+4323,Not Valid
+4324,Not Valid
+4325,Not Valid
+4326,Not Valid
+4327,Not Valid
+4328,Not Valid
+4329,Not Valid
+4330,Not Valid
+4331,Not Valid
+4332,Not Valid
+4333,0.1675315499305725
+4334,Not Valid
+4335,Not Valid
+4336,Not Valid
+4337,0.09909731149673462
+4338,0.04513067007064819
+4339,Not Valid
+4340,Not Valid
+4341,Not Valid
+4342,0.7869194149971008
+4343,0.24059602618217468
+4344,Not Valid
+4345,Not Valid
+4346,Not Valid
+4347,Not Valid
+4348,Not Valid
+4349,Not Valid
+4350,Not Valid
+4351,Not Valid
+4352,Not Valid
+4353,Not Valid
+4354,Not Valid
+4355,Not Valid
+4356,Not Valid
+4357,Not Valid
+4358,Not Valid
+4359,Not Valid
+4360,Not Valid
+4361,0.29445353150367737
+4362,Not Valid
+4363,Not Valid
+4364,Not Valid
+4365,0.7494081258773804
+4366,Not Valid
+4367,Not Valid
+4368,Not Valid
+4369,Not Valid
+4370,Not Valid
+4371,Not Valid
+4372,Not Valid
+4373,Not Valid
+4374,Not Valid
+4375,Not Valid
+4376,0.7474175691604614
+4377,Not Valid
+4378,Not Valid
+4379,Not Valid
+4380,Not Valid
+4381,Not Valid
+4382,0.7736424207687378
+4383,Not Valid
+4384,Not Valid
+4385,0.5
+4386,0.8029792308807373
+4387,Not Valid
+4388,Not Valid
+4389,0.5
+4390,Not Valid
+4391,Not Valid
+4392,0.04605090618133545
+4393,0.8467181921005249
+4394,0.8555641174316406
+4395,0.7922960519790649
+4396,0.15612173080444336
+4397,Not Valid
+4398,0.735794723033905
+4399,Not Valid
+4400,Not Valid
+4401,Not Valid
+4402,Not Valid
+4403,0.5
+4404,0.14644703269004822
+4405,Not Valid
+4406,Not Valid
+4407,0.2079153060913086
+4408,0.83607417345047
+4409,Not Valid
+4410,Not Valid
+4411,Not Valid
+4412,0.050819724798202515
+4413,Not Valid
+4414,Not Valid
+4415,Not Valid
+4416,Not Valid
+4417,Not Valid
+4418,Not Valid
+4419,Not Valid
+4420,Not Valid
+4421,Not Valid
+4422,Not Valid
+4423,Not Valid
+4424,Not Valid
+4425,0.5
+4426,Not Valid
+4427,Not Valid
+4428,Not Valid
+4429,Not Valid
+4430,Not Valid
+4431,Not Valid
+4432,Not Valid
+4433,Not Valid
+4434,Not Valid
+4435,0.021527498960494995
+4436,Not Valid
+4437,Not Valid
+4438,Not Valid
+4439,0.8951766490936279
+4440,Not Valid
+4441,Not Valid
+4442,0.873265266418457
+4443,Not Valid
+4444,Not Valid
+4445,Not Valid
+4446,0.26827293634414673
+4447,0.8251304030418396
+4448,0.9649288654327393
+4449,Not Valid
+4450,Not Valid
+4451,0.8902135491371155
+4452,Not Valid
+4453,0.027453571557998657
+4454,Not Valid
+4455,0.1921321153640747
+4456,Not Valid
+4457,Not Valid
+4458,Not Valid
+4459,0.05055731534957886
+4460,0.7574347853660583
+4461,Not Valid
+4462,Not Valid
+4463,Not Valid
+4464,Not Valid
+4465,0.5
+4466,0.20300492644309998
+4467,Not Valid
+4468,0.8608189821243286
+4469,0.7702584266662598
+4470,0.961481511592865
+4471,Not Valid
+4472,Not Valid
+4473,Not Valid
+4474,0.8640022277832031
+4475,0.8052455186843872
+4476,Not Valid
+4477,0.8646958470344543
+4478,Not Valid
+4479,0.5
+4480,Not Valid
+4481,0.29093265533447266
+4482,Not Valid
+4483,Not Valid
+4484,Not Valid
+4485,Not Valid
+4486,0.3033061921596527
+4487,Not Valid
+4488,Not Valid
+4489,Not Valid
+4490,Not Valid
+4491,Not Valid
+4492,Not Valid
+4493,0.8112170696258545
+4494,Not Valid
+4495,Not Valid
+4496,Not Valid
+4497,Not Valid
+4498,Not Valid
+4499,Not Valid
+4500,Not Valid
+4501,Not Valid
+4502,Not Valid
+4503,Not Valid
+4504,Not Valid
+4505,Not Valid
+4506,Not Valid
+4507,Not Valid
+4508,Not Valid
+4509,Not Valid
+4510,0.7564859390258789
+4511,Not Valid
+4512,Not Valid
+4513,0.22296607494354248
+4514,Not Valid
+4515,0.7012512683868408
+4516,Not Valid
+4517,Not Valid
+4518,Not Valid
+4519,0.8049594163894653
+4520,Not Valid
+4521,Not Valid
+4522,Not Valid
+4523,0.12090080976486206
+4524,Not Valid
+4525,0.9099929332733154
+4526,Not Valid
+4527,Not Valid
+4528,Not Valid
+4529,Not Valid
+4530,Not Valid
+4531,Not Valid
+4532,Not Valid
+4533,0.07168129086494446
+4534,Not Valid
+4535,Not Valid
+4536,Not Valid
+4537,0.5
+4538,Not Valid
+4539,0.7370636463165283
+4540,Not Valid
+4541,Not Valid
+4542,Not Valid
+4543,Not Valid
+4544,0.819175124168396
+4545,Not Valid
+4546,Not Valid
+4547,0.6941381692886353
+4548,Not Valid
+4549,Not Valid
+4550,Not Valid
+4551,Not Valid
+4552,Not Valid
+4553,Not Valid
+4554,Not Valid
+4555,Not Valid
+4556,0.19439458847045898
+4557,Not Valid
+4558,Not Valid
+4559,Not Valid
+4560,0.8304663896560669
+4561,Not Valid
+4562,Not Valid
+4563,Not Valid
+4564,Not Valid
+4565,Not Valid
+4566,Not Valid
+4567,0.7792527675628662
+4568,Not Valid
+4569,Not Valid
+4570,0.1311037540435791
+4571,0.7724795341491699
+4572,0.9836199283599854
+4573,Not Valid
+4574,Not Valid
+4575,Not Valid
+4576,Not Valid
+4577,Not Valid
+4578,0.1379106342792511
+4579,Not Valid
+4580,0.059990257024765015
+4581,Not Valid
+4582,Not Valid
+4583,0.9360091090202332
+4584,Not Valid
+4585,Not Valid
+4586,Not Valid
+4587,Not Valid
+4588,Not Valid
+4589,Not Valid
+4590,0.23516631126403809
+4591,0.09507426619529724
+4592,0.2403673231601715
+4593,Not Valid
+4594,Not Valid
+4595,Not Valid
+4596,Not Valid
+4597,Not Valid
+4598,0.7568248510360718
+4599,0.7818137407302856
+4600,Not Valid
+4601,Not Valid
+4602,Not Valid
+4603,0.7566602230072021
+4604,Not Valid
+4605,Not Valid
+4606,Not Valid
+4607,Not Valid
+4608,Not Valid
+4609,Not Valid
+4610,Not Valid
+4611,Not Valid
+4612,Not Valid
+4613,Not Valid
+4614,Not Valid
+4615,0.5
+4616,Not Valid
+4617,Not Valid
+4618,Not Valid
+4619,Not Valid
+4620,Not Valid
+4621,Not Valid
+4622,Not Valid
+4623,Not Valid
+4624,Not Valid
+4625,0.8559342622756958
+4626,Not Valid
+4627,Not Valid
+4628,Not Valid
+4629,Not Valid
+4630,Not Valid
+4631,Not Valid
+4632,Not Valid
+4633,Not Valid
+4634,0.5
+4635,0.2271854281425476
+4636,Not Valid
+4637,Not Valid
+4638,Not Valid
+4639,Not Valid
+4640,0.5
+4641,Not Valid
+4642,0.5
+4643,Not Valid
+4644,Not Valid
+4645,Not Valid
+4646,Not Valid
+4647,Not Valid
+4648,Not Valid
+4649,Not Valid
+4650,Not Valid
+4651,Not Valid
+4652,Not Valid
+4653,Not Valid
+4654,Not Valid
+4655,Not Valid
+4656,Not Valid
+4657,0.5
+4658,Not Valid
+4659,0.1159416139125824
+4660,0.19899606704711914
+4661,Not Valid
+4662,Not Valid
+4663,Not Valid
+4664,Not Valid
+4665,Not Valid
+4666,Not Valid
+4667,0.5
+4668,Not Valid
+4669,Not Valid
+4670,0.7798285484313965
+4671,Not Valid
+4672,Not Valid
+4673,0.936377763748169
+4674,Not Valid
+4675,Not Valid
+4676,Not Valid
+4677,Not Valid
+4678,0.7459818124771118
+4679,0.877246618270874
+4680,Not Valid
+4681,Not Valid
+4682,Not Valid
+4683,Not Valid
+4684,Not Valid
+4685,Not Valid
+4686,Not Valid
+4687,Not Valid
+4688,Not Valid
+4689,Not Valid
+4690,Not Valid
+4691,Not Valid
+4692,Not Valid
+4693,Not Valid
+4694,Not Valid
+4695,Not Valid
+4696,Not Valid
+4697,Not Valid
+4698,0.19785869121551514
+4699,0.21662241220474243
+4700,Not Valid
+4701,Not Valid
+4702,Not Valid
+4703,Not Valid
+4704,Not Valid
+4705,Not Valid
+4706,Not Valid
+4707,Not Valid
+4708,Not Valid
+4709,Not Valid
+4710,0.13204699754714966
+4711,Not Valid
+4712,Not Valid
+4713,Not Valid
+4714,Not Valid
+4715,0.31450676918029785
+4716,0.22047516703605652
+4717,Not Valid
+4718,Not Valid
+4719,Not Valid
+4720,Not Valid
+4721,Not Valid
+4722,Not Valid
+4723,0.9479732513427734
+4724,Not Valid
+4725,Not Valid
+4726,Not Valid
+4727,Not Valid
+4728,Not Valid
+4729,0.7772772908210754
+4730,Not Valid
+4731,Not Valid
+4732,Not Valid
+4733,Not Valid
+4734,Not Valid
+4735,0.12834155559539795
+4736,0.044036030769348145
+4737,Not Valid
+4738,Not Valid
+4739,Not Valid
+4740,Not Valid
+4741,Not Valid
+4742,Not Valid
+4743,Not Valid
+4744,Not Valid
+4745,Not Valid
+4746,Not Valid
+4747,0.2287459373474121
+4748,Not Valid
+4749,Not Valid
+4750,Not Valid
+4751,Not Valid
+4752,Not Valid
+4753,Not Valid
+4754,Not Valid
+4755,0.5
+4756,0.16231924295425415
+4757,0.5
+4758,Not Valid
+4759,Not Valid
+4760,0.25293129682540894
+4761,Not Valid
+4762,Not Valid
+4763,Not Valid
+4764,Not Valid
+4765,Not Valid
+4766,Not Valid
+4767,Not Valid
+4768,Not Valid
+4769,0.7492532134056091
+4770,Not Valid
+4771,0.5
+4772,Not Valid
+4773,Not Valid
+4774,Not Valid
+4775,Not Valid
+4776,Not Valid
+4777,Not Valid
+4778,0.5
+4779,Not Valid
+4780,Not Valid
+4781,Not Valid
+4782,Not Valid
+4783,Not Valid
+4784,Not Valid
+4785,Not Valid
+4786,Not Valid
+4787,Not Valid
+4788,Not Valid
+4789,Not Valid
+4790,Not Valid
+4791,0.13118860125541687
+4792,Not Valid
+4793,Not Valid
+4794,Not Valid
+4795,Not Valid
+4796,Not Valid
+4797,Not Valid
+4798,Not Valid
+4799,Not Valid
+4800,Not Valid
+4801,Not Valid
+4802,Not Valid
+4803,Not Valid
+4804,Not Valid
+4805,Not Valid
+4806,0.9324129819869995
+4807,Not Valid
+4808,Not Valid
+4809,Not Valid
+4810,Not Valid
+4811,Not Valid
+4812,0.5
+4813,Not Valid
+4814,Not Valid
+4815,0.7105661630630493
+4816,Not Valid
+4817,0.06782171130180359
+4818,0.5
+4819,Not Valid
+4820,Not Valid
+4821,Not Valid
+4822,Not Valid
+4823,Not Valid
+4824,Not Valid
+4825,Not Valid
+4826,Not Valid
+4827,Not Valid
+4828,0.028003692626953125
+4829,Not Valid
+4830,Not Valid
+4831,Not Valid
+4832,Not Valid
+4833,0.7802751660346985
+4834,Not Valid
+4835,Not Valid
+4836,Not Valid
+4837,Not Valid
+4838,Not Valid
+4839,Not Valid
+4840,Not Valid
+4841,Not Valid
+4842,Not Valid
+4843,0.8361018896102905
+4844,0.5
+4845,Not Valid
+4846,Not Valid
+4847,Not Valid
+4848,Not Valid
+4849,Not Valid
+4850,Not Valid
+4851,Not Valid
+4852,0.20923537015914917
+4853,Not Valid
+4854,0.7395588159561157
+4855,Not Valid
+4856,Not Valid
+4857,Not Valid
+4858,0.11979952454566956
+4859,Not Valid
+4860,Not Valid
+4861,Not Valid
+4862,Not Valid
+4863,Not Valid
+4864,Not Valid
+4865,Not Valid
+4866,0.7733606696128845
+4867,Not Valid
+4868,Not Valid
+4869,0.1360085904598236
+4870,Not Valid
+4871,Not Valid
+4872,Not Valid
+4873,Not Valid
+4874,Not Valid
+4875,0.7670630216598511
+4876,Not Valid
+4877,Not Valid
+4878,Not Valid
+4879,Not Valid
+4880,Not Valid
+4881,Not Valid
+4882,Not Valid
+4883,Not Valid
+4884,Not Valid
+4885,Not Valid
+4886,Not Valid
+4887,Not Valid
+4888,Not Valid
+4889,0.03431063890457153
+4890,Not Valid
+4891,Not Valid
+4892,Not Valid
+4893,Not Valid
+4894,Not Valid
+4895,Not Valid
+4896,0.9653450846672058
+4897,Not Valid
+4898,0.26291483640670776
+4899,Not Valid
+4900,Not Valid
+4901,Not Valid
+4902,Not Valid
+4903,0.14294320344924927
+4904,Not Valid
+4905,0.5
+4906,Not Valid
+4907,Not Valid
+4908,Not Valid
+4909,Not Valid
+4910,Not Valid
+4911,Not Valid
+4912,Not Valid
+4913,Not Valid
+4914,0.5
+4915,Not Valid
+4916,Not Valid
+4917,Not Valid
+4918,0.5
+4919,0.2696821689605713
+4920,Not Valid
+4921,Not Valid
+4922,Not Valid
+4923,0.22639432549476624
+4924,0.5
+4925,Not Valid
+4926,Not Valid
+4927,Not Valid
+4928,0.1467800736427307
+4929,0.7736932039260864
+4930,Not Valid
+4931,Not Valid
+4932,Not Valid
+4933,0.2434597909450531
+4934,Not Valid
+4935,Not Valid
+4936,Not Valid
+4937,Not Valid
+4938,Not Valid
+4939,0.7352124452590942
+4940,Not Valid
+4941,Not Valid
+4942,Not Valid
+4943,Not Valid
+4944,Not Valid
+4945,Not Valid
+4946,0.033311665058135986
+4947,0.1756953001022339
+4948,Not Valid
+4949,Not Valid
+4950,Not Valid
+4951,Not Valid
+4952,Not Valid
+4953,Not Valid
+4954,Not Valid
+4955,Not Valid
+4956,0.755071759223938
+4957,0.5
+4958,0.9536885619163513
+4959,Not Valid
+4960,Not Valid
+4961,Not Valid
+4962,Not Valid
+4963,0.5
+4964,Not Valid
+4965,Not Valid
+4966,Not Valid
+4967,Not Valid
+4968,Not Valid
+4969,Not Valid
+4970,0.5
+4971,Not Valid
+4972,Not Valid
+4973,Not Valid
+4974,Not Valid
+4975,0.0935479998588562
+4976,Not Valid
+4977,0.8755638599395752
+4978,0.10420823097229004
+4979,Not Valid
+4980,Not Valid
+4981,Not Valid
+4982,0.06856495141983032
+4983,0.8870962262153625
+4984,0.08105349540710449
+4985,Not Valid
+4986,Not Valid
+4987,Not Valid
+4988,Not Valid
+4989,Not Valid
+4990,Not Valid
+4991,Not Valid
+4992,Not Valid
+4993,0.17571958899497986
+4994,Not Valid
+4995,Not Valid
+4996,Not Valid
+4997,0.08836588263511658
+4998,Not Valid
+4999,Not Valid
+5000,Not Valid
+5001,Not Valid
+5002,0.5
+5003,Not Valid
+5004,0.05117800831794739
+5005,Not Valid
+5006,Not Valid
+5007,Not Valid
+5008,Not Valid
+5009,Not Valid
+5010,Not Valid
+5011,Not Valid
+5012,0.7043749690055847
+5013,Not Valid
+5014,Not Valid
+5015,Not Valid
+5016,0.8580126762390137
+5017,Not Valid
+5018,Not Valid
+5019,Not Valid
+5020,0.8119118213653564
+5021,Not Valid
+5022,Not Valid
+5023,Not Valid
+5024,Not Valid
+5025,Not Valid
+5026,Not Valid
+5027,Not Valid
+5028,Not Valid
+5029,0.5
+5030,Not Valid
+5031,0.5
+5032,Not Valid
+5033,Not Valid
+5034,0.5
+5035,Not Valid
+5036,Not Valid
+5037,Not Valid
+5038,Not Valid
+5039,Not Valid
+5040,Not Valid
+5041,Not Valid
+5042,Not Valid
+5043,Not Valid
+5044,Not Valid
+5045,Not Valid
+5046,Not Valid
+5047,0.07602030038833618
+5048,Not Valid
+5049,0.2397519052028656
+5050,Not Valid
+5051,Not Valid
+5052,Not Valid
+5053,Not Valid
+5054,Not Valid
+5055,0.5
+5056,Not Valid
+5057,Not Valid
+5058,Not Valid
+5059,Not Valid
+5060,Not Valid
+5061,0.08221349120140076
+5062,Not Valid
+5063,Not Valid
+5064,Not Valid
+5065,Not Valid
+5066,Not Valid
+5067,0.5
+5068,Not Valid
+5069,0.9661779403686523
+5070,Not Valid
+5071,Not Valid
+5072,Not Valid
+5073,Not Valid
+5074,Not Valid
+5075,Not Valid
+5076,0.8243210315704346
+5077,0.08508694171905518
+5078,Not Valid
+5079,Not Valid
+5080,Not Valid
+5081,Not Valid
+5082,0.15628594160079956
+5083,0.5
+5084,Not Valid
+5085,Not Valid
+5086,Not Valid
+5087,Not Valid
+5088,Not Valid
+5089,Not Valid
+5090,Not Valid
+5091,0.8454117178916931
+5092,Not Valid
+5093,0.20017489790916443
+5094,Not Valid
+5095,Not Valid
+5096,Not Valid
+5097,Not Valid
+5098,Not Valid
+5099,0.8131344318389893
+5100,Not Valid
+5101,Not Valid
+5102,0.8873043060302734
+5103,Not Valid
+5104,Not Valid
+5105,0.028447061777114868
+5106,Not Valid
+5107,Not Valid
+5108,0.02939218282699585
+5109,0.07644465565681458
+5110,Not Valid
+5111,0.7874020338058472
+5112,0.13788950443267822
+5113,Not Valid
+5114,Not Valid
+5115,Not Valid
+5116,Not Valid
+5117,0.057580649852752686
+5118,Not Valid
+5119,0.20335730910301208
+5120,Not Valid
+5121,Not Valid
+5122,Not Valid
+5123,Not Valid
+5124,Not Valid
+5125,Not Valid
+5126,Not Valid
+5127,Not Valid
+5128,Not Valid
+5129,Not Valid
+5130,Not Valid
+5131,Not Valid
+5132,0.20238620042800903
+5133,Not Valid
+5134,Not Valid
+5135,Not Valid
+5136,Not Valid
+5137,Not Valid
+5138,Not Valid
+5139,Not Valid
+5140,Not Valid
+5141,Not Valid
+5142,0.9568065404891968
+5143,Not Valid
+5144,0.056756049394607544
+5145,Not Valid
+5146,Not Valid
+5147,0.03661835193634033
+5148,Not Valid
+5149,Not Valid
+5150,0.2594122290611267
+5151,Not Valid
+5152,0.5
+5153,Not Valid
+5154,0.8721451759338379
+5155,Not Valid
+5156,Not Valid
+5157,Not Valid
+5158,Not Valid
+5159,0.9782791137695312
+5160,Not Valid
+5161,Not Valid
+5162,Not Valid
+5163,Not Valid
+5164,0.03414791822433472
+5165,Not Valid
+5166,0.10604912042617798
+5167,0.17741674184799194
+5168,Not Valid
+5169,Not Valid
+5170,Not Valid
+5171,Not Valid
+5172,Not Valid
+5173,Not Valid
+5174,Not Valid
+5175,Not Valid
+5176,Not Valid
+5177,Not Valid
+5178,Not Valid
+5179,Not Valid
+5180,0.23609638214111328
+5181,0.7670530080795288
+5182,Not Valid
+5183,0.23055097460746765
+5184,Not Valid
+5185,Not Valid
+5186,Not Valid
+5187,Not Valid
+5188,Not Valid
+5189,Not Valid
+5190,Not Valid
+5191,Not Valid
+5192,0.0413912832736969
+5193,0.13909348845481873
+5194,0.863139271736145
+5195,Not Valid
+5196,Not Valid
+5197,Not Valid
+5198,Not Valid
+5199,Not Valid
+5200,Not Valid
+5201,Not Valid
+5202,Not Valid
+5203,Not Valid
+5204,Not Valid
+5205,Not Valid
+5206,Not Valid
+5207,Not Valid
+5208,0.12110844254493713
+5209,0.061735302209854126
+5210,Not Valid
+5211,Not Valid
+5212,Not Valid
+5213,Not Valid
+5214,0.14898723363876343
+5215,Not Valid
+5216,Not Valid
+5217,Not Valid
+5218,0.5
+5219,0.29912006855010986
+5220,Not Valid
+5221,Not Valid
+5222,Not Valid
+5223,0.5
+5224,Not Valid
+5225,Not Valid
+5226,Not Valid
+5227,0.11210209131240845
+5228,Not Valid
+5229,0.10645297169685364
+5230,Not Valid
+5231,Not Valid
+5232,Not Valid
+5233,Not Valid
+5234,Not Valid
+5235,Not Valid
+5236,0.5
+5237,Not Valid
+5238,Not Valid
+5239,Not Valid
+5240,Not Valid
+5241,Not Valid
+5242,Not Valid
+5243,Not Valid
+5244,Not Valid
+5245,Not Valid
+5246,Not Valid
+5247,Not Valid
+5248,Not Valid
+5249,Not Valid
+5250,Not Valid
+5251,0.04562169313430786
+5252,Not Valid
+5253,Not Valid
+5254,0.2216743528842926
+5255,Not Valid
+5256,Not Valid
+5257,Not Valid
+5258,Not Valid
+5259,Not Valid
+5260,Not Valid
+5261,Not Valid
+5262,0.12535375356674194
+5263,0.7922960519790649
+5264,Not Valid
+5265,Not Valid
+5266,Not Valid
+5267,Not Valid
+5268,Not Valid
+5269,Not Valid
+5270,0.5
+5271,Not Valid
+5272,0.7654072046279907
+5273,Not Valid
+5274,Not Valid
+5275,Not Valid
+5276,Not Valid
+5277,Not Valid
+5278,Not Valid
+5279,Not Valid
+5280,Not Valid
+5281,Not Valid
+5282,Not Valid
+5283,Not Valid
+5284,0.9289316534996033
+5285,Not Valid
+5286,Not Valid
+5287,Not Valid
+5288,Not Valid
+5289,0.7654576301574707
+5290,Not Valid
+5291,Not Valid
+5292,Not Valid
+5293,Not Valid
+5294,Not Valid
+5295,Not Valid
+5296,Not Valid
+5297,0.5
+5298,Not Valid
+5299,Not Valid
+5300,Not Valid
+5301,0.2803862392902374
+5302,Not Valid
+5303,Not Valid
+5304,0.9136384725570679
+5305,Not Valid
+5306,Not Valid
+5307,0.1136581301689148
+5308,Not Valid
+5309,0.19733113050460815
+5310,Not Valid
+5311,Not Valid
+5312,0.16947343945503235
+5313,Not Valid
+5314,Not Valid
+5315,0.862866997718811
+5316,Not Valid
+5317,Not Valid
+5318,Not Valid
+5319,Not Valid
+5320,Not Valid
+5321,0.0878106951713562
+5322,0.13534879684448242
+5323,Not Valid
+5324,Not Valid
+5325,Not Valid
+5326,Not Valid
+5327,Not Valid
+5328,Not Valid
+5329,0.8376312255859375
+5330,Not Valid
+5331,Not Valid
+5332,Not Valid
+5333,Not Valid
+5334,Not Valid
+5335,0.5
+5336,Not Valid
+5337,0.5
+5338,Not Valid
+5339,0.16938766837120056
+5340,Not Valid
+5341,0.5
+5342,Not Valid
+5343,Not Valid
+5344,Not Valid
+5345,0.075432687997818
+5346,Not Valid
+5347,Not Valid
+5348,Not Valid
+5349,Not Valid
+5350,Not Valid
+5351,0.9707813262939453
+5352,Not Valid
+5353,Not Valid
+5354,Not Valid
+5355,Not Valid
+5356,Not Valid
+5357,Not Valid
+5358,Not Valid
+5359,Not Valid
+5360,Not Valid
+5361,0.7811073064804077
+5362,0.5
+5363,0.08774524927139282
+5364,Not Valid
+5365,Not Valid
+5366,Not Valid
+5367,Not Valid
+5368,0.2992381453514099
+5369,Not Valid
+5370,Not Valid
+5371,Not Valid
+5372,Not Valid
+5373,0.8561305999755859
+5374,Not Valid
+5375,Not Valid
+5376,Not Valid
+5377,Not Valid
+5378,Not Valid
+5379,Not Valid
+5380,Not Valid
+5381,0.7327196598052979
+5382,Not Valid
+5383,Not Valid
+5384,0.7712969183921814
+5385,Not Valid
+5386,Not Valid
+5387,Not Valid
+5388,Not Valid
+5389,Not Valid
+5390,Not Valid
+5391,Not Valid
+5392,0.9532358646392822
+5393,Not Valid
+5394,0.2550419270992279
+5395,Not Valid
+5396,Not Valid
+5397,Not Valid
+5398,Not Valid
+5399,Not Valid
+5400,0.8853881359100342
+5401,Not Valid
+5402,Not Valid
+5403,Not Valid
+5404,Not Valid
+5405,Not Valid
+5406,0.8189100027084351
+5407,0.8547379970550537
+5408,Not Valid
+5409,Not Valid
+5410,0.7373055815696716
+5411,Not Valid
+5412,Not Valid
+5413,Not Valid
+5414,Not Valid
+5415,0.22709721326828003
+5416,Not Valid
+5417,Not Valid
+5418,0.9166743755340576
+5419,Not Valid
+5420,Not Valid
+5421,Not Valid
+5422,Not Valid
+5423,Not Valid
+5424,Not Valid
+5425,Not Valid
+5426,Not Valid
+5427,Not Valid
+5428,0.7160719037055969
+5429,Not Valid
+5430,Not Valid
+5431,Not Valid
+5432,0.7593773603439331
+5433,Not Valid
+5434,Not Valid
+5435,Not Valid
+5436,Not Valid
+5437,0.5
+5438,Not Valid
+5439,Not Valid
+5440,0.11630767583847046
+5441,Not Valid
+5442,Not Valid
+5443,0.2542421221733093
+5444,Not Valid
+5445,Not Valid
+5446,Not Valid
+5447,Not Valid
+5448,Not Valid
+5449,Not Valid
+5450,0.16138684749603271
+5451,Not Valid
+5452,0.7337594032287598
+5453,0.29190653562545776
+5454,0.5
+5455,Not Valid
+5456,Not Valid
+5457,Not Valid
+5458,Not Valid
+5459,Not Valid
+5460,0.2385951578617096
+5461,0.13982784748077393
+5462,Not Valid
+5463,Not Valid
+5464,Not Valid
+5465,Not Valid
+5466,Not Valid
+5467,Not Valid
+5468,Not Valid
+5469,0.27812668681144714
+5470,Not Valid
+5471,0.10170987248420715
+5472,0.5
+5473,Not Valid
+5474,Not Valid
+5475,Not Valid
+5476,0.5
+5477,Not Valid
+5478,Not Valid
+5479,Not Valid
+5480,Not Valid
+5481,Not Valid
+5482,Not Valid
+5483,Not Valid
+5484,Not Valid
+5485,Not Valid
+5486,Not Valid
+5487,Not Valid
+5488,0.9812272191047668
+5489,0.8113877773284912
+5490,0.07167172431945801
+5491,Not Valid
+5492,Not Valid
+5493,0.10273882746696472
+5494,Not Valid
+5495,Not Valid
+5496,Not Valid
+5497,Not Valid
+5498,Not Valid
+5499,Not Valid
+5500,Not Valid
+5501,Not Valid
+5502,0.26274263858795166
+5503,Not Valid
+5504,0.7238484621047974
+5505,Not Valid
+5506,Not Valid
+5507,Not Valid
+5508,Not Valid
+5509,0.21896401047706604
+5510,Not Valid
+5511,Not Valid
+5512,Not Valid
+5513,Not Valid
+5514,Not Valid
+5515,Not Valid
+5516,Not Valid
+5517,Not Valid
+5518,0.03666144609451294
+5519,0.5
+5520,0.6919723749160767
+5521,0.231634259223938
+5522,Not Valid
+5523,Not Valid
+5524,0.8613523244857788
+5525,Not Valid
+5526,Not Valid
+5527,Not Valid
+5528,Not Valid
+5529,0.07541745901107788
+5530,Not Valid
+5531,Not Valid
+5532,Not Valid
+5533,Not Valid
+5534,Not Valid
+5535,Not Valid
+5536,Not Valid
+5537,0.22773051261901855
+5538,Not Valid
+5539,Not Valid
+5540,Not Valid
+5541,0.24668344855308533
+5542,0.8158524036407471
+5543,0.5
+5544,0.15539130568504333
+5545,Not Valid
+5546,0.8313448429107666
+5547,Not Valid
+5548,Not Valid
+5549,Not Valid
+5550,Not Valid
+5551,Not Valid
+5552,0.008395940065383911
+5553,Not Valid
+5554,Not Valid
+5555,Not Valid
+5556,Not Valid
+5557,0.5
+5558,Not Valid
+5559,Not Valid
+5560,Not Valid
+5561,Not Valid
+5562,Not Valid
+5563,0.2940264940261841
+5564,Not Valid
+5565,Not Valid
+5566,Not Valid
+5567,0.02481338381767273
+5568,Not Valid
+5569,Not Valid
+5570,0.2540190815925598
+5571,Not Valid
+5572,Not Valid
+5573,Not Valid
+5574,Not Valid
+5575,0.042818307876586914
+5576,Not Valid
+5577,Not Valid
+5578,Not Valid
+5579,Not Valid
+5580,Not Valid
+5581,Not Valid
+5582,0.024389564990997314
+5583,Not Valid
+5584,Not Valid
+5585,Not Valid
+5586,Not Valid
+5587,Not Valid
+5588,Not Valid
+5589,Not Valid
+5590,Not Valid
+5591,Not Valid
+5592,Not Valid
+5593,Not Valid
+5594,Not Valid
+5595,0.09383729100227356
+5596,0.9292206764221191
+5597,Not Valid
+5598,Not Valid
+5599,Not Valid
+5600,Not Valid
+5601,Not Valid
+5602,Not Valid
+5603,Not Valid
+5604,Not Valid
+5605,Not Valid
+5606,Not Valid
+5607,Not Valid
+5608,Not Valid
+5609,Not Valid
+5610,Not Valid
+5611,0.2219182252883911
+5612,Not Valid
+5613,Not Valid
+5614,0.21467140316963196
+5615,Not Valid
+5616,Not Valid
+5617,Not Valid
+5618,Not Valid
+5619,Not Valid
+5620,Not Valid
+5621,Not Valid
+5622,Not Valid
+5623,Not Valid
+5624,Not Valid
+5625,Not Valid
+5626,Not Valid
+5627,Not Valid
+5628,Not Valid
+5629,Not Valid
+5630,Not Valid
+5631,Not Valid
+5632,0.23786145448684692
+5633,Not Valid
+5634,Not Valid
+5635,0.5
+5636,Not Valid
+5637,Not Valid
+5638,Not Valid
+5639,Not Valid
+5640,Not Valid
+5641,0.5
+5642,Not Valid
+5643,Not Valid
+5644,Not Valid
+5645,Not Valid
+5646,Not Valid
+5647,0.23079678416252136
+5648,Not Valid
+5649,Not Valid
+5650,Not Valid
+5651,Not Valid
+5652,Not Valid
+5653,Not Valid
+5654,Not Valid
+5655,Not Valid
+5656,0.07454690337181091
+5657,Not Valid
+5658,Not Valid
+5659,Not Valid
+5660,Not Valid
+5661,Not Valid
+5662,Not Valid
+5663,Not Valid
+5664,Not Valid
+5665,Not Valid
+5666,Not Valid
+5667,Not Valid
+5668,Not Valid
+5669,Not Valid
+5670,Not Valid
+5671,Not Valid
+5672,Not Valid
+5673,Not Valid
+5674,Not Valid
+5675,Not Valid
+5676,0.010287106037139893
+5677,0.7328932881355286
+5678,Not Valid
+5679,Not Valid
+5680,0.040908247232437134
+5681,Not Valid
+5682,Not Valid
+5683,Not Valid
+5684,Not Valid
+5685,Not Valid
+5686,Not Valid
+5687,0.2403988540172577
+5688,Not Valid
+5689,Not Valid
+5690,Not Valid
+5691,0.5
+5692,Not Valid
+5693,Not Valid
+5694,Not Valid
+5695,0.23356598615646362
+5696,Not Valid
+5697,Not Valid
+5698,0.5
+5699,Not Valid
+5700,Not Valid
+5701,0.12766414880752563
+5702,Not Valid
+5703,Not Valid
+5704,Not Valid
+5705,Not Valid
+5706,Not Valid
+5707,0.16533267498016357
+5708,Not Valid
+5709,0.5
+5710,Not Valid
+5711,0.7848268747329712
+5712,Not Valid
+5713,Not Valid
+5714,Not Valid
+5715,Not Valid
+5716,Not Valid
+5717,Not Valid
+5718,Not Valid
+5719,Not Valid
+5720,Not Valid
+5721,Not Valid
+5722,Not Valid
+5723,Not Valid
+5724,Not Valid
+5725,Not Valid
+5726,0.5
+5727,Not Valid
+5728,Not Valid
+5729,0.24378812313079834
+5730,Not Valid
+5731,Not Valid
+5732,Not Valid
+5733,Not Valid
+5734,Not Valid
+5735,Not Valid
+5736,Not Valid
+5737,Not Valid
+5738,Not Valid
+5739,Not Valid
+5740,Not Valid
+5741,Not Valid
+5742,Not Valid
+5743,Not Valid
+5744,Not Valid
+5745,Not Valid
+5746,Not Valid
+5747,Not Valid
+5748,0.870897650718689
+5749,Not Valid
+5750,Not Valid
+5751,Not Valid
+5752,0.12597694993019104
+5753,0.07079282402992249
+5754,0.1443166434764862
+5755,0.024008899927139282
+5756,Not Valid
+5757,Not Valid
+5758,0.1731942594051361
+5759,0.5
+5760,0.10923224687576294
+5761,Not Valid
+5762,Not Valid
+5763,Not Valid
+5764,0.9562828540802002
+5765,Not Valid
+5766,Not Valid
+5767,Not Valid
+5768,Not Valid
+5769,0.5
+5770,Not Valid
+5771,Not Valid
+5772,Not Valid
+5773,0.5
+5774,0.7904672622680664
+5775,Not Valid
+5776,Not Valid
+5777,Not Valid
+5778,Not Valid
+5779,0.1100040078163147
+5780,Not Valid
+5781,0.0049693286418914795
+5782,0.7317027449607849
+5783,Not Valid
+5784,0.5
+5785,Not Valid
+5786,0.20043563842773438
+5787,Not Valid
+5788,0.2529503107070923
+5789,Not Valid
+5790,0.045676618814468384
+5791,0.1687164604663849
+5792,0.5
+5793,Not Valid
+5794,0.8444159030914307
+5795,0.09733763337135315
+5796,Not Valid
+5797,Not Valid
+5798,Not Valid
+5799,0.1624409556388855
+5800,Not Valid
+5801,Not Valid
+5802,0.043208032846450806
+5803,Not Valid
+5804,0.22094354033470154
+5805,Not Valid
+5806,Not Valid
+5807,Not Valid
+5808,Not Valid
+5809,0.22850647568702698
+5810,Not Valid
+5811,0.23964115977287292
+5812,0.2918053865432739
+5813,Not Valid
+5814,Not Valid
+5815,0.8780883550643921
+5816,Not Valid
+5817,Not Valid
+5818,Not Valid
+5819,0.8240904808044434
+5820,Not Valid
+5821,0.7693730592727661
+5822,0.19713559746742249
+5823,0.7918860912322998
+5824,Not Valid
+5825,Not Valid
+5826,Not Valid
+5827,0.11049842834472656
+5828,0.8634340763092041
+5829,Not Valid
+5830,Not Valid
+5831,Not Valid
+5832,Not Valid
+5833,Not Valid
+5834,0.24716129899024963
+5835,0.09531921148300171
+5836,Not Valid
+5837,0.942740797996521
+5838,Not Valid
+5839,Not Valid
+5840,Not Valid
+5841,0.5
+5842,Not Valid
+5843,Not Valid
+5844,Not Valid
+5845,Not Valid
+5846,Not Valid
+5847,0.2941089868545532
+5848,0.9027119874954224
+5849,Not Valid
+5850,Not Valid
+5851,0.7537615895271301
+5852,Not Valid
+5853,Not Valid
+5854,0.8556041121482849
+5855,Not Valid
+5856,Not Valid
+5857,Not Valid
+5858,Not Valid
+5859,0.7549219131469727
+5860,Not Valid
+5861,Not Valid
+5862,Not Valid
+5863,Not Valid
+5864,Not Valid
+5865,0.10062524676322937
+5866,Not Valid
+5867,Not Valid
+5868,Not Valid
+5869,0.16581657528877258
+5870,Not Valid
+5871,Not Valid
+5872,Not Valid
+5873,0.7620377540588379
+5874,Not Valid
+5875,Not Valid
+5876,Not Valid
+5877,Not Valid
+5878,Not Valid
+5879,0.8697636127471924
+5880,Not Valid
+5881,Not Valid
+5882,Not Valid
+5883,Not Valid
+5884,Not Valid
+5885,Not Valid
+5886,Not Valid
+5887,Not Valid
+5888,Not Valid
+5889,Not Valid
+5890,Not Valid
+5891,Not Valid
+5892,Not Valid
+5893,Not Valid
+5894,Not Valid
+5895,0.753532886505127
+5896,Not Valid
+5897,Not Valid
+5898,Not Valid
+5899,Not Valid
+5900,Not Valid
+5901,Not Valid
+5902,0.03598147630691528
+5903,Not Valid
+5904,Not Valid
+5905,Not Valid
+5906,Not Valid
+5907,Not Valid
+5908,0.8228225708007812
+5909,Not Valid
+5910,Not Valid
+5911,Not Valid
+5912,Not Valid
+5913,Not Valid
+5914,Not Valid
+5915,0.9023529291152954
+5916,Not Valid
+5917,Not Valid
+5918,Not Valid
+5919,0.5
+5920,Not Valid
+5921,Not Valid
+5922,Not Valid
+5923,Not Valid
+5924,0.8443522453308105
+5925,0.9312387704849243
+5926,Not Valid
+5927,Not Valid
+5928,Not Valid
+5929,Not Valid
+5930,Not Valid
+5931,Not Valid
+5932,Not Valid
+5933,Not Valid
+5934,Not Valid
+5935,0.915033221244812
+5936,Not Valid
+5937,0.11278703808784485
+5938,0.11499276757240295
+5939,0.5
+5940,0.14863142371177673
+5941,Not Valid
+5942,Not Valid
+5943,Not Valid
+5944,0.25433075428009033
+5945,Not Valid
+5946,0.22406399250030518
+5947,Not Valid
+5948,Not Valid
+5949,Not Valid
+5950,Not Valid
+5951,Not Valid
+5952,Not Valid
+5953,0.5
+5954,0.743104100227356
+5955,Not Valid
+5956,Not Valid
+5957,0.7999774217605591
+5958,Not Valid
+5959,0.5
+5960,0.2322656810283661
+5961,Not Valid
+5962,0.5
+5963,Not Valid
+5964,Not Valid
+5965,Not Valid
+5966,Not Valid
+5967,Not Valid
+5968,Not Valid
+5969,0.5
+5970,Not Valid
+5971,Not Valid
+5972,0.08357924222946167
+5973,Not Valid
+5974,Not Valid
+5975,0.5
+5976,0.5
+5977,Not Valid
+5978,Not Valid
+5979,Not Valid
+5980,Not Valid
+5981,Not Valid
+5982,Not Valid
+5983,Not Valid
+5984,0.1813947856426239
+5985,Not Valid
+5986,Not Valid
+5987,Not Valid
+5988,Not Valid
+5989,Not Valid
+5990,Not Valid
+5991,Not Valid
+5992,0.6853519678115845
+5993,Not Valid
+5994,Not Valid
+5995,0.04754003882408142
+5996,Not Valid
+5997,0.9362236261367798
+5998,Not Valid
+5999,Not Valid
+6000,0.010324150323867798
+6001,Not Valid
+6002,Not Valid
+6003,Not Valid
+6004,0.1430196762084961
+6005,0.09882324934005737
+6006,Not Valid
+6007,Not Valid
+6008,0.05117630958557129
+6009,Not Valid
+6010,Not Valid
+6011,0.8747188448905945
+6012,Not Valid
+6013,Not Valid
+6014,Not Valid
+6015,Not Valid
+6016,Not Valid
+6017,Not Valid
+6018,0.04522770643234253
+6019,0.20320016145706177
+6020,Not Valid
+6021,0.19431072473526
+6022,Not Valid
+6023,Not Valid
+6024,Not Valid
+6025,Not Valid
+6026,Not Valid
+6027,Not Valid
+6028,0.20812684297561646
+6029,Not Valid
+6030,0.1953621506690979
+6031,Not Valid
+6032,Not Valid
+6033,Not Valid
+6034,0.7698631286621094
+6035,Not Valid
+6036,Not Valid
+6037,Not Valid
+6038,Not Valid
+6039,Not Valid
+6040,Not Valid
+6041,0.01903510093688965
+6042,Not Valid
+6043,Not Valid
+6044,Not Valid
+6045,Not Valid
+6046,Not Valid
+6047,Not Valid
+6048,0.13550451397895813
+6049,Not Valid
+6050,0.12387368083000183
+6051,Not Valid
+6052,Not Valid
+6053,0.12023505568504333
+6054,Not Valid
+6055,0.216474711894989
+6056,Not Valid
+6057,Not Valid
+6058,Not Valid
+6059,Not Valid
+6060,0.21379050612449646
+6061,Not Valid
+6062,Not Valid
+6063,Not Valid
+6064,Not Valid
+6065,Not Valid
+6066,0.16680818796157837
+6067,0.10226413607597351
+6068,0.21994417905807495
+6069,Not Valid
+6070,Not Valid
+6071,Not Valid
+6072,Not Valid
+6073,0.5
+6074,Not Valid
+6075,Not Valid
+6076,Not Valid
+6077,Not Valid
+6078,Not Valid
+6079,0.8103798031806946
+6080,Not Valid
+6081,0.7901390790939331
+6082,Not Valid
+6083,0.12329769134521484
+6084,0.03594014048576355
+6085,Not Valid
+6086,0.9237768650054932
+6087,Not Valid
+6088,Not Valid
+6089,0.035963207483291626
+6090,Not Valid
+6091,Not Valid
+6092,Not Valid
+6093,Not Valid
+6094,Not Valid
+6095,Not Valid
+6096,Not Valid
+6097,Not Valid
+6098,0.16911840438842773
+6099,Not Valid
+6100,Not Valid
+6101,Not Valid
+6102,0.23751619458198547
+6103,Not Valid
+6104,0.11078822612762451
+6105,Not Valid
+6106,Not Valid
+6107,Not Valid
+6108,Not Valid
+6109,Not Valid
+6110,Not Valid
+6111,Not Valid
+6112,Not Valid
+6113,Not Valid
+6114,Not Valid
+6115,Not Valid
+6116,Not Valid
+6117,0.5
+6118,Not Valid
+6119,Not Valid
+6120,Not Valid
+6121,Not Valid
+6122,Not Valid
+6123,Not Valid
+6124,Not Valid
+6125,Not Valid
+6126,Not Valid
+6127,Not Valid
+6128,Not Valid
+6129,0.0594465434551239
+6130,Not Valid
+6131,0.871651828289032
+6132,0.9802669286727905
+6133,Not Valid
+6134,0.5
+6135,Not Valid
+6136,Not Valid
+6137,Not Valid
+6138,Not Valid
+6139,Not Valid
+6140,0.5
+6141,0.5
+6142,Not Valid
+6143,Not Valid
+6144,0.5
+6145,Not Valid
+6146,Not Valid
+6147,Not Valid
+6148,0.5
+6149,Not Valid
+6150,0.9666527509689331
+6151,Not Valid
+6152,Not Valid
+6153,Not Valid
+6154,Not Valid
+6155,Not Valid
+6156,Not Valid
+6157,Not Valid
+6158,Not Valid
+6159,Not Valid
+6160,Not Valid
+6161,Not Valid
+6162,0.06014743447303772
+6163,Not Valid
+6164,Not Valid
+6165,0.03833210468292236
+6166,Not Valid
+6167,Not Valid
+6168,Not Valid
+6169,Not Valid
+6170,0.036543309688568115
+6171,Not Valid
+6172,Not Valid
+6173,Not Valid
+6174,Not Valid
+6175,Not Valid
+6176,Not Valid
+6177,0.8320043087005615
+6178,0.10207608342170715
+6179,Not Valid
+6180,0.13860246539115906
+6181,0.25276803970336914
+6182,Not Valid
+6183,Not Valid
+6184,0.2249947488307953
+6185,Not Valid
+6186,0.14728036522865295
+6187,0.2899715304374695
+6188,0.20996034145355225
+6189,Not Valid
+6190,Not Valid
+6191,Not Valid
+6192,Not Valid
+6193,0.2577136754989624
+6194,Not Valid
+6195,0.09517619013786316
+6196,Not Valid
+6197,0.9719693064689636
+6198,Not Valid
+6199,Not Valid
+6200,Not Valid
+6201,Not Valid
+6202,Not Valid
+6203,0.7065588235855103
+6204,Not Valid
+6205,Not Valid
+6206,0.13634666800498962
+6207,Not Valid
+6208,Not Valid
+6209,Not Valid
+6210,Not Valid
+6211,0.21995562314987183
+6212,Not Valid
+6213,Not Valid
+6214,Not Valid
+6215,0.5
+6216,0.8257863521575928
+6217,Not Valid
+6218,0.5
+6219,Not Valid
+6220,Not Valid
+6221,0.039441585540771484
+6222,Not Valid
+6223,Not Valid
+6224,Not Valid
+6225,Not Valid
+6226,Not Valid
+6227,Not Valid
+6228,Not Valid
+6229,0.9588704109191895
+6230,Not Valid
+6231,Not Valid
+6232,Not Valid
+6233,0.8821536302566528
+6234,Not Valid
+6235,0.5
+6236,Not Valid
+6237,0.06035894155502319
+6238,0.5
+6239,Not Valid
+6240,0.7525666952133179
+6241,Not Valid
+6242,Not Valid
+6243,Not Valid
+6244,Not Valid
+6245,Not Valid
+6246,Not Valid
+6247,Not Valid
+6248,0.968693733215332
+6249,Not Valid
+6250,0.5
+6251,Not Valid
+6252,Not Valid
+6253,0.24305757880210876
+6254,Not Valid
+6255,0.8110057711601257
+6256,Not Valid
+6257,Not Valid
+6258,Not Valid
+6259,0.2012459933757782
+6260,0.013106554746627808
+6261,0.1564149558544159
+6262,Not Valid
+6263,0.1445031464099884
+6264,0.5
+6265,Not Valid
+6266,Not Valid
+6267,Not Valid
+6268,Not Valid
+6269,Not Valid
+6270,Not Valid
+6271,0.5
+6272,Not Valid
+6273,Not Valid
+6274,Not Valid
+6275,Not Valid
+6276,Not Valid
+6277,0.7959151268005371
+6278,Not Valid
+6279,Not Valid
+6280,Not Valid
+6281,Not Valid
+6282,Not Valid
+6283,Not Valid
+6284,Not Valid
+6285,Not Valid
+6286,Not Valid
+6287,Not Valid
+6288,Not Valid
+6289,Not Valid
+6290,Not Valid
+6291,Not Valid
+6292,Not Valid
+6293,0.20132777094841003
+6294,Not Valid
+6295,0.24803441762924194
+6296,Not Valid
+6297,0.32812291383743286
+6298,Not Valid
+6299,Not Valid
+6300,Not Valid
+6301,Not Valid
+6302,0.8657652735710144
+6303,Not Valid
+6304,Not Valid
+6305,Not Valid
+6306,0.28359198570251465
+6307,Not Valid
+6308,0.2694851756095886
+6309,0.8198484182357788
+6310,0.5
+6311,0.8186661005020142
+6312,Not Valid
+6313,Not Valid
+6314,Not Valid
+6315,Not Valid
+6316,0.5
+6317,Not Valid
+6318,0.009458154439926147
+6319,Not Valid
+6320,0.11923548579216003
+6321,0.10865405201911926
+6322,Not Valid
+6323,Not Valid
+6324,Not Valid
+6325,Not Valid
+6326,0.8491501808166504
+6327,Not Valid
+6328,Not Valid
+6329,Not Valid
+6330,Not Valid
+6331,Not Valid
+6332,0.09850898385047913
+6333,0.5
+6334,Not Valid
+6335,0.10151687264442444
+6336,0.10154774785041809
+6337,Not Valid
+6338,0.25692203640937805
+6339,Not Valid
+6340,0.2273823320865631
+6341,0.26486262679100037
+6342,0.27019014954566956
+6343,Not Valid
+6344,0.134161114692688
+6345,Not Valid
+6346,0.8936442136764526
+6347,Not Valid
+6348,Not Valid
+6349,0.8732656240463257
+6350,Not Valid
+6351,Not Valid
+6352,Not Valid
+6353,Not Valid
+6354,Not Valid
+6355,Not Valid
+6356,Not Valid
+6357,0.242452472448349
+6358,Not Valid
+6359,Not Valid
+6360,Not Valid
+6361,Not Valid
+6362,Not Valid
+6363,Not Valid
+6364,0.126499742269516
+6365,0.3160388767719269
+6366,Not Valid
+6367,Not Valid
+6368,0.5
+6369,0.7820755243301392
+6370,Not Valid
+6371,0.7762582898139954
+6372,0.0471625030040741
+6373,Not Valid
+6374,Not Valid
+6375,0.7047990560531616
+6376,0.7226138114929199
+6377,0.25775906443595886
+6378,0.008844971656799316
+6379,Not Valid
+6380,Not Valid
+6381,0.5
+6382,Not Valid
+6383,0.22112050652503967
+6384,Not Valid
+6385,0.5
+6386,0.5
+6387,Not Valid
+6388,Not Valid
+6389,0.7836861610412598
+6390,0.5
+6391,Not Valid
+6392,0.04761621356010437
+6393,0.5
+6394,0.8690118789672852
+6395,Not Valid
+6396,Not Valid
+6397,Not Valid
+6398,Not Valid
+6399,Not Valid
+6400,0.18909665942192078
+6401,Not Valid
+6402,Not Valid
+6403,Not Valid
+6404,Not Valid
+6405,Not Valid
+6406,Not Valid
+6407,0.22865107655525208
+6408,Not Valid
+6409,Not Valid
+6410,0.24906885623931885
+6411,Not Valid
+6412,0.9114998579025269
+6413,0.5
+6414,Not Valid
+6415,0.9542627334594727
+6416,Not Valid
+6417,Not Valid
+6418,Not Valid
+6419,Not Valid
+6420,Not Valid
+6421,Not Valid
+6422,0.2556160092353821
+6423,Not Valid
+6424,Not Valid
+6425,Not Valid
+6426,Not Valid
+6427,Not Valid
+6428,Not Valid
+6429,Not Valid
+6430,Not Valid
+6431,0.8149223327636719
+6432,Not Valid
+6433,Not Valid
+6434,0.8040602207183838
+6435,Not Valid
+6436,Not Valid
+6437,Not Valid
+6438,Not Valid
+6439,Not Valid
+6440,Not Valid
+6441,Not Valid
+6442,0.13177132606506348
+6443,0.7190333604812622
+6444,Not Valid
+6445,0.0896281898021698
+6446,0.5
+6447,Not Valid
+6448,Not Valid
+6449,Not Valid
+6450,Not Valid
+6451,Not Valid
+6452,Not Valid
+6453,0.5
+6454,Not Valid
+6455,0.5
+6456,Not Valid
+6457,Not Valid
+6458,Not Valid
+6459,0.6958392858505249
+6460,Not Valid
+6461,Not Valid
+6462,Not Valid
+6463,Not Valid
+6464,Not Valid
+6465,0.09890496730804443
+6466,Not Valid
+6467,Not Valid
+6468,Not Valid
+6469,Not Valid
+6470,0.5
+6471,0.021849751472473145
+6472,Not Valid
+6473,Not Valid
+6474,Not Valid
+6475,Not Valid
+6476,Not Valid
+6477,Not Valid
+6478,Not Valid
+6479,Not Valid
+6480,Not Valid
+6481,Not Valid
+6482,0.2636304497718811
+6483,0.9280198812484741
+6484,Not Valid
+6485,0.14034178853034973
+6486,Not Valid
+6487,Not Valid
+6488,0.5
+6489,Not Valid
+6490,Not Valid
+6491,0.2728097438812256
+6492,Not Valid
+6493,Not Valid
+6494,Not Valid
+6495,Not Valid
+6496,0.12270361185073853
+6497,0.23373517394065857
+6498,0.8697025775909424
+6499,Not Valid
+6500,Not Valid
+6501,Not Valid
+6502,0.03209206461906433
+6503,Not Valid
+6504,0.1117638647556305
+6505,Not Valid
+6506,Not Valid
+6507,Not Valid
+6508,Not Valid
+6509,0.24799564480781555
+6510,Not Valid
+6511,0.09245255589485168
+6512,Not Valid
+6513,Not Valid
+6514,Not Valid
+6515,Not Valid
+6516,0.15590831637382507
+6517,Not Valid
+6518,Not Valid
+6519,Not Valid
+6520,Not Valid
+6521,Not Valid
+6522,Not Valid
+6523,Not Valid
+6524,Not Valid
+6525,Not Valid
+6526,Not Valid
+6527,Not Valid
+6528,Not Valid
+6529,Not Valid
+6530,Not Valid
+6531,Not Valid
+6532,0.7920119762420654
+6533,Not Valid
+6534,Not Valid
+6535,Not Valid
+6536,Not Valid
+6537,Not Valid
+6538,0.27364692091941833
+6539,0.23412582278251648
+6540,Not Valid
+6541,Not Valid
+6542,0.024608463048934937
+6543,0.2692325711250305
+6544,0.11303308606147766
+6545,Not Valid
+6546,Not Valid
+6547,Not Valid
+6548,0.9548584222793579
+6549,Not Valid
+6550,Not Valid
+6551,Not Valid
+6552,Not Valid
+6553,Not Valid
+6554,Not Valid
+6555,Not Valid
+6556,Not Valid
+6557,Not Valid
+6558,Not Valid
+6559,Not Valid
+6560,Not Valid
+6561,0.04779139161109924
+6562,Not Valid
+6563,Not Valid
+6564,Not Valid
+6565,0.5
+6566,0.7690047025680542
+6567,Not Valid
+6568,Not Valid
+6569,Not Valid
+6570,0.11127358675003052
+6571,Not Valid
+6572,Not Valid
+6573,0.018777996301651
+6574,0.5
+6575,0.7646565437316895
+6576,Not Valid
+6577,Not Valid
+6578,0.8226314783096313
+6579,0.1950191855430603
+6580,Not Valid
+6581,0.24561551213264465
+6582,0.18904253840446472
+6583,0.7764852643013
+6584,Not Valid
+6585,0.8893415927886963
+6586,0.9369672536849976
+6587,Not Valid
+6588,0.19463133811950684
+6589,0.806440532207489
+6590,Not Valid
+6591,0.11044499278068542
+6592,0.014027118682861328
+6593,Not Valid
+6594,Not Valid
+6595,0.7859115600585938
+6596,0.2979104518890381
+6597,0.19091501832008362
+6598,0.044087231159210205
+6599,0.8813003301620483
+6600,Not Valid
+6601,Not Valid
+6602,0.7754926681518555
+6603,Not Valid
+6604,Not Valid
+6605,Not Valid
+6606,Not Valid
+6607,Not Valid
+6608,Not Valid
+6609,Not Valid
+6610,Not Valid
+6611,0.2141229212284088
+6612,Not Valid
+6613,0.889752209186554
+6614,0.1837044060230255
+6615,Not Valid
+6616,Not Valid
+6617,Not Valid
+6618,Not Valid
+6619,0.8164185881614685
+6620,0.03847688436508179
+6621,0.8798975944519043
+6622,0.7488225102424622
+6623,Not Valid
+6624,Not Valid
+6625,Not Valid
+6626,Not Valid
+6627,Not Valid
+6628,Not Valid
+6629,Not Valid
+6630,Not Valid
+6631,Not Valid
+6632,Not Valid
+6633,0.19244977831840515
+6634,0.8337675929069519
+6635,Not Valid
+6636,Not Valid
+6637,Not Valid
+6638,Not Valid
+6639,Not Valid
+6640,Not Valid
+6641,0.12899741530418396
+6642,Not Valid
+6643,Not Valid
+6644,Not Valid
+6645,Not Valid
+6646,Not Valid
+6647,0.1367437243461609
+6648,0.8960931301116943
+6649,Not Valid
+6650,Not Valid
+6651,0.17585507035255432
+6652,Not Valid
+6653,0.03636994957923889
+6654,Not Valid
+6655,Not Valid
+6656,0.22251379489898682
+6657,Not Valid
+6658,Not Valid
+6659,0.281164288520813
+6660,0.22790482640266418
+6661,Not Valid
+6662,0.8211743831634521
+6663,Not Valid
+6664,Not Valid
+6665,0.22476893663406372
+6666,Not Valid
+6667,0.13870355486869812
+6668,Not Valid
+6669,0.19722211360931396
+6670,Not Valid
+6671,0.8291102051734924
+6672,0.07880082726478577
+6673,Not Valid
+6674,Not Valid
+6675,Not Valid
+6676,0.2073228657245636
+6677,Not Valid
+6678,Not Valid
+6679,Not Valid
+6680,0.2361082136631012
+6681,0.22343218326568604
+6682,Not Valid
+6683,Not Valid
+6684,Not Valid
+6685,Not Valid
+6686,Not Valid
+6687,Not Valid
+6688,Not Valid
+6689,Not Valid
+6690,Not Valid
+6691,0.8758541345596313
+6692,0.5
+6693,Not Valid
+6694,Not Valid
+6695,0.24452149868011475
+6696,Not Valid
+6697,0.25180089473724365
+6698,Not Valid
+6699,Not Valid
+6700,Not Valid
+6701,Not Valid
+6702,0.7909739017486572
+6703,0.13091811537742615
+6704,Not Valid
+6705,Not Valid
+6706,Not Valid
+6707,0.5
+6708,Not Valid
+6709,Not Valid
+6710,Not Valid
+6711,Not Valid
+6712,Not Valid
+6713,Not Valid
+6714,Not Valid
+6715,Not Valid
+6716,0.2147221565246582
+6717,Not Valid
+6718,Not Valid
+6719,Not Valid
+6720,Not Valid
+6721,Not Valid
+6722,Not Valid
+6723,Not Valid
+6724,0.14923158288002014
+6725,0.08520281314849854
+6726,Not Valid
+6727,0.23292997479438782
+6728,Not Valid
+6729,Not Valid
+6730,0.9719247817993164
+6731,Not Valid
+6732,Not Valid
+6733,Not Valid
+6734,0.033836930990219116
+6735,Not Valid
+6736,Not Valid
+6737,Not Valid
+6738,Not Valid
+6739,Not Valid
+6740,Not Valid
+6741,Not Valid
+6742,Not Valid
+6743,Not Valid
+6744,Not Valid
+6745,Not Valid
+6746,Not Valid
+6747,Not Valid
+6748,Not Valid
+6749,Not Valid
+6750,Not Valid
+6751,Not Valid
+6752,0.2476339042186737
+6753,Not Valid
+6754,Not Valid
+6755,Not Valid
+6756,Not Valid
+6757,Not Valid
+6758,Not Valid
+6759,Not Valid
+6760,Not Valid
+6761,Not Valid
+6762,Not Valid
+6763,Not Valid
+6764,Not Valid
+6765,Not Valid
+6766,Not Valid
+6767,0.5
+6768,Not Valid
+6769,Not Valid
+6770,Not Valid
+6771,0.2545040249824524
+6772,Not Valid
+6773,Not Valid
+6774,0.5
+6775,Not Valid
+6776,0.03468361496925354
+6777,0.17315474152565002
+6778,0.16023123264312744
+6779,0.27981317043304443
+6780,Not Valid
+6781,Not Valid
+6782,0.2969954013824463
+6783,Not Valid
+6784,0.12822836637496948
+6785,Not Valid
+6786,Not Valid
+6787,Not Valid
+6788,Not Valid
+6789,Not Valid
+6790,Not Valid
+6791,0.22006842494010925
+6792,Not Valid
+6793,0.8493087291717529
+6794,Not Valid
+6795,0.2602427005767822
+6796,Not Valid
+6797,Not Valid
+6798,Not Valid
+6799,0.05178216099739075
+6800,Not Valid
+6801,Not Valid
+6802,0.8309840559959412
+6803,0.8074089288711548
+6804,Not Valid
+6805,Not Valid
+6806,0.7340971231460571
+6807,Not Valid
+6808,Not Valid
+6809,Not Valid
+6810,Not Valid
+6811,Not Valid
+6812,Not Valid
+6813,Not Valid
+6814,Not Valid
+6815,Not Valid
+6816,Not Valid
+6817,Not Valid
+6818,Not Valid
+6819,0.8241792321205139
+6820,0.11389172077178955
+6821,Not Valid
+6822,Not Valid
+6823,Not Valid
+6824,Not Valid
+6825,0.1304948627948761
+6826,Not Valid
+6827,Not Valid
+6828,Not Valid
+6829,0.1280125081539154
+6830,0.13128456473350525
+6831,Not Valid
+6832,0.23812276124954224
+6833,Not Valid
+6834,Not Valid
+6835,0.774474024772644
+6836,Not Valid
+6837,0.0126706063747406
+6838,Not Valid
+6839,Not Valid
+6840,Not Valid
+6841,Not Valid
+6842,0.734050989151001
+6843,0.09919360280036926
+6844,0.5
+6845,Not Valid
+6846,Not Valid
+6847,Not Valid
+6848,Not Valid
+6849,Not Valid
+6850,Not Valid
+6851,Not Valid
+6852,0.24557176232337952
+6853,Not Valid
+6854,0.8823451995849609
+6855,0.1957588493824005
+6856,Not Valid
+6857,Not Valid
+6858,Not Valid
+6859,Not Valid
+6860,0.23367470502853394
+6861,Not Valid
+6862,Not Valid
+6863,Not Valid
+6864,Not Valid
+6865,Not Valid
+6866,0.20179420709609985
+6867,0.21507006883621216
+6868,0.0773250162601471
+6869,Not Valid
+6870,Not Valid
+6871,0.9488303661346436
+6872,0.16779786348342896
+6873,Not Valid
+6874,Not Valid
+6875,0.17448759078979492
+6876,Not Valid
+6877,Not Valid
+6878,0.05843189358711243
+6879,0.9034459590911865
+6880,Not Valid
+6881,Not Valid
+6882,Not Valid
+6883,Not Valid
+6884,Not Valid
+6885,Not Valid
+6886,Not Valid
+6887,0.04858401417732239
+6888,Not Valid
+6889,Not Valid
+6890,Not Valid
+6891,0.5
+6892,Not Valid
+6893,Not Valid
+6894,Not Valid
+6895,Not Valid
+6896,Not Valid
+6897,0.2391151487827301
+6898,0.9895570278167725
+6899,Not Valid
+6900,0.7922960519790649
+6901,Not Valid
+6902,Not Valid
+6903,Not Valid
+6904,Not Valid
+6905,Not Valid
+6906,Not Valid
+6907,Not Valid
+6908,Not Valid
+6909,Not Valid
+6910,Not Valid
+6911,Not Valid
+6912,Not Valid
+6913,Not Valid
+6914,Not Valid
+6915,Not Valid
+6916,Not Valid
+6917,0.04590049386024475
+6918,Not Valid
+6919,Not Valid
+6920,0.740858793258667
+6921,0.5
+6922,Not Valid
+6923,Not Valid
+6924,Not Valid
+6925,Not Valid
+6926,Not Valid
+6927,Not Valid
+6928,Not Valid
+6929,Not Valid
+6930,Not Valid
+6931,0.9120228886604309
+6932,0.9366799592971802
+6933,Not Valid
+6934,Not Valid
+6935,Not Valid
+6936,0.9057062864303589
+6937,Not Valid
+6938,Not Valid
+6939,0.8014522790908813
+6940,Not Valid
+6941,Not Valid
+6942,Not Valid
+6943,Not Valid
+6944,Not Valid
+6945,Not Valid
+6946,Not Valid
+6947,0.7567061185836792
+6948,0.7794960737228394
+6949,Not Valid
+6950,0.8291356563568115
+6951,0.8945231437683105
+6952,Not Valid
+6953,0.742184042930603
+6954,Not Valid
+6955,Not Valid
+6956,0.03615891933441162
+6957,0.06273379921913147
+6958,Not Valid
+6959,Not Valid
+6960,Not Valid
+6961,Not Valid
+6962,Not Valid
+6963,Not Valid
+6964,Not Valid
+6965,Not Valid
+6966,Not Valid
+6967,Not Valid
+6968,0.2236366868019104
+6969,Not Valid
+6970,Not Valid
+6971,Not Valid
+6972,0.7995358109474182
+6973,Not Valid
+6974,Not Valid
+6975,Not Valid
+6976,Not Valid
+6977,Not Valid
+6978,Not Valid
+6979,Not Valid
+6980,Not Valid
+6981,Not Valid
+6982,Not Valid
+6983,0.25675517320632935
+6984,Not Valid
+6985,Not Valid
+6986,0.12406915426254272
+6987,Not Valid
+6988,Not Valid
+6989,Not Valid
+6990,Not Valid
+6991,Not Valid
+6992,0.15960869193077087
+6993,Not Valid
+6994,Not Valid
+6995,Not Valid
+6996,0.9576441049575806
+6997,Not Valid
+6998,Not Valid
+6999,Not Valid
+7000,Not Valid
+7001,Not Valid
+7002,Not Valid
+7003,0.5
+7004,Not Valid
+7005,0.940980076789856
+7006,Not Valid
+7007,Not Valid
+7008,Not Valid
+7009,Not Valid
+7010,Not Valid
+7011,Not Valid
+7012,Not Valid
+7013,Not Valid
+7014,Not Valid
+7015,0.9630566835403442
+7016,0.5
+7017,Not Valid
+7018,Not Valid
+7019,Not Valid
+7020,Not Valid
+7021,Not Valid
+7022,0.5
+7023,Not Valid
+7024,0.28549104928970337
+7025,0.24825721979141235
+7026,Not Valid
+7027,Not Valid
+7028,Not Valid
+7029,Not Valid
+7030,0.7962926030158997
+7031,0.23050257563591003
+7032,0.19216135144233704
+7033,Not Valid
+7034,Not Valid
+7035,Not Valid
+7036,0.5
+7037,0.5
+7038,Not Valid
+7039,Not Valid
+7040,0.5
+7041,Not Valid
+7042,Not Valid
+7043,Not Valid
+7044,0.2627807855606079
+7045,0.09629678726196289
+7046,Not Valid
+7047,0.7448316216468811
+7048,0.8586283922195435
+7049,Not Valid
+7050,0.05003732442855835
+7051,Not Valid
+7052,Not Valid
+7053,Not Valid
+7054,0.5
+7055,Not Valid
+7056,0.081583172082901
+7057,0.11587783694267273
+7058,Not Valid
+7059,Not Valid
+7060,Not Valid
+7061,0.5
+7062,Not Valid
+7063,Not Valid
+7064,Not Valid
+7065,Not Valid
+7066,Not Valid
+7067,Not Valid
+7068,Not Valid
+7069,Not Valid
+7070,0.8435496091842651
+7071,Not Valid
+7072,0.5
+7073,Not Valid
+7074,0.8440738916397095
+7075,0.23052123188972473
+7076,Not Valid
+7077,Not Valid
+7078,0.0865926742553711
+7079,0.12005209922790527
+7080,Not Valid
+7081,Not Valid
+7082,Not Valid
+7083,Not Valid
+7084,Not Valid
+7085,Not Valid
+7086,Not Valid
+7087,Not Valid
+7088,Not Valid
+7089,Not Valid
+7090,0.0579339861869812
+7091,0.2147592306137085
+7092,Not Valid
+7093,Not Valid
+7094,0.1460864245891571
+7095,Not Valid
+7096,0.5
+7097,Not Valid
+7098,0.7741456031799316
+7099,Not Valid
+7100,0.5
+7101,Not Valid
+7102,Not Valid
+7103,Not Valid
+7104,0.18219101428985596
+7105,Not Valid
+7106,0.19527655839920044
+7107,0.08766597509384155
+7108,Not Valid
+7109,Not Valid
+7110,Not Valid
+7111,Not Valid
+7112,0.8521231412887573
+7113,Not Valid
+7114,Not Valid
+7115,Not Valid
+7116,0.87827467918396
+7117,Not Valid
+7118,Not Valid
+7119,Not Valid
+7120,Not Valid
+7121,Not Valid
+7122,Not Valid
+7123,Not Valid
+7124,Not Valid
+7125,Not Valid
+7126,Not Valid
+7127,Not Valid
+7128,Not Valid
+7129,Not Valid
+7130,Not Valid
+7131,0.1845863163471222
+7132,Not Valid
+7133,0.5
+7134,Not Valid
+7135,Not Valid
+7136,Not Valid
+7137,Not Valid
+7138,Not Valid
+7139,0.23120242357254028
+7140,Not Valid
+7141,0.2606472373008728
+7142,Not Valid
+7143,Not Valid
+7144,0.15960285067558289
+7145,Not Valid
+7146,Not Valid
+7147,0.2963121235370636
+7148,Not Valid
+7149,Not Valid
+7150,Not Valid
+7151,Not Valid
+7152,0.06652143597602844
+7153,Not Valid
+7154,0.2283307909965515
+7155,Not Valid
+7156,Not Valid
+7157,Not Valid
+7158,Not Valid
+7159,Not Valid
+7160,Not Valid
+7161,Not Valid
+7162,Not Valid
+7163,Not Valid
+7164,0.05180153250694275
+7165,Not Valid
+7166,0.9570035338401794
+7167,Not Valid
+7168,Not Valid
+7169,Not Valid
+7170,Not Valid
+7171,0.24424651265144348
+7172,Not Valid
+7173,Not Valid
+7174,Not Valid
+7175,Not Valid
+7176,Not Valid
+7177,Not Valid
+7178,Not Valid
+7179,Not Valid
+7180,Not Valid
+7181,Not Valid
+7182,0.13943827152252197
+7183,0.5
+7184,Not Valid
+7185,Not Valid
+7186,Not Valid
+7187,0.10888552665710449
+7188,0.5
+7189,0.5
+7190,0.918465256690979
+7191,0.17074796557426453
+7192,Not Valid
+7193,Not Valid
+7194,0.7736448049545288
+7195,Not Valid
+7196,Not Valid
+7197,Not Valid
+7198,Not Valid
+7199,Not Valid
+7200,0.5
+7201,Not Valid
+7202,Not Valid
+7203,0.14345213770866394
+7204,0.2394457757472992
+7205,0.29912006855010986
+7206,Not Valid
+7207,Not Valid
+7208,Not Valid
+7209,Not Valid
+7210,Not Valid
+7211,0.1035429835319519
+7212,Not Valid
+7213,Not Valid
+7214,Not Valid
+7215,Not Valid
+7216,Not Valid
+7217,0.06243059039115906
+7218,Not Valid
+7219,Not Valid
+7220,0.6826267838478088
+7221,Not Valid
+7222,0.21689221262931824
+7223,0.7543891668319702
+7224,0.5
+7225,0.2180224061012268
+7226,Not Valid
+7227,Not Valid
+7228,0.7496528029441833
+7229,Not Valid
+7230,Not Valid
+7231,Not Valid
+7232,Not Valid
+7233,Not Valid
+7234,0.5
+7235,Not Valid
+7236,Not Valid
+7237,0.10833397507667542
+7238,Not Valid
+7239,0.10629141330718994
+7240,0.06957933306694031
+7241,0.5
+7242,Not Valid
+7243,0.07817912101745605
+7244,0.027914762496948242
+7245,0.22842499613761902
+7246,0.5
+7247,0.10014966130256653
+7248,0.1113843023777008
+7249,Not Valid
+7250,0.09588733315467834
+7251,0.046567440032958984
+7252,0.5
+7253,Not Valid
+7254,0.1403004229068756
+7255,Not Valid
+7256,Not Valid
+7257,Not Valid
+7258,0.22625255584716797
+7259,0.5
+7260,0.13143998384475708
+7261,0.7493997812271118
+7262,Not Valid
+7263,Not Valid
+7264,Not Valid
+7265,0.02072569727897644
+7266,0.5
+7267,0.5
+7268,Not Valid
+7269,0.5
+7270,Not Valid
+7271,0.7635831832885742
+7272,Not Valid
+7273,Not Valid
+7274,Not Valid
+7275,Not Valid
+7276,Not Valid
+7277,Not Valid
+7278,Not Valid
+7279,0.18343785405158997
+7280,Not Valid
+7281,Not Valid
+7282,Not Valid
+7283,Not Valid
+7284,Not Valid
+7285,Not Valid
+7286,Not Valid
+7287,Not Valid
+7288,Not Valid
+7289,Not Valid
+7290,Not Valid
+7291,Not Valid
+7292,Not Valid
+7293,0.5
+7294,Not Valid
+7295,Not Valid
+7296,Not Valid
+7297,Not Valid
+7298,0.13097912073135376
+7299,Not Valid
+7300,Not Valid
+7301,Not Valid
+7302,0.5
+7303,Not Valid
+7304,0.1522464156150818
+7305,Not Valid
+7306,Not Valid
+7307,0.8288915157318115
+7308,Not Valid
+7309,Not Valid
+7310,Not Valid
+7311,Not Valid
+7312,Not Valid
+7313,Not Valid
+7314,Not Valid
+7315,0.13398030400276184
+7316,0.1256265938282013
+7317,Not Valid
+7318,0.5
+7319,Not Valid
+7320,0.06282585859298706
+7321,Not Valid
+7322,Not Valid
+7323,Not Valid
+7324,Not Valid
+7325,0.9077874422073364
+7326,Not Valid
+7327,Not Valid
+7328,Not Valid
+7329,Not Valid
+7330,Not Valid
+7331,Not Valid
+7332,Not Valid
+7333,0.23987820744514465
+7334,Not Valid
+7335,Not Valid
+7336,Not Valid
+7337,Not Valid
+7338,Not Valid
+7339,Not Valid
+7340,Not Valid
+7341,Not Valid
+7342,0.848107635974884
+7343,Not Valid
+7344,Not Valid
+7345,Not Valid
+7346,0.7344676852226257
+7347,Not Valid
+7348,Not Valid
+7349,Not Valid
+7350,Not Valid
+7351,0.8838505744934082
+7352,Not Valid
+7353,Not Valid
+7354,Not Valid
+7355,Not Valid
+7356,Not Valid
+7357,0.11197018623352051
+7358,Not Valid
+7359,Not Valid
+7360,Not Valid
+7361,Not Valid
+7362,Not Valid
+7363,Not Valid
+7364,Not Valid
+7365,Not Valid
+7366,0.5
+7367,Not Valid
+7368,Not Valid
+7369,Not Valid
+7370,Not Valid
+7371,Not Valid
+7372,Not Valid
+7373,Not Valid
+7374,Not Valid
+7375,Not Valid
+7376,Not Valid
+7377,0.22171083092689514
+7378,Not Valid
+7379,Not Valid
+7380,Not Valid
+7381,Not Valid
+7382,Not Valid
+7383,Not Valid
+7384,Not Valid
+7385,0.9675768613815308
+7386,Not Valid
+7387,Not Valid
+7388,Not Valid
+7389,Not Valid
+7390,Not Valid
+7391,Not Valid
+7392,Not Valid
+7393,0.5
+7394,Not Valid
+7395,Not Valid
+7396,0.7929414510726929
+7397,0.18445220589637756
+7398,Not Valid
+7399,0.10599121451377869
+7400,Not Valid
+7401,Not Valid
+7402,Not Valid
+7403,Not Valid
+7404,0.5
+7405,Not Valid
+7406,0.22476661205291748
+7407,Not Valid
+7408,0.2933555841445923
+7409,0.06000798940658569
+7410,0.8123143911361694
+7411,0.2101338803768158
+7412,Not Valid
+7413,Not Valid
+7414,Not Valid
+7415,Not Valid
+7416,0.08803272247314453
+7417,0.9841071367263794
+7418,Not Valid
+7419,Not Valid
+7420,0.006291389465332031
+7421,Not Valid
+7422,Not Valid
+7423,Not Valid
+7424,Not Valid
+7425,Not Valid
+7426,0.10248187184333801
+7427,Not Valid
+7428,0.7396923303604126
+7429,Not Valid
+7430,Not Valid
+7431,Not Valid
+7432,0.8699097633361816
+7433,Not Valid
+7434,Not Valid
+7435,Not Valid
+7436,Not Valid
+7437,Not Valid
+7438,Not Valid
+7439,0.5
+7440,Not Valid
+7441,Not Valid
+7442,Not Valid
+7443,Not Valid
+7444,Not Valid
+7445,Not Valid
+7446,Not Valid
+7447,Not Valid
+7448,Not Valid
+7449,Not Valid
+7450,Not Valid
+7451,Not Valid
+7452,Not Valid
+7453,Not Valid
+7454,Not Valid
+7455,Not Valid
+7456,Not Valid
+7457,Not Valid
+7458,0.5
+7459,Not Valid
+7460,Not Valid
+7461,Not Valid
+7462,Not Valid
+7463,Not Valid
+7464,Not Valid
+7465,Not Valid
+7466,Not Valid
+7467,Not Valid
+7468,Not Valid
+7469,Not Valid
+7470,Not Valid
+7471,Not Valid
+7472,Not Valid
+7473,Not Valid
+7474,0.9919161200523376
+7475,0.1069716215133667
+7476,Not Valid
+7477,Not Valid
+7478,Not Valid
+7479,Not Valid
+7480,Not Valid
+7481,Not Valid
+7482,Not Valid
+7483,Not Valid
+7484,Not Valid
+7485,0.1432761251926422
+7486,0.19227737188339233
+7487,0.7794936299324036
+7488,0.07015317678451538
+7489,Not Valid
+7490,0.13390439748764038
+7491,0.7809554934501648
+7492,0.7138811945915222
+7493,Not Valid
+7494,Not Valid
+7495,0.13988211750984192
+7496,0.03371819853782654
+7497,0.8029249310493469
+7498,Not Valid
+7499,Not Valid
+7500,Not Valid
+7501,0.9623868465423584
+7502,0.06008598208427429
+7503,0.7184869050979614
+7504,0.10174807906150818
+7505,Not Valid
+7506,0.5
+7507,0.1317586600780487
+7508,0.5
+7509,Not Valid
+7510,0.2472715973854065
+7511,0.21161416172981262
+7512,Not Valid
+7513,Not Valid
+7514,0.09884241223335266
+7515,Not Valid
+7516,Not Valid
+7517,Not Valid
+7518,0.5
+7519,0.2659742534160614
+7520,Not Valid
+7521,Not Valid
+7522,0.15676677227020264
+7523,Not Valid
+7524,Not Valid
+7525,0.12406313419342041
+7526,Not Valid
+7527,0.7453193664550781
+7528,Not Valid
+7529,Not Valid
+7530,0.9765438437461853
+7531,0.839067816734314
+7532,0.24174293875694275
+7533,Not Valid
+7534,Not Valid
+7535,Not Valid
+7536,Not Valid
+7537,Not Valid
+7538,Not Valid
+7539,Not Valid
+7540,Not Valid
+7541,Not Valid
+7542,0.9803258180618286
+7543,Not Valid
+7544,Not Valid
+7545,Not Valid
+7546,0.8154689073562622
+7547,0.17123684287071228
+7548,Not Valid
+7549,Not Valid
+7550,Not Valid
+7551,Not Valid
+7552,Not Valid
+7553,Not Valid
+7554,Not Valid
+7555,0.5
+7556,0.09718352556228638
+7557,Not Valid
+7558,Not Valid
+7559,Not Valid
+7560,0.7875216007232666
+7561,0.01502189040184021
+7562,Not Valid
+7563,Not Valid
+7564,Not Valid
+7565,Not Valid
+7566,0.08663022518157959
+7567,Not Valid
+7568,0.2513388991355896
+7569,Not Valid
+7570,Not Valid
+7571,Not Valid
+7572,0.5
+7573,Not Valid
+7574,Not Valid
+7575,0.5
+7576,Not Valid
+7577,Not Valid
+7578,Not Valid
+7579,0.5
+7580,Not Valid
+7581,Not Valid
+7582,Not Valid
+7583,0.9282737970352173
+7584,Not Valid
+7585,Not Valid
+7586,0.0947403609752655
+7587,0.07004085183143616
+7588,Not Valid
+7589,Not Valid
+7590,0.9282737970352173
+7591,Not Valid
+7592,Not Valid
+7593,Not Valid
+7594,0.8436269760131836
+7595,Not Valid
+7596,Not Valid
+7597,0.7503597736358643
+7598,Not Valid
+7599,0.9282737970352173
+7600,Not Valid
+7601,Not Valid
+7602,Not Valid
+7603,Not Valid
+7604,Not Valid
+7605,Not Valid
+7606,Not Valid
+7607,Not Valid
+7608,Not Valid
+7609,Not Valid
+7610,Not Valid
+7611,Not Valid
+7612,Not Valid
+7613,0.9182804822921753
+7614,Not Valid
+7615,Not Valid
+7616,0.7417491674423218
+7617,Not Valid
+7618,0.9776691198348999
+7619,Not Valid
+7620,Not Valid
+7621,Not Valid
+7622,Not Valid
+7623,Not Valid
+7624,Not Valid
+7625,Not Valid
+7626,0.8832379579544067
+7627,Not Valid
+7628,Not Valid
+7629,0.7569276094436646
+7630,Not Valid
+7631,Not Valid
+7632,Not Valid
+7633,Not Valid
+7634,Not Valid
+7635,0.8944051265716553
+7636,Not Valid
+7637,Not Valid
+7638,0.812066912651062
+7639,Not Valid
+7640,Not Valid
+7641,Not Valid
+7642,Not Valid
+7643,Not Valid
+7644,0.20764803886413574
+7645,0.8514953851699829
+7646,Not Valid
+7647,Not Valid
+7648,Not Valid
+7649,Not Valid
+7650,Not Valid
+7651,Not Valid
+7652,Not Valid
+7653,0.5
+7654,Not Valid
+7655,Not Valid
+7656,Not Valid
+7657,0.8698123693466187
+7658,Not Valid
+7659,Not Valid
+7660,Not Valid
+7661,Not Valid
+7662,Not Valid
+7663,Not Valid
+7664,Not Valid
+7665,Not Valid
+7666,Not Valid
+7667,Not Valid
+7668,0.21610486507415771
+7669,Not Valid
+7670,Not Valid
+7671,Not Valid
+7672,Not Valid
+7673,Not Valid
+7674,0.2998851537704468
+7675,Not Valid
+7676,Not Valid
+7677,Not Valid
+7678,Not Valid
+7679,0.8175884485244751
+7680,Not Valid
+7681,Not Valid
+7682,0.79692542552948
+7683,0.5
+7684,0.2236938774585724
+7685,Not Valid
+7686,0.2290383279323578
+7687,0.07657083868980408
+7688,Not Valid
+7689,Not Valid
+7690,Not Valid
+7691,0.8387588858604431
+7692,0.5
+7693,0.8681999444961548
+7694,Not Valid
+7695,Not Valid
+7696,0.2305746078491211
+7697,Not Valid
+7698,0.5
+7699,Not Valid
+7700,Not Valid
+7701,Not Valid
+7702,Not Valid
+7703,Not Valid
+7704,Not Valid
+7705,Not Valid
+7706,Not Valid
+7707,Not Valid
+7708,Not Valid
+7709,Not Valid
+7710,Not Valid
+7711,Not Valid
+7712,Not Valid
+7713,Not Valid
+7714,Not Valid
+7715,Not Valid
+7716,Not Valid
+7717,0.5
+7718,Not Valid
+7719,Not Valid
+7720,Not Valid
+7721,0.5
+7722,Not Valid
+7723,Not Valid
+7724,Not Valid
+7725,Not Valid
+7726,Not Valid
+7727,Not Valid
+7728,Not Valid
+7729,Not Valid
+7730,Not Valid
+7731,0.21770894527435303
+7732,Not Valid
+7733,Not Valid
+7734,0.061274319887161255
+7735,Not Valid
+7736,Not Valid
+7737,0.5
+7738,Not Valid
+7739,0.25479036569595337
+7740,0.035912126302719116
+7741,Not Valid
+7742,Not Valid
+7743,Not Valid
+7744,0.1830580234527588
+7745,Not Valid
+7746,Not Valid
+7747,Not Valid
+7748,Not Valid
+7749,Not Valid
+7750,Not Valid
+7751,Not Valid
+7752,0.7126340866088867
+7753,Not Valid
+7754,Not Valid
+7755,Not Valid
+7756,Not Valid
+7757,0.5
+7758,Not Valid
+7759,Not Valid
+7760,Not Valid
+7761,Not Valid
+7762,Not Valid
+7763,0.9760528802871704
+7764,Not Valid
+7765,Not Valid
+7766,0.5
+7767,Not Valid
+7768,Not Valid
+7769,Not Valid
+7770,Not Valid
+7771,Not Valid
+7772,0.5
+7773,Not Valid
+7774,Not Valid
+7775,Not Valid
+7776,Not Valid
+7777,Not Valid
+7778,Not Valid
+7779,Not Valid
+7780,Not Valid
+7781,0.011345922946929932
+7782,Not Valid
+7783,0.5
+7784,Not Valid
+7785,Not Valid
+7786,Not Valid
+7787,Not Valid
+7788,Not Valid
+7789,Not Valid
+7790,0.25097888708114624
+7791,Not Valid
+7792,Not Valid
+7793,0.15674397349357605
+7794,Not Valid
+7795,Not Valid
+7796,Not Valid
+7797,Not Valid
+7798,Not Valid
+7799,Not Valid
+7800,Not Valid
+7801,Not Valid
+7802,0.5
+7803,Not Valid
+7804,0.5
+7805,Not Valid
+7806,0.1778828203678131
+7807,Not Valid
+7808,Not Valid
+7809,0.20045426487922668
+7810,Not Valid
+7811,Not Valid
+7812,Not Valid
+7813,Not Valid
+7814,Not Valid
+7815,Not Valid
+7816,Not Valid
+7817,Not Valid
+7818,0.26563435792922974
+7819,Not Valid
+7820,Not Valid
+7821,Not Valid
+7822,0.10869252681732178
+7823,Not Valid
+7824,0.5
+7825,0.08467885851860046
+7826,Not Valid
+7827,Not Valid
+7828,Not Valid
+7829,Not Valid
+7830,Not Valid
+7831,Not Valid
+7832,Not Valid
+7833,Not Valid
+7834,Not Valid
+7835,Not Valid
+7836,0.9790887236595154
+7837,Not Valid
+7838,0.21627026796340942
+7839,0.7856117486953735
+7840,Not Valid
+7841,Not Valid
+7842,Not Valid
+7843,Not Valid
+7844,Not Valid
+7845,Not Valid
+7846,0.24849051237106323
+7847,0.09735360741615295
+7848,Not Valid
+7849,Not Valid
+7850,Not Valid
+7851,Not Valid
+7852,0.8291701078414917
+7853,Not Valid
+7854,Not Valid
+7855,Not Valid
+7856,0.08216887712478638
+7857,0.9179896712303162
+7858,Not Valid
+7859,Not Valid
+7860,Not Valid
+7861,0.8916407823562622
+7862,Not Valid
+7863,Not Valid
+7864,Not Valid
+7865,Not Valid
+7866,0.9307773113250732
+7867,Not Valid
+7868,Not Valid
+7869,0.8601600527763367
+7870,0.9357666969299316
+7871,Not Valid
+7872,Not Valid
+7873,0.7711108922958374
+7874,Not Valid
+7875,Not Valid
+7876,0.14861753582954407
+7877,Not Valid
+7878,Not Valid
+7879,Not Valid
+7880,0.18964284658432007
+7881,Not Valid
+7882,Not Valid
+7883,Not Valid
+7884,Not Valid
+7885,Not Valid
+7886,Not Valid
+7887,Not Valid
+7888,0.9210854172706604
+7889,Not Valid
+7890,0.7624362111091614
+7891,Not Valid
+7892,Not Valid
+7893,0.1314454972743988
+7894,0.13981369137763977
+7895,0.21469393372535706
+7896,Not Valid
+7897,Not Valid
+7898,Not Valid
+7899,Not Valid
+7900,Not Valid
+7901,Not Valid
+7902,Not Valid
+7903,Not Valid
+7904,Not Valid
+7905,0.16548404097557068
+7906,Not Valid
+7907,Not Valid
+7908,Not Valid
+7909,Not Valid
+7910,0.9303673505783081
+7911,Not Valid
+7912,Not Valid
+7913,Not Valid
+7914,Not Valid
+7915,Not Valid
+7916,Not Valid
+7917,Not Valid
+7918,Not Valid
+7919,Not Valid
+7920,Not Valid
+7921,Not Valid
+7922,0.08075672388076782
+7923,0.7653692960739136
+7924,Not Valid
+7925,0.2295209765434265
+7926,0.7621649503707886
+7927,Not Valid
+7928,Not Valid
+7929,Not Valid
+7930,Not Valid
+7931,0.5
+7932,Not Valid
+7933,Not Valid
+7934,Not Valid
+7935,0.5
+7936,Not Valid
+7937,Not Valid
+7938,Not Valid
+7939,Not Valid
+7940,Not Valid
+7941,Not Valid
+7942,Not Valid
+7943,Not Valid
+7944,Not Valid
+7945,Not Valid
+7946,Not Valid
+7947,0.5
+7948,Not Valid
+7949,0.5
+7950,0.5
+7951,0.9154195785522461
+7952,Not Valid
+7953,Not Valid
+7954,Not Valid
+7955,Not Valid
+7956,Not Valid
+7957,0.8806013464927673
+7958,0.23508134484291077
+7959,Not Valid
+7960,0.1128254234790802
+7961,Not Valid
+7962,Not Valid
+7963,Not Valid
+7964,Not Valid
+7965,Not Valid
+7966,Not Valid
+7967,0.2616428732872009
+7968,Not Valid
+7969,Not Valid
+7970,Not Valid
+7971,Not Valid
+7972,Not Valid
+7973,Not Valid
+7974,Not Valid
+7975,Not Valid
+7976,Not Valid
+7977,0.1751469373703003
+7978,Not Valid
+7979,0.8763760328292847
+7980,Not Valid
+7981,Not Valid
+7982,Not Valid
+7983,0.8289309740066528
+7984,Not Valid
+7985,Not Valid
+7986,Not Valid
+7987,Not Valid
+7988,Not Valid
+7989,Not Valid
+7990,Not Valid
+7991,Not Valid
+7992,0.017844468355178833
+7993,Not Valid
+7994,0.975213885307312
+7995,0.03841722011566162
+7996,Not Valid
+7997,Not Valid
+7998,0.7761727571487427
+7999,0.07843542098999023
+8000,Not Valid
+8001,0.10253337025642395
+8002,0.5
+8003,Not Valid
+8004,0.3032182455062866
+8005,Not Valid
+8006,0.045243293046951294
+8007,Not Valid
+8008,Not Valid
+8009,Not Valid
+8010,Not Valid
+8011,0.07902315258979797
+8012,0.8047959804534912
+8013,0.9607081413269043
+8014,Not Valid
+8015,0.27039048075675964
+8016,Not Valid
+8017,Not Valid
+8018,0.016354143619537354
+8019,0.5
+8020,Not Valid
+8021,0.07815471291542053
+8022,0.5
+8023,Not Valid
+8024,Not Valid
+8025,Not Valid
+8026,Not Valid
+8027,Not Valid
+8028,Not Valid
+8029,0.19915643334388733
+8030,Not Valid
+8031,Not Valid
+8032,Not Valid
+8033,0.9519363641738892
+8034,Not Valid
+8035,Not Valid
+8036,Not Valid
+8037,0.2863306403160095
+8038,0.19413626194000244
+8039,0.1449539065361023
+8040,Not Valid
+8041,Not Valid
+8042,Not Valid
+8043,Not Valid
+8044,Not Valid
+8045,Not Valid
+8046,0.5
+8047,Not Valid
+8048,Not Valid
+8049,Not Valid
+8050,0.12430089712142944
+8051,0.5
+8052,Not Valid
+8053,Not Valid
+8054,Not Valid
+8055,Not Valid
+8056,0.5
+8057,Not Valid
+8058,Not Valid
+8059,0.22370651364326477
+8060,Not Valid
+8061,0.8161296844482422
+8062,Not Valid
+8063,Not Valid
+8064,Not Valid
+8065,0.19943827390670776
+8066,Not Valid
+8067,Not Valid
+8068,Not Valid
+8069,Not Valid
+8070,0.19154655933380127
+8071,Not Valid
+8072,Not Valid
+8073,Not Valid
+8074,Not Valid
+8075,Not Valid
+8076,Not Valid
+8077,Not Valid
+8078,Not Valid
+8079,Not Valid
+8080,Not Valid
+8081,0.5
+8082,Not Valid
+8083,Not Valid
+8084,0.23733898997306824
+8085,Not Valid
+8086,Not Valid
+8087,Not Valid
+8088,Not Valid
+8089,0.25991541147232056
+8090,0.908918023109436
+8091,0.23677173256874084
+8092,Not Valid
+8093,Not Valid
+8094,Not Valid
+8095,Not Valid
+8096,Not Valid
+8097,Not Valid
+8098,0.8034675121307373
+8099,Not Valid
+8100,Not Valid
+8101,Not Valid
+8102,0.1493428647518158
+8103,Not Valid
+8104,Not Valid
+8105,0.18385717272758484
+8106,Not Valid
+8107,Not Valid
+8108,Not Valid
+8109,Not Valid
+8110,Not Valid
+8111,Not Valid
+8112,0.7954220771789551
+8113,0.1295366883277893
+8114,Not Valid
+8115,Not Valid
+8116,Not Valid
+8117,Not Valid
+8118,Not Valid
+8119,Not Valid
+8120,Not Valid
+8121,Not Valid
+8122,Not Valid
+8123,0.09588918089866638
+8124,Not Valid
+8125,Not Valid
+8126,Not Valid
+8127,0.5
+8128,Not Valid
+8129,Not Valid
+8130,Not Valid
+8131,Not Valid
+8132,Not Valid
+8133,Not Valid
+8134,Not Valid
+8135,Not Valid
+8136,Not Valid
+8137,Not Valid
+8138,Not Valid
+8139,Not Valid
+8140,Not Valid
+8141,Not Valid
+8142,Not Valid
+8143,Not Valid
+8144,Not Valid
+8145,Not Valid
+8146,Not Valid
+8147,0.213581383228302
+8148,Not Valid
+8149,Not Valid
+8150,Not Valid
+8151,0.834933876991272
+8152,Not Valid
+8153,Not Valid
+8154,0.5
+8155,Not Valid
+8156,0.5
+8157,Not Valid
+8158,Not Valid
+8159,Not Valid
+8160,Not Valid
+8161,Not Valid
+8162,Not Valid
+8163,Not Valid
+8164,Not Valid
+8165,Not Valid
+8166,Not Valid
+8167,Not Valid
+8168,Not Valid
+8169,0.8774354457855225
+8170,Not Valid
+8171,0.2910405993461609
+8172,Not Valid
+8173,Not Valid
+8174,Not Valid
+8175,Not Valid
+8176,Not Valid
+8177,Not Valid
+8178,Not Valid
+8179,Not Valid
+8180,Not Valid
+8181,Not Valid
+8182,0.5
+8183,Not Valid
+8184,Not Valid
+8185,Not Valid
+8186,Not Valid
+8187,Not Valid
+8188,Not Valid
+8189,Not Valid
+8190,Not Valid
+8191,Not Valid
+8192,Not Valid
+8193,Not Valid
+8194,0.5
+8195,Not Valid
+8196,Not Valid
+8197,Not Valid
+8198,Not Valid
+8199,Not Valid
+8200,Not Valid
+8201,Not Valid
+8202,Not Valid
+8203,0.035025060176849365
+8204,Not Valid
+8205,Not Valid
+8206,Not Valid
+8207,Not Valid
+8208,Not Valid
+8209,Not Valid
+8210,Not Valid
+8211,Not Valid
+8212,Not Valid
+8213,Not Valid
+8214,0.17025789618492126
+8215,Not Valid
+8216,Not Valid
+8217,Not Valid
+8218,Not Valid
+8219,Not Valid
+8220,Not Valid
+8221,Not Valid
+8222,Not Valid
+8223,Not Valid
+8224,Not Valid
+8225,Not Valid
+8226,0.891288161277771
+8227,Not Valid
+8228,Not Valid
+8229,Not Valid
+8230,0.990827202796936
+8231,0.9773314595222473
+8232,Not Valid
+8233,Not Valid
+8234,0.5
+8235,Not Valid
+8236,Not Valid
+8237,0.18317911028862
+8238,Not Valid
+8239,Not Valid
+8240,Not Valid
+8241,0.7535216808319092
+8242,Not Valid
+8243,Not Valid
+8244,Not Valid
+8245,0.09608104825019836
+8246,Not Valid
+8247,Not Valid
+8248,Not Valid
+8249,Not Valid
+8250,Not Valid
+8251,Not Valid
+8252,Not Valid
+8253,Not Valid
+8254,Not Valid
+8255,Not Valid
+8256,0.10646319389343262
+8257,0.5
+8258,0.20512518286705017
+8259,Not Valid
+8260,Not Valid
+8261,0.21989122033119202
+8262,0.0328754186630249
+8263,Not Valid
+8264,Not Valid
+8265,Not Valid
+8266,0.5
+8267,Not Valid
+8268,0.7664613723754883
+8269,Not Valid
+8270,Not Valid
+8271,0.2137179672718048
+8272,Not Valid
+8273,Not Valid
+8274,Not Valid
+8275,Not Valid
+8276,0.23076745867729187
+8277,0.894626259803772
+8278,Not Valid
+8279,Not Valid
+8280,Not Valid
+8281,Not Valid
+8282,Not Valid
+8283,Not Valid
+8284,Not Valid
+8285,Not Valid
+8286,Not Valid
+8287,Not Valid
+8288,Not Valid
+8289,Not Valid
+8290,Not Valid
+8291,Not Valid
+8292,Not Valid
+8293,Not Valid
+8294,Not Valid
+8295,Not Valid
+8296,Not Valid
+8297,Not Valid
+8298,Not Valid
+8299,Not Valid
+8300,Not Valid
+8301,Not Valid
+8302,0.1739731729030609
+8303,0.08923441171646118
+8304,0.1749168336391449
+8305,Not Valid
+8306,0.05089130997657776
+8307,Not Valid
+8308,Not Valid
+8309,Not Valid
+8310,Not Valid
+8311,Not Valid
+8312,Not Valid
+8313,Not Valid
+8314,Not Valid
+8315,Not Valid
+8316,Not Valid
+8317,Not Valid
+8318,Not Valid
+8319,Not Valid
+8320,Not Valid
+8321,0.11098182201385498
+8322,Not Valid
+8323,Not Valid
+8324,Not Valid
+8325,0.2171318531036377
+8326,Not Valid
+8327,0.23050257563591003
+8328,Not Valid
+8329,0.5
+8330,0.9968584775924683
+8331,0.25215283036231995
+8332,Not Valid
+8333,Not Valid
+8334,Not Valid
+8335,Not Valid
+8336,Not Valid
+8337,0.5
+8338,0.1926305890083313
+8339,Not Valid
+8340,Not Valid
+8341,Not Valid
+8342,Not Valid
+8343,Not Valid
+8344,0.07610145211219788
+8345,Not Valid
+8346,Not Valid
+8347,0.04534217715263367
+8348,0.8568648099899292
+8349,0.012418240308761597
+8350,Not Valid
+8351,Not Valid
+8352,Not Valid
+8353,0.28776562213897705
+8354,Not Valid
+8355,0.7710857391357422
+8356,Not Valid
+8357,Not Valid
+8358,Not Valid
+8359,Not Valid
+8360,Not Valid
+8361,0.07576695084571838
+8362,Not Valid
+8363,0.01599818468093872
+8364,0.5
+8365,Not Valid
+8366,0.698797345161438
+8367,Not Valid
+8368,Not Valid
+8369,Not Valid
+8370,0.9230459928512573
+8371,0.0411095917224884
+8372,Not Valid
+8373,Not Valid
+8374,Not Valid
+8375,Not Valid
+8376,Not Valid
+8377,Not Valid
+8378,Not Valid
+8379,Not Valid
+8380,Not Valid
+8381,Not Valid
+8382,Not Valid
+8383,Not Valid
+8384,Not Valid
+8385,Not Valid
+8386,Not Valid
+8387,Not Valid
+8388,0.7852318286895752
+8389,Not Valid
+8390,Not Valid
+8391,Not Valid
+8392,Not Valid
+8393,Not Valid
+8394,Not Valid
+8395,Not Valid
+8396,Not Valid
+8397,Not Valid
+8398,0.06281286478042603
+8399,Not Valid
+8400,Not Valid
+8401,Not Valid
+8402,Not Valid
+8403,Not Valid
+8404,Not Valid
+8405,0.6755350232124329
+8406,0.06514516472816467
+8407,Not Valid
+8408,Not Valid
+8409,Not Valid
+8410,Not Valid
+8411,Not Valid
+8412,Not Valid
+8413,Not Valid
+8414,Not Valid
+8415,Not Valid
+8416,0.16867280006408691
+8417,Not Valid
+8418,Not Valid
+8419,Not Valid
+8420,Not Valid
+8421,Not Valid
+8422,Not Valid
+8423,0.23156502842903137
+8424,0.10093924403190613
+8425,0.8353023529052734
+8426,Not Valid
+8427,Not Valid
+8428,0.32561761140823364
+8429,0.7409257888793945
+8430,0.5
+8431,0.7927809953689575
+8432,Not Valid
+8433,0.2140272557735443
+8434,Not Valid
+8435,Not Valid
+8436,0.8602396249771118
+8437,Not Valid
+8438,Not Valid
+8439,Not Valid
+8440,Not Valid
+8441,Not Valid
+8442,Not Valid
+8443,Not Valid
+8444,Not Valid
+8445,Not Valid
+8446,Not Valid
+8447,Not Valid
+8448,0.5
+8449,Not Valid
+8450,Not Valid
+8451,Not Valid
+8452,0.8549965620040894
+8453,Not Valid
+8454,Not Valid
+8455,Not Valid
+8456,Not Valid
+8457,0.14969593286514282
+8458,Not Valid
+8459,0.088764488697052
+8460,Not Valid
+8461,Not Valid
+8462,Not Valid
+8463,Not Valid
+8464,Not Valid
+8465,Not Valid
+8466,Not Valid
+8467,Not Valid
+8468,0.5
+8469,Not Valid
+8470,Not Valid
+8471,Not Valid
+8472,Not Valid
+8473,Not Valid
+8474,Not Valid
+8475,Not Valid
+8476,0.5
+8477,Not Valid
+8478,Not Valid
+8479,Not Valid
+8480,Not Valid
+8481,Not Valid
+8482,Not Valid
+8483,Not Valid
+8484,Not Valid
+8485,Not Valid
+8486,0.5
+8487,Not Valid
+8488,0.7810968160629272
+8489,Not Valid
+8490,Not Valid
+8491,Not Valid
+8492,Not Valid
+8493,Not Valid
+8494,Not Valid
+8495,Not Valid
+8496,Not Valid
+8497,Not Valid
+8498,Not Valid
+8499,Not Valid
+8500,Not Valid
+8501,0.837371826171875
+8502,Not Valid
+8503,Not Valid
+8504,Not Valid
+8505,Not Valid
+8506,Not Valid
+8507,0.5
+8508,Not Valid
+8509,0.7779319286346436
+8510,0.5
+8511,Not Valid
+8512,Not Valid
+8513,Not Valid
+8514,Not Valid
+8515,Not Valid
+8516,0.08971601724624634
+8517,Not Valid
+8518,Not Valid
+8519,Not Valid
+8520,Not Valid
+8521,Not Valid
+8522,Not Valid
+8523,Not Valid
+8524,0.03259226679801941
+8525,Not Valid
+8526,0.06304824352264404
+8527,Not Valid
+8528,0.5
+8529,Not Valid
+8530,Not Valid
+8531,Not Valid
+8532,0.0227644145488739
+8533,Not Valid
+8534,Not Valid
+8535,Not Valid
+8536,Not Valid
+8537,Not Valid
+8538,Not Valid
+8539,Not Valid
+8540,Not Valid
+8541,Not Valid
+8542,Not Valid
+8543,0.1265711486339569
+8544,Not Valid
+8545,Not Valid
+8546,0.2223891019821167
+8547,Not Valid
+8548,Not Valid
+8549,Not Valid
+8550,Not Valid
+8551,Not Valid
+8552,Not Valid
+8553,Not Valid
+8554,Not Valid
+8555,Not Valid
+8556,0.7952733039855957
+8557,0.5
+8558,Not Valid
+8559,Not Valid
+8560,Not Valid
+8561,Not Valid
+8562,Not Valid
+8563,Not Valid
+8564,Not Valid
+8565,Not Valid
+8566,Not Valid
+8567,Not Valid
+8568,Not Valid
+8569,Not Valid
+8570,Not Valid
+8571,Not Valid
+8572,Not Valid
+8573,Not Valid
+8574,Not Valid
+8575,Not Valid
+8576,Not Valid
+8577,Not Valid
+8578,0.8454450368881226
+8579,Not Valid
+8580,Not Valid
+8581,Not Valid
+8582,Not Valid
+8583,Not Valid
+8584,Not Valid
+8585,Not Valid
+8586,Not Valid
+8587,Not Valid
+8588,Not Valid
+8589,Not Valid
+8590,Not Valid
+8591,Not Valid
+8592,0.1717948019504547
+8593,Not Valid
+8594,Not Valid
+8595,0.2250186800956726
+8596,Not Valid
+8597,Not Valid
+8598,Not Valid
+8599,Not Valid
+8600,0.06274369359016418
+8601,Not Valid
+8602,Not Valid
+8603,Not Valid
+8604,Not Valid
+8605,Not Valid
+8606,Not Valid
+8607,Not Valid
+8608,Not Valid
+8609,Not Valid
+8610,Not Valid
+8611,Not Valid
+8612,Not Valid
+8613,Not Valid
+8614,Not Valid
+8615,Not Valid
+8616,Not Valid
+8617,Not Valid
+8618,Not Valid
+8619,Not Valid
+8620,Not Valid
+8621,Not Valid
+8622,Not Valid
+8623,0.9870761036872864
+8624,Not Valid
+8625,Not Valid
+8626,Not Valid
+8627,Not Valid
+8628,Not Valid
+8629,Not Valid
+8630,Not Valid
+8631,Not Valid
+8632,Not Valid
+8633,Not Valid
+8634,Not Valid
+8635,Not Valid
+8636,Not Valid
+8637,Not Valid
+8638,Not Valid
+8639,Not Valid
+8640,Not Valid
+8641,Not Valid
+8642,0.2334567904472351
+8643,Not Valid
+8644,Not Valid
+8645,Not Valid
+8646,0.17558622360229492
+8647,Not Valid
+8648,Not Valid
+8649,0.19757208228111267
+8650,Not Valid
+8651,Not Valid
+8652,Not Valid
+8653,0.9049140214920044
+8654,0.9588489532470703
+8655,Not Valid
+8656,Not Valid
+8657,Not Valid
+8658,Not Valid
+8659,Not Valid
+8660,0.11982780694961548
+8661,Not Valid
+8662,0.32076460123062134
+8663,Not Valid
+8664,0.7934598922729492
+8665,0.16442030668258667
+8666,Not Valid
+8667,Not Valid
+8668,Not Valid
+8669,Not Valid
+8670,0.839682936668396
+8671,Not Valid
+8672,Not Valid
+8673,Not Valid
+8674,Not Valid
+8675,Not Valid
+8676,Not Valid
+8677,Not Valid
+8678,Not Valid
+8679,Not Valid
+8680,0.787765383720398
+8681,Not Valid
+8682,Not Valid
+8683,Not Valid
+8684,0.7607537508010864
+8685,Not Valid
+8686,0.9038256406784058
+8687,Not Valid
+8688,Not Valid
+8689,Not Valid
+8690,Not Valid
+8691,Not Valid
+8692,Not Valid
+8693,0.9770174622535706
+8694,Not Valid
+8695,Not Valid
+8696,0.17552506923675537
+8697,Not Valid
+8698,Not Valid
+8699,Not Valid
+8700,0.6868446469306946
+8701,Not Valid
+8702,Not Valid
+8703,Not Valid
+8704,Not Valid
+8705,Not Valid
+8706,Not Valid
+8707,Not Valid
+8708,Not Valid
+8709,Not Valid
+8710,Not Valid
+8711,Not Valid
+8712,Not Valid
+8713,0.7318041324615479
+8714,0.7336804866790771
+8715,Not Valid
+8716,Not Valid
+8717,Not Valid
+8718,0.17060944437980652
+8719,Not Valid
+8720,Not Valid
+8721,Not Valid
+8722,0.9715683460235596
+8723,Not Valid
+8724,Not Valid
+8725,Not Valid
+8726,0.003026902675628662
+8727,Not Valid
+8728,Not Valid
+8729,Not Valid
+8730,Not Valid
+8731,Not Valid
+8732,Not Valid
+8733,Not Valid
+8734,0.1528550684452057
+8735,Not Valid
+8736,Not Valid
+8737,Not Valid
+8738,Not Valid
+8739,Not Valid
+8740,0.19724974036216736
+8741,Not Valid
+8742,Not Valid
+8743,Not Valid
+8744,Not Valid
+8745,Not Valid
+8746,Not Valid
+8747,0.17139887809753418
+8748,Not Valid
+8749,0.08686771988868713
+8750,0.24086403846740723
+8751,Not Valid
+8752,Not Valid
+8753,Not Valid
+8754,Not Valid
+8755,0.021432042121887207
+8756,Not Valid
+8757,Not Valid
+8758,Not Valid
+8759,0.2633538246154785
+8760,Not Valid
+8761,Not Valid
+8762,0.7237904071807861
+8763,Not Valid
+8764,Not Valid
+8765,Not Valid
+8766,0.011155277490615845
+8767,Not Valid
+8768,0.30202338099479675
+8769,Not Valid
+8770,Not Valid
+8771,0.08660942316055298
+8772,Not Valid
+8773,Not Valid
+8774,Not Valid
+8775,Not Valid
+8776,Not Valid
+8777,Not Valid
+8778,Not Valid
+8779,Not Valid
+8780,Not Valid
+8781,Not Valid
+8782,0.1540440022945404
+8783,Not Valid
+8784,Not Valid
+8785,0.5
+8786,Not Valid
+8787,Not Valid
+8788,Not Valid
+8789,Not Valid
+8790,0.8477634787559509
+8791,Not Valid
+8792,Not Valid
+8793,0.5
+8794,Not Valid
+8795,0.2233334481716156
+8796,Not Valid
+8797,Not Valid
+8798,Not Valid
+8799,Not Valid
+8800,Not Valid
+8801,Not Valid
+8802,0.13416334986686707
+8803,0.09528490900993347
+8804,Not Valid
+8805,0.7950184345245361
+8806,Not Valid
+8807,Not Valid
+8808,Not Valid
+8809,0.7772107124328613
+8810,Not Valid
+8811,0.11243236064910889
+8812,0.014262288808822632
+8813,Not Valid
+8814,Not Valid
+8815,Not Valid
+8816,0.8883170485496521
+8817,Not Valid
+8818,Not Valid
+8819,Not Valid
+8820,Not Valid
+8821,Not Valid
+8822,Not Valid
+8823,Not Valid
+8824,Not Valid
+8825,Not Valid
+8826,Not Valid
+8827,Not Valid
+8828,Not Valid
+8829,Not Valid
+8830,0.5
+8831,Not Valid
+8832,0.09670725464820862
+8833,Not Valid
+8834,Not Valid
+8835,Not Valid
+8836,Not Valid
+8837,Not Valid
+8838,Not Valid
+8839,Not Valid
+8840,Not Valid
+8841,Not Valid
+8842,Not Valid
+8843,Not Valid
+8844,0.5
+8845,Not Valid
+8846,Not Valid
+8847,0.21387505531311035
+8848,0.9338319897651672
+8849,Not Valid
+8850,Not Valid
+8851,Not Valid
+8852,Not Valid
+8853,Not Valid
+8854,Not Valid
+8855,Not Valid
+8856,Not Valid
+8857,Not Valid
+8858,Not Valid
+8859,Not Valid
+8860,0.938188910484314
+8861,Not Valid
+8862,0.5
+8863,Not Valid
+8864,Not Valid
+8865,Not Valid
+8866,Not Valid
+8867,0.2577548027038574
+8868,Not Valid
+8869,0.27592968940734863
+8870,0.2021137773990631
+8871,Not Valid
+8872,Not Valid
+8873,0.7691235542297363
+8874,Not Valid
+8875,Not Valid
+8876,Not Valid
+8877,Not Valid
+8878,0.03852468729019165
+8879,Not Valid
+8880,Not Valid
+8881,Not Valid
+8882,Not Valid
+8883,Not Valid
+8884,Not Valid
+8885,Not Valid
+8886,Not Valid
+8887,0.15886646509170532
+8888,0.02464193105697632
+8889,Not Valid
+8890,Not Valid
+8891,Not Valid
+8892,Not Valid
+8893,Not Valid
+8894,Not Valid
+8895,Not Valid
+8896,Not Valid
+8897,Not Valid
+8898,Not Valid
+8899,0.16928383708000183
+8900,Not Valid
+8901,Not Valid
+8902,Not Valid
+8903,Not Valid
+8904,Not Valid
+8905,0.1416921317577362
+8906,Not Valid
+8907,Not Valid
+8908,Not Valid
+8909,Not Valid
+8910,Not Valid
+8911,Not Valid
+8912,Not Valid
+8913,Not Valid
+8914,Not Valid
+8915,Not Valid
+8916,Not Valid
+8917,0.11385607719421387
+8918,Not Valid
+8919,Not Valid
+8920,Not Valid
+8921,0.10569465160369873
+8922,Not Valid
+8923,Not Valid
+8924,Not Valid
+8925,Not Valid
+8926,Not Valid
+8927,Not Valid
+8928,Not Valid
+8929,Not Valid
+8930,Not Valid
+8931,0.5
+8932,Not Valid
+8933,Not Valid
+8934,Not Valid
+8935,Not Valid
+8936,Not Valid
+8937,Not Valid
+8938,Not Valid
+8939,Not Valid
+8940,Not Valid
+8941,Not Valid
+8942,Not Valid
+8943,Not Valid
+8944,Not Valid
+8945,Not Valid
+8946,Not Valid
+8947,Not Valid
+8948,Not Valid
+8949,Not Valid
+8950,0.5
+8951,Not Valid
+8952,Not Valid
+8953,Not Valid
+8954,Not Valid
+8955,Not Valid
+8956,0.5
+8957,0.23493963479995728
+8958,Not Valid
+8959,Not Valid
+8960,Not Valid
+8961,Not Valid
+8962,Not Valid
+8963,Not Valid
+8964,Not Valid
+8965,Not Valid
+8966,Not Valid
+8967,Not Valid
+8968,Not Valid
+8969,Not Valid
+8970,0.8906718492507935
+8971,Not Valid
+8972,Not Valid
+8973,Not Valid
+8974,Not Valid
+8975,Not Valid
+8976,Not Valid
+8977,Not Valid
+8978,Not Valid
+8979,Not Valid
+8980,0.03243383765220642
+8981,Not Valid
+8982,Not Valid
+8983,Not Valid
+8984,0.9622553586959839
+8985,0.18970033526420593
+8986,Not Valid
+8987,0.22188758850097656
+8988,Not Valid
+8989,0.25438112020492554
+8990,Not Valid
+8991,Not Valid
+8992,Not Valid
+8993,Not Valid
+8994,Not Valid
+8995,Not Valid
+8996,Not Valid
+8997,0.1297418773174286
+8998,Not Valid
+8999,Not Valid
+9000,Not Valid
+9001,Not Valid
+9002,Not Valid
+9003,Not Valid
+9004,0.5
+9005,Not Valid
+9006,Not Valid
+9007,Not Valid
+9008,Not Valid
+9009,Not Valid
+9010,Not Valid
+9011,0.5
+9012,Not Valid
+9013,0.7678703665733337
+9014,Not Valid
+9015,Not Valid
+9016,Not Valid
+9017,Not Valid
+9018,0.07431864738464355
+9019,Not Valid
+9020,Not Valid
+9021,Not Valid
+9022,0.818125307559967
+9023,Not Valid
+9024,Not Valid
+9025,0.786824107170105
+9026,0.19929355382919312
+9027,0.19571062922477722
+9028,0.9212257862091064
+9029,Not Valid
+9030,Not Valid
+9031,Not Valid
+9032,Not Valid
+9033,0.5
+9034,Not Valid
+9035,Not Valid
+9036,Not Valid
+9037,Not Valid
+9038,Not Valid
+9039,0.04437154531478882
+9040,Not Valid
+9041,0.8503445386886597
+9042,Not Valid
+9043,0.5
+9044,Not Valid
+9045,Not Valid
+9046,0.5
+9047,Not Valid
+9048,Not Valid
+9049,Not Valid
+9050,0.16049885749816895
+9051,Not Valid
+9052,0.7593159675598145
+9053,0.7707574963569641
+9054,0.1523323953151703
+9055,Not Valid
+9056,Not Valid
+9057,Not Valid
+9058,Not Valid
+9059,Not Valid
+9060,Not Valid
+9061,Not Valid
+9062,Not Valid
+9063,Not Valid
+9064,Not Valid
+9065,Not Valid
+9066,Not Valid
+9067,Not Valid
+9068,Not Valid
+9069,Not Valid
+9070,Not Valid
+9071,Not Valid
+9072,Not Valid
+9073,Not Valid
+9074,Not Valid
+9075,Not Valid
+9076,0.7848040461540222
+9077,Not Valid
+9078,Not Valid
+9079,Not Valid
+9080,Not Valid
+9081,Not Valid
+9082,Not Valid
+9083,Not Valid
+9084,Not Valid
+9085,0.5
+9086,Not Valid
+9087,Not Valid
+9088,Not Valid
+9089,Not Valid
+9090,0.1371966004371643
+9091,Not Valid
+9092,Not Valid
+9093,Not Valid
+9094,Not Valid
+9095,Not Valid
+9096,Not Valid
+9097,Not Valid
+9098,Not Valid
+9099,Not Valid
+9100,Not Valid
+9101,Not Valid
+9102,Not Valid
+9103,Not Valid
+9104,0.3076086938381195
+9105,Not Valid
+9106,Not Valid
+9107,Not Valid
+9108,Not Valid
+9109,Not Valid
+9110,Not Valid
+9111,Not Valid
+9112,Not Valid
+9113,Not Valid
+9114,Not Valid
+9115,Not Valid
+9116,Not Valid
+9117,0.037166327238082886
+9118,Not Valid
+9119,Not Valid
+9120,Not Valid
+9121,Not Valid
+9122,Not Valid
+9123,Not Valid
+9124,Not Valid
+9125,0.5
+9126,0.8872632384300232
+9127,Not Valid
+9128,Not Valid
+9129,Not Valid
+9130,Not Valid
+9131,Not Valid
+9132,Not Valid
+9133,Not Valid
+9134,0.30413687229156494
+9135,Not Valid
+9136,Not Valid
+9137,0.20605269074440002
+9138,Not Valid
+9139,Not Valid
+9140,Not Valid
+9141,Not Valid
+9142,Not Valid
+9143,Not Valid
+9144,Not Valid
+9145,Not Valid
+9146,Not Valid
+9147,Not Valid
+9148,Not Valid
+9149,Not Valid
+9150,0.5
+9151,Not Valid
+9152,Not Valid
+9153,Not Valid
+9154,0.5
+9155,Not Valid
+9156,Not Valid
+9157,Not Valid
+9158,Not Valid
+9159,Not Valid
+9160,0.2447180151939392
+9161,Not Valid
+9162,Not Valid
+9163,0.9528704881668091
+9164,Not Valid
+9165,0.28604787588119507
+9166,Not Valid
+9167,Not Valid
+9168,Not Valid
+9169,Not Valid
+9170,Not Valid
+9171,Not Valid
+9172,Not Valid
+9173,Not Valid
+9174,Not Valid
+9175,Not Valid
+9176,0.8347890377044678
+9177,Not Valid
+9178,Not Valid
+9179,Not Valid
+9180,0.07260742783546448
+9181,Not Valid
+9182,0.5
+9183,0.9397025108337402
+9184,Not Valid
+9185,Not Valid
+9186,Not Valid
+9187,Not Valid
+9188,Not Valid
+9189,Not Valid
+9190,Not Valid
+9191,Not Valid
+9192,Not Valid
+9193,Not Valid
+9194,Not Valid
+9195,Not Valid
+9196,Not Valid
+9197,Not Valid
+9198,0.25319021940231323
+9199,0.7223858833312988
+9200,0.7278510332107544
+9201,Not Valid
+9202,Not Valid
+9203,0.1650141179561615
+9204,Not Valid
+9205,Not Valid
+9206,Not Valid
+9207,Not Valid
+9208,0.26062333583831787
+9209,Not Valid
+9210,Not Valid
+9211,Not Valid
+9212,Not Valid
+9213,Not Valid
+9214,Not Valid
+9215,Not Valid
+9216,Not Valid
+9217,Not Valid
+9218,0.07467755675315857
+9219,Not Valid
+9220,Not Valid
+9221,Not Valid
+9222,Not Valid
+9223,0.9784219861030579
+9224,Not Valid
+9225,0.13319313526153564
+9226,Not Valid
+9227,Not Valid
+9228,Not Valid
+9229,0.826705813407898
+9230,Not Valid
+9231,Not Valid
+9232,0.7307774424552917
+9233,Not Valid
+9234,Not Valid
+9235,Not Valid
+9236,0.5
+9237,Not Valid
+9238,Not Valid
+9239,Not Valid
+9240,0.15441280603408813
+9241,Not Valid
+9242,Not Valid
+9243,0.16361287236213684
+9244,Not Valid
+9245,Not Valid
+9246,Not Valid
+9247,0.20310774445533752
+9248,Not Valid
+9249,Not Valid
+9250,Not Valid
+9251,Not Valid
+9252,Not Valid
+9253,Not Valid
+9254,Not Valid
+9255,Not Valid
+9256,Not Valid
+9257,Not Valid
+9258,Not Valid
+9259,Not Valid
+9260,Not Valid
+9261,Not Valid
+9262,0.826351523399353
+9263,Not Valid
+9264,Not Valid
+9265,Not Valid
+9266,Not Valid
+9267,Not Valid
+9268,Not Valid
+9269,Not Valid
+9270,0.1936490535736084
+9271,Not Valid
+9272,Not Valid
+9273,Not Valid
+9274,Not Valid
+9275,0.06812077760696411
+9276,Not Valid
+9277,Not Valid
+9278,Not Valid
+9279,Not Valid
+9280,Not Valid
+9281,Not Valid
+9282,Not Valid
+9283,Not Valid
+9284,0.08111631870269775
+9285,Not Valid
+9286,Not Valid
+9287,0.9203869104385376
+9288,Not Valid
+9289,Not Valid
+9290,Not Valid
+9291,Not Valid
+9292,Not Valid
+9293,Not Valid
+9294,Not Valid
+9295,Not Valid
+9296,Not Valid
+9297,Not Valid
+9298,Not Valid
+9299,0.07121947407722473
+9300,0.8926257491111755
+9301,Not Valid
+9302,0.10691383481025696
+9303,Not Valid
+9304,0.04888567328453064
+9305,Not Valid
+9306,0.760021448135376
+9307,Not Valid
+9308,Not Valid
+9309,Not Valid
+9310,Not Valid
+9311,Not Valid
+9312,Not Valid
+9313,Not Valid
+9314,Not Valid
+9315,Not Valid
+9316,Not Valid
+9317,0.28308406472206116
+9318,Not Valid
+9319,0.5
+9320,Not Valid
+9321,Not Valid
