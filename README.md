@@ -11,8 +11,12 @@ X2: Service (keywords: service, serve)<br/>
 X3: Ambience (keywords: packed, crowd, line, patience)<br/>
 X4: Staff Behavior (keywords: manager, employee)
 
-## Ambience to Kiosk
+## Sanitation to Kiosk Installation in LA
+![StoK](./image/Sanitation_Kiosk.png)
+
+In this plot, it shows the reviews are 
+
+## Ambience to Kiosk Installation in LA
 ![AtoK](./image/Ambience_Kiosk.png)
 
-## Sanitation to Kiosk
-![StoK](./image/Sanitation_Kiosk.png)
+
