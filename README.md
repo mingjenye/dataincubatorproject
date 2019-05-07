@@ -10,3 +10,9 @@ X1: Sanitation (keywords: clean, spotless, filthy, garbage)<br/>
 X2: Service (keywords: service, serve)<br/>
 X3: Ambience (keywords: packed, crowd, line, patience)<br/>
 X4: Staff Behavior (keywords: manager, employee)
+
+## Ambience to Kiosk
+![AtoK](./image/Ambience_Kiosk.png)
+
+## Sanitation to Kiosk
+![StoK](./image/Sanitation_Kiosk.png)
