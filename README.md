@@ -11,12 +11,12 @@ X2: Service (keywords: service, serve)<br/>
 X3: Ambience (keywords: packed, crowd, line, patience)<br/>
 X4: Staff Behavior (keywords: manager, employee)
 
-## Sanitation to Kiosk Installation in LA
-![StoK](./image/Sanitation_Kiosk.png)
+## Satisfacation of Sanitation and Ambience to Kiosk Installation in LA
+![SandAtoK](./image/SantoKandA.png)
 
-In this plot, it shows the reviews are 
+In this plot, it shows that the crowded restaurant has better satisfacation of Kiosk installation, which means this policy really help the customer.
 
-## Ambience to Kiosk Installation in LA
-![AtoK](./image/Ambience_Kiosk.png)
+## Satisfacation of Service and Staff Behavior to Kiosk Installation in LA
+![SerandStafftoK](./image/ServtoKandA.png)
 
-
+In this plot, it shows that the bad service makes the feedback of kiosk installation became useless, even though the restaurants had good staffs. So in these restaurants, installation kiosk cannot increase customer satisfacation, instead, they need to increase their service level.
